@@ -1,0 +1,8 @@
+baseurl = "http://benovermyer.com/"
+languageCode = "en-us"
+title = "Ben Overmyer"
+
+[params]
+  author = "Ben Overmyer"
+  description = "DevOps Practitioner and Author"
+  twitter_name = "bovermyer"

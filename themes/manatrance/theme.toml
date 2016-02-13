@@ -1,0 +1,11 @@
+name = "Mana Trance"
+description = "Just a theme for my site."
+homepage = "https://github.com/BenOvermyer/benovermyer.com"
+tags = ["minimal"]
+features = ["blog", "google analytics", "pagination", "rss", "sharing options"]
+min_version = 0.1
+
+[author]
+  name = "Ben Overmyer"
+  homepage = "http://benovermyer.com"
+

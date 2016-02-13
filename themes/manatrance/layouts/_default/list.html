@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+<body>
+{{ partial "header.html" . }}
+<div class="row">
+	<div class="small-12 columns">
+	{{ range .Paginator.Pages }}
+		{{ .Render "li" }}
+	{{ end }}
+	</div>
+</main>
+{{ partial "footer.html" . }}
+{{ partial "google_analytics.html" . }}
+</body>
+</html>

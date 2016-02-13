@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+<body>
+{{ partial "header.html" . }}
+<div class="row">
+	<div class="small-4 columns">
+    <a href="{{ .Site.BaseURL }}about"><h2 class="link-title">About</h2></a>
+    <p class="link-description">Learn about who I am.</p>
+	</div>
+  <div class="small-4 columns">
+    <a href="https://github.com/BenOvermyer"><h2 class="link-title">GitHub</h2></a>
+    <p class="link-description">View code that I've developed.</p>
+	</div>
+  <div class="small-4 columns">
+    <a href="{{ .Site.BaseURL }}about/published-works"><h2 class="link-title">Published Works</h2></a>
+    <p class="link-description">See some of what I've written.</p>
+	</div>
+</main>
+{{ partial "footer.html" . }}
+{{ partial "google_analytics.html" . }}
+</body>
+</html>

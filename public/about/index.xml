@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ben Overmyer</title>
+    <link>http://benovermyer.com/about/</link>
+    <description>Recent content in Abouts on Ben Overmyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Feb 2016 09:09:03 -0600</lastBuildDate>
+    <atom:link href="http://benovermyer.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Published Works</title>
+      <link>http://benovermyer.com/about/published-works/</link>
+      <pubDate>Sat, 13 Feb 2016 09:09:03 -0600</pubDate>
+      
+      <guid>http://benovermyer.com/about/published-works/</guid>
+      <description>
+
+&lt;p&gt;Over the years I’ve released a variety of books, articles, and other documents into the wild. Some of these were published in the true print sense, and some were only released online.&lt;/p&gt;
+
+&lt;p&gt;These are listed in reverse chronological order. Where possible, I included a link to the most recent publicly available version. I’ve only listed those works where I was the sole or primary author.&lt;/p&gt;
+
+&lt;h2 id=&#34;books:5a9664ecce4f2fab3c97d46bd817ab60&#34;&gt;Books&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/124154/Master-Nicholas-and-the-Wayward-Wizardy&#34;&gt;Master Nicholas and the Wayward Wizardry&lt;/a&gt; (Silver Gryphon Games, 2013)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/112347/A-Darkness-at-Summerfort&#34;&gt;A Darkness at Summerfort&lt;/a&gt; (Silver Gryphon Games, 2013)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/86469/Ingenium&#34;&gt;Ingenium™&lt;/a&gt; (Silver Gryphon Games, 2010)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Iridium Fantasy (Self-Published, 1998) &lt;em&gt;Note: This has nothing to do with the Iridium RPG currently published by HinterWelt Enterprises&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vox Draconis™ (Self-Published, 1997)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;articles:5a9664ecce4f2fab3c97d46bd817ab60&#34;&gt;Articles&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Creating Convincing Villains (The Amethyst Alliance/The RPG Consortium, 2004)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://benovermyer.com/about/</link>
+      <pubDate>Sat, 13 Feb 2016 08:46:57 -0600</pubDate>
+      
+      <guid>http://benovermyer.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Over the last twenty years, it has changed the world. It&amp;rsquo;s my job and my passion to make it better.&lt;/p&gt;
+
+&lt;p&gt;I have travelled the world, lived abroad, and usually only ever lived in one place for a couple years. That changed when I moved to Minneapolis. Of all the places I&amp;rsquo;ve lived on this globe, Minneapolis has been my favorite.&lt;/p&gt;
+
+&lt;p&gt;It helps that Minneapolis is turning into a tech hub with a wealth of interesting people doing interesting things with the web.&lt;/p&gt;
+
+&lt;p&gt;My particular focus in the world of the web is in DevOps. I love the idea of melding together operations and development into a kind of superdiscipline. Even better is how the philosophy of DevOps helps people help each other.&lt;/p&gt;
+
+&lt;p&gt;I started my professional career as a developer, not a system administrator. Now I&amp;rsquo;m an operations manager. What a long, strange trip it&amp;rsquo;s been.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
