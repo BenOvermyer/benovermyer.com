@@ -6,8 +6,151 @@
     <description>Recent content on Ben Overmyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2016 09:09:03 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 18:09:03 -0600</lastBuildDate>
     <atom:link href="http://benovermyer.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Résumé</title>
+      <link>http://benovermyer.com/about/resume/</link>
+      <pubDate>Thu, 25 Feb 2016 18:09:03 -0600</pubDate>
+      
+      <guid>http://benovermyer.com/about/resume/</guid>
+      <description>
+
+&lt;p&gt;The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path, and I couldn&amp;rsquo;t be happier about it. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on &lt;a href=&#34;http://pathfinder.space&#34;&gt;my personal blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Specialties:&lt;/strong&gt; AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps philosophy, knowledge sharing, and leading effective teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Preferred Programming Languages:&lt;/strong&gt; &lt;a href=&#34;http://sobit.me/2016/02/25/go-from-php-engineers-perspective/&#34;&gt;Go&lt;/a&gt;, PHP, Python, JavaScript/Node.js&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ancillary Skills:&lt;/strong&gt; Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools of Choice:&lt;/strong&gt; &lt;a href=&#34;https://pascalprecht.github.io/2014/03/18/why-i-use-vim/&#34;&gt;Vim&lt;/a&gt;, &lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;, &lt;a href=&#34;https://www.docker.com/&#34;&gt;Docker&lt;/a&gt;, Mac OS X (for workstation), Linux (for servers, and sometimes workstation), &lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt; (if Docker is unavailable), &lt;a href=&#34;https://www.packer.io/&#34;&gt;Packer&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;work-history:c59a67a3c7bc5faa453847420267045e&#34;&gt;Work History&lt;/h2&gt;
+
+&lt;h3 id=&#34;digital-manager-operations-at-the-minneapolis-star-tribune:c59a67a3c7bc5faa453847420267045e&#34;&gt;Digital Manager, Operations at the Minneapolis Star Tribune&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;September 2015 to Present&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I manage the operations team for the Digital department at the Star Tribune. I oversee and guide the implementation and maintenance of our digital infrastructure, as well as lead initiatives to improve performance, cost effectiveness, and general awesomeness of the same. I also handle most of the more complex engineering tasks for the operations team, such as developing new Ansible processes, writing monitoring services in Go, and implementing tools for which no internally documented process exists.&lt;/p&gt;
+
+&lt;h3 id=&#34;senior-software-engineer-at-the-minneapolis-star-tribune:c59a67a3c7bc5faa453847420267045e&#34;&gt;Senior Software Engineer at the Minneapolis Star Tribune&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;September 2013 to September 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I worked on a variety of systems to keep the &lt;a href=&#34;http://www.startribune.com&#34;&gt;Twin Cities&amp;rsquo; best newspaper&lt;/a&gt; on the front edge of the digital frontier. Foremost, I was the lead operations engineer responsible for architecting the infrastructure for the Star Tribune&amp;rsquo;s newly-rebuilt 2015 web platform.&lt;/p&gt;
+
+&lt;h3 id=&#34;creative-director-at-silver-gryphon-games:c59a67a3c7bc5faa453847420267045e&#34;&gt;Creative Director at Silver Gryphon Games&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;June 2007 to November 2014&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I was co-owner, art director, layout artist, colorist, and Ingenium&amp;trade; brand manager of &lt;a href=&#34;http://www.silvergryphongames.com&#34;&gt;this tabletop gaming company&lt;/a&gt;. In this capacity I also authored several fantasy gaming books.&lt;/p&gt;
+
+&lt;h3 id=&#34;senior-web-developer-at-sportsdigita:c59a67a3c7bc5faa453847420267045e&#34;&gt;Senior Web Developer at Sportsdigita&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;May 2013 to September 2013&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For the most part, I worked on back end systems using PHP and MySQL, with a heavy dose of Symfony2 and Doctrine. I was also the core developer of a versatile survey platform, the front end of which was built in AngularJS.&lt;/p&gt;
+
+&lt;h3 id=&#34;director-of-it-at-group-3-marketing:c59a67a3c7bc5faa453847420267045e&#34;&gt;Director of IT at Group 3 Marketing&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;August 2011 to May 2013&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to my duties as a lead developer, I managed the IT staff at G3M. Some of the things I did in this capacity include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reduced IT infrastructure costs by ~60% by migrating to cloud resources&lt;/li&gt;
+&lt;li&gt;Increased developer efficiency by introducing web-based time tracking to the IT team (and, later, the graphic design team).&lt;/li&gt;
+&lt;li&gt;Lead development of a web-based loyalty rewards system built on Symfony2, Doctrine, and Twig with a MySQL database&lt;/li&gt;
+&lt;li&gt;Introduced usage of version control (Git)&lt;/li&gt;
+&lt;li&gt;Reengineered legacy Visual Foxpro applications into PHP scripts and web applications&lt;/li&gt;
+&lt;li&gt;Designed, built, and maintained MySQL databases for client systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;software-engineer-at-chr-solutions:c59a67a3c7bc5faa453847420267045e&#34;&gt;Software Engineer at CHR Solutions&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;June 2011 to June 2011&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I worked on next-gen telecommunications solutions using C# and C++.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-developer-at-stinger-ghaffarian-technologies-usgs-eros-data-center:c59a67a3c7bc5faa453847420267045e&#34;&gt;Web Developer at Stinger Ghaffarian Technologies (USGS Eros Data Center)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;April 2008 to May 2011&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Aided in the development and design of several geospatial data delivery web applications. Reimagined, redesigned and took ownership of internal message board and other internal web-based communications projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-developer-at-saic-inc-usgs-eros-data-center:c59a67a3c7bc5faa453847420267045e&#34;&gt;Web Developer at SAIC, Inc. (USGS Eros Data Center)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;August 2007 to April 2008&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Developed web applications for internal use. Used Oracle Application Express, PHP, Oracle 10g, MySQL, Java, and other technologies.&lt;/p&gt;
+
+&lt;h3 id=&#34;freelancer-at-mana-trance-creative-services:c59a67a3c7bc5faa453847420267045e&#34;&gt;Freelancer at Mana Trance Creative Services&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;June 2002 to August 2007&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Over these six years I did freelance web design work on a sporadic basis.&lt;/p&gt;
+
+&lt;h3 id=&#34;computer-technician-marketing-director-and-web-designer-at-computer-one:c59a67a3c7bc5faa453847420267045e&#34;&gt;Computer Technician, Marketing Director, and Web Designer at Computer One&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;August 2006 to May 2007&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Repaired and built computers, provided extensive customer support, designed and maintained company website, designed and implemented public relations and marketing campaigns, designed and produced all internal artwork, logos, and stationary.&lt;/p&gt;
+
+&lt;h3 id=&#34;level-designer-at-binary-star:c59a67a3c7bc5faa453847420267045e&#34;&gt;Level Designer at Binary Star&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;January 2004 to June 2004&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Designed user interfaces and level layouts using proprietary software, Adobe Photoshop, 3D Studio MAX, and other tools. Acted as liaison between the coding and artwork teams.&lt;/p&gt;
+
+&lt;h3 id=&#34;web-developer-at-opportunity-technologies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Web Developer at Opportunity Technologies&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;August 2002 to November 2002&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Designed and maintained two company websites, built a Flash-based virtual company lobby, and redesigned company logos.&lt;/p&gt;
+
+&lt;h2 id=&#34;education:c59a67a3c7bc5faa453847420267045e&#34;&gt;Education&lt;/h2&gt;
+
+&lt;h3 id=&#34;south-dakota-state-university:c59a67a3c7bc5faa453847420267045e&#34;&gt;South Dakota State University&lt;/h3&gt;
+
+&lt;p&gt;B.A., History, 2004 - 2007 (Degree Received)&lt;/p&gt;
+
+&lt;h4 id=&#34;activities-and-societies:c59a67a3c7bc5faa453847420267045e&#34;&gt;Activities and Societies&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phi Alpha Theta&lt;/li&gt;
+&lt;li&gt;Japanese Animation &amp;amp; Culture Society&lt;/li&gt;
+&lt;li&gt;Medieval Society&lt;/li&gt;
+&lt;li&gt;Students in Free Enterprise&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;massey-university:c59a67a3c7bc5faa453847420267045e&#34;&gt;Massey University&lt;/h3&gt;
+
+&lt;p&gt;B.A., Japanese, 2002 - 2003 (Incomplete)&lt;/p&gt;
+
+&lt;h3 id=&#34;otago-polytechnic:c59a67a3c7bc5faa453847420267045e&#34;&gt;Otago Polytechnic&lt;/h3&gt;
+
+&lt;p&gt;B.F.A., Digital Media, 2000 - 2002 (Incomplete)&lt;/p&gt;
+
+&lt;h4 id=&#34;activities-and-societies-1:c59a67a3c7bc5faa453847420267045e&#34;&gt;Activities and Societies&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anime &amp;amp; Gaming Organization: Dunedin&lt;/li&gt;
+&lt;li&gt;New Carthage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;drexel-university:c59a67a3c7bc5faa453847420267045e&#34;&gt;Drexel University&lt;/h3&gt;
+
+&lt;p&gt;B.S., Digital Media, 1999 - 2000 (Incomplete)&lt;/p&gt;
+
+&lt;h4 id=&#34;activities-and-societies-2:c59a67a3c7bc5faa453847420267045e&#34;&gt;Activities and Societies&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anime &amp;amp; Gaming Organization&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Published Works</title>
@@ -29,10 +172,6 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/112347/A-Darkness-at-Summerfort&#34;&gt;A Darkness at Summerfort&lt;/a&gt; (Silver Gryphon Games, 2013)&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/86469/Ingenium&#34;&gt;Ingenium™&lt;/a&gt; (Silver Gryphon Games, 2010)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Iridium Fantasy (Self-Published, 1998) &lt;em&gt;Note: This has nothing to do with the Iridium RPG currently published by HinterWelt Enterprises&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Vox Draconis™ (Self-Published, 1997)&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;articles:5a9664ecce4f2fab3c97d46bd817ab60&#34;&gt;Articles&lt;/h2&gt;
@@ -49,15 +188,57 @@
       <pubDate>Sat, 13 Feb 2016 08:46:57 -0600</pubDate>
       
       <guid>http://benovermyer.com/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Over the last twenty years, it has changed the world. It&amp;rsquo;s my job and my passion to make it better.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;I have travelled the world, lived abroad, and usually only ever lived in one place for a couple years. That changed when I moved to Minneapolis. Of all the places I&amp;rsquo;ve lived on this globe, Minneapolis has been my favorite.&lt;/p&gt;
+&lt;h2 id=&#34;regarding-this-page:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Regarding this Page&lt;/h2&gt;
 
-&lt;p&gt;It helps that Minneapolis is turning into a tech hub with a wealth of interesting people doing interesting things with the web.&lt;/p&gt;
+&lt;p&gt;About pages by definition are very self-centered. Their whole purpose is to let the author talk about him/herself. Given that, I am not going to pull any punches or be diplomatic in my declarations. No apologies. I&amp;rsquo;m not trying to sell myself here; I&amp;rsquo;m trying to give you an idea of who I am. Oh, and before you ask, yes, I&amp;rsquo;m a Millennial.&lt;/p&gt;
 
-&lt;p&gt;My particular focus in the world of the web is in DevOps. I love the idea of melding together operations and development into a kind of superdiscipline. Even better is how the philosophy of DevOps helps people help each other.&lt;/p&gt;
+&lt;h2 id=&#34;professional-background:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Professional Background&lt;/h2&gt;
 
-&lt;p&gt;I started my professional career as a developer, not a system administrator. Now I&amp;rsquo;m an operations manager. What a long, strange trip it&amp;rsquo;s been.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Over the last twenty years, it has changed the world. It&amp;rsquo;s my job and my passion to make it better.&lt;/p&gt;
+
+&lt;p&gt;I have travelled the world, lived abroad, and usually only ever lived in one place for a couple years. That changed when I moved to Minneapolis. Of all the places I&amp;rsquo;ve lived on this globe, Minneapolis has been my favorite. It helps that Minneapolis is turning into a tech hub with a wealth of interesting people doing interesting things with the web.&lt;/p&gt;
+
+&lt;p&gt;My particular focus in the professional world is DevOps. I love the idea of melding together operations and development into a kind of superdiscipline. Even better is how the philosophy of DevOps helps people help each other.&lt;/p&gt;
+
+&lt;p&gt;I started my professional career as a developer, not a system administrator. Now I&amp;rsquo;m an operations manager, and I love how I get to help people make awesome things together. Life just keeps getting better and better!&lt;/p&gt;
+
+&lt;h2 id=&#34;labels-and-specifics:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Labels and Specifics&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Politics:&lt;/strong&gt; For the Americans out there, you can consider me so deeply liberal/progressive that Democrats are comparatively conservative. But really, politics goes &lt;a href=&#34;http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/&#34;&gt;well beyond labels&lt;/a&gt; for the discerning fan of democracy and the human condition.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Religion:&lt;/strong&gt; I identify greatly with this quote attributed to late Czech statesman Václav Havel:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Seek the company of those who search for truth; run from those who have found it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Causes I Care About:&lt;/strong&gt; Gender equality, freedom of expression and identity, &lt;a href=&#34;http://www.un.org/en/universal-declaration-human-rights/&#34;&gt;basic human rights&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Musical Artists/Groups:&lt;/strong&gt; &lt;a href=&#34;https://play.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq&#34;&gt;Zedd&lt;/a&gt;, &lt;a href=&#34;https://play.spotify.com/artist/29kkCKKGXheHuoO829FxWK&#34;&gt;Boston&lt;/a&gt;, &lt;a href=&#34;https://play.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi&#34;&gt;Inon Zur&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Historical Figures:&lt;/strong&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Benjamin_Franklin&#34;&gt;Benjamin Franklin&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Thomas_Paine&#34;&gt;Thomas Paine&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Miyamoto_Musashi&#34;&gt;Miyamoto Musashi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Historial Era:&lt;/strong&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Sengoku_period&#34;&gt;Sengoku Japan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Fictional Organizations:&lt;/strong&gt; The Sith Empire, House Slytherin, Hydra (hey, they all have great style, if questionable ethics)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Hobbies:&lt;/strong&gt; Singing, video games (esp. &lt;a href=&#34;http://us.battle.net/overwatch/en/&#34;&gt;Overwatch&lt;/a&gt;), &lt;a href=&#34;https://soundcloud.com/mana-trance&#34;&gt;making music&lt;/a&gt;, random quirky physical games (e.g. kickball, laser tag, etc.), &amp;ldquo;strategic&amp;rdquo; board games (e.g., Game of Thrones board game)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Theme Song:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=ST86JM1RPl0&#34;&gt;Everybody Wants to Rule the World by Tears for Fears&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Celebrities:&lt;/strong&gt; Emma Watson, Alan Rickman (RIP), Alec Guinness (RIP), Hugh Jackman, Ian McKellen, George Takei, Robert Downey Jr.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Favorite Physical Activities:&lt;/strong&gt; &lt;a href=&#34;http://amtgard.com/&#34;&gt;Amtgard&lt;/a&gt;, deadlifts&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Myers-Briggs Type:&lt;/strong&gt; &lt;a href=&#34;http://www.humanmetrics.com/personality/enfp&#34;&gt;ENFP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages Spoken:&lt;/strong&gt; English (Fluent/Native), Japanese (Badly), German (Badly), Spanish (Badly), Korean (Very Badly), Polish (Very Badly), &lt;a href=&#34;http://tokipona.org/&#34;&gt;Toki Pona&lt;/a&gt; (Badly but Happily)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social Networks Frequented:&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/bovermyer&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/ben.overmyer&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Countries I&amp;rsquo;ve Visited:&lt;/strong&gt; USA, Canada, France, Switzerland, Germany, Belgium, Austria, Italy, Russia, New Zealand, The Netherlands, Australia, China, Japan&lt;/p&gt;
 </description>
     </item>
     

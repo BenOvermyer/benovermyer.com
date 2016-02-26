@@ -17,10 +17,6 @@ These are listed in reverse chronological order. Where possible, I included a li
 
 * [Ingenium™] (http://www.drivethrurpg.com/product/86469/Ingenium) (Silver Gryphon Games, 2010)
 
-* Iridium Fantasy (Self-Published, 1998) _Note: This has nothing to do with the Iridium RPG currently published by HinterWelt Enterprises_
-
-* Vox Draconis™ (Self-Published, 1997)
-
 ## Articles
 
 * Creating Convincing Villains (The Amethyst Alliance/The RPG Consortium, 2004)
