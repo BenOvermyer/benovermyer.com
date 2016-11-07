@@ -2,7 +2,12 @@
 <html>
 {{ partial "head.html" . }}
 <body>
-{{ partial "header.html" . }}
+	{{ partial "header.html" . }}
+	<div class="row">
+		<div class="small-12 columns">
+			<p>Read my blog at <a href="https://pathfinder.space/">Pathfinder</a>.</p>
+		</div>
+	</div>
 <div class="row">
   <div class="small-3 columns">
     <a href="{{ .Site.BaseURL }}about"><h2 class="link-title">About</h2></a>
@@ -20,7 +25,7 @@
     <a href="{{ .Site.BaseURL }}about/published-works"><h2 class="link-title">Published Works</h2></a>
     <p class="link-description">See some of what I've written.</p>
   </div>
-</main>
+</div>
 {{ partial "footer.html" . }}
 {{ partial "google_analytics.html" . }}
 </body>
