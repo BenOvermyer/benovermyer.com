@@ -1,8 +1,8 @@
-baseurl = "http://benovermyer.com/"
+baseurl = "https://benovermyer.com/"
 languageCode = "en-us"
 title = "Ben Overmyer"
 
 [params]
   author = "Ben Overmyer"
-  description = "DevOps Practitioner, Self-Improvement Nut, and Fantasy Gaming Author"
+  description = "DevOps Engineer and Fantasy Gaming Author"
   twitter_name = "bovermyer"
