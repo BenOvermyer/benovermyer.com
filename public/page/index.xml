@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About-rsses on Ben Overmyer</title>
-    <link>https://benovermyer.com/about/index.xml</link>
-    <description>Recent content in About-rsses on Ben Overmyer</description>
+    <title>Pages on Ben Overmyer</title>
+    <link>https://benovermyer.com/page/index.xml</link>
+    <description>Recent content in Pages on Ben Overmyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Feb 2016 18:09:03 -0600</lastBuildDate>
-    <atom:link href="https://benovermyer.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://benovermyer.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Résumé</title>
-      <link>https://benovermyer.com/about/resume/</link>
+      <link>https://benovermyer.com/page/resume/</link>
       <pubDate>Thu, 25 Feb 2016 18:09:03 -0600</pubDate>
       
-      <guid>https://benovermyer.com/about/resume/</guid>
+      <guid>https://benovermyer.com/page/resume/</guid>
       <description>
 
 &lt;p&gt;The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path, and I couldn&amp;rsquo;t be happier about it. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on &lt;a href=&#34;http://pathfinder.space&#34;&gt;my personal blog&lt;/a&gt;.&lt;/p&gt;
@@ -154,10 +154,10 @@
     
     <item>
       <title>Published Works</title>
-      <link>https://benovermyer.com/about/published-works/</link>
+      <link>https://benovermyer.com/page/published-works/</link>
       <pubDate>Sat, 13 Feb 2016 09:09:03 -0600</pubDate>
       
-      <guid>https://benovermyer.com/about/published-works/</guid>
+      <guid>https://benovermyer.com/page/published-works/</guid>
       <description>
 
 &lt;p&gt;Over the years I’ve released a variety of books, articles, and other documents into the wild. Some of these were published in the true print sense, and some were only released online.&lt;/p&gt;
@@ -184,15 +184,15 @@
     
     <item>
       <title>About</title>
-      <link>https://benovermyer.com/about/</link>
+      <link>https://benovermyer.com/page/about/</link>
       <pubDate>Sat, 13 Feb 2016 08:46:57 -0600</pubDate>
       
-      <guid>https://benovermyer.com/about/</guid>
+      <guid>https://benovermyer.com/page/about/</guid>
       <description>
 
 &lt;h2 id=&#34;regarding-this-page&#34;&gt;Regarding this Page&lt;/h2&gt;
 
-&lt;p&gt;About pages by definition are very self-centered. Their whole purpose is to let the author talk about him/herself. Given that, I am not going to pull any punches or be diplomatic in my declarations. No apologies. I&amp;rsquo;m not trying to sell myself here; I&amp;rsquo;m trying to give you an idea of who I am. Oh, and before you ask, yes, I&amp;rsquo;m a Millennial&amp;hellip;barely.&lt;/p&gt;
+&lt;p&gt;About pages by definition are very self-centered. Their whole purpose is to let the author talk about him/herself. Given that, I am not going to pull any punches or be diplomatic in my declarations. No apologies. I&amp;rsquo;m not trying to sell myself here; I&amp;rsquo;m trying to give you an idea of who I am.&lt;/p&gt;
 
 &lt;h2 id=&#34;professional-background&#34;&gt;Professional Background&lt;/h2&gt;
 
@@ -200,13 +200,13 @@
 
 &lt;p&gt;I have travelled the world, lived abroad, and usually only ever lived in one place for a couple years. That changed when I moved to Minneapolis. Of all the places I&amp;rsquo;ve lived on this globe, Minneapolis has been my favorite. It helps that Minneapolis is turning into a tech hub with a wealth of interesting people doing interesting things with the web.&lt;/p&gt;
 
-&lt;p&gt;My particular focus in the professional world is DevOps. I love the idea of melding together operations and development into a kind of superdiscipline. Even better is how the philosophy of DevOps helps people help each other.&lt;/p&gt;
+&lt;p&gt;My particular focus in the professional world is DevOps. I love the idea of melding together operations and development into a kind of super-discipline. Even better is how the philosophy of DevOps helps people help each other.&lt;/p&gt;
 
 &lt;p&gt;I started my professional career as a developer, not a system administrator. Now I&amp;rsquo;m an operations manager, and I love being able to help people make awesome things together.&lt;/p&gt;
 
 &lt;h2 id=&#34;labels-and-specifics&#34;&gt;Labels and Specifics&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Politics:&lt;/strong&gt; For the Americans out there, you can consider me so deeply liberal/progressive that Democrats are comparatively conservative. But really, politics goes &lt;a href=&#34;http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/&#34;&gt;well beyond labels&lt;/a&gt; for the discerning fan of democracy and the human condition.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Politics:&lt;/strong&gt; For the Americans out there, you can consider me so deeply progressive that Democrats are comparatively conservative. But really, politics goes &lt;a href=&#34;http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/&#34;&gt;well beyond labels&lt;/a&gt; for the discerning fan of democracy and the human condition.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Religion:&lt;/strong&gt; I identify greatly with this quote attributed to late Czech statesman Václav Havel:&lt;/p&gt;
 
@@ -232,7 +232,7 @@
 
 &lt;p&gt;&lt;strong&gt;Myers-Briggs Type:&lt;/strong&gt; &lt;a href=&#34;http://www.humanmetrics.com/personality/enfp&#34;&gt;ENFP&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Languages Spoken:&lt;/strong&gt; English (Fluent/Native), Japanese (Badly), German (Badly), Spanish (Badly), Korean (Very Badly), Polish (Very Badly), &lt;a href=&#34;http://tokipona.org/&#34;&gt;Toki Pona&lt;/a&gt; (Badly but Happily)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Languages Spoken:&lt;/strong&gt; English (Fluent/Native), Japanese (Badly), German (Badly), Spanish (Badly)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Social Networks Frequented:&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/bovermyer&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/ben.overmyer&#34;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
 

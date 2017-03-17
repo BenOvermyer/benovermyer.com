@@ -1,58 +1,7 @@
-footer.site-footer {
-  font-size: 0.8rem;
-  text-align: center;
-}
-
-a:hover {
-  border-bottom: 1px solid skyblue;
-}
-
 h1, h2, h3 {
   font-family: 'Francois One', sans-serif !important;
 }
 
 p, li {
   font-family: 'Crimson Text', serif !important;
-}
-
-h1.blog-title {
-  font-size: 6rem;
-  text-align: center;
-}
-
-h2.link-title {
-  font-size: 3rem;
-}
-
-h3.post-title {
-  font-size: 5rem;
-}
-
-div.post-content > div > p {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-div.post-content > div > ul > li {
-  margin-left: 2rem;
-}
-
-div.post-content > div > h2 {
-  font-size: 3rem;
-}
-
-p.blog-description {
-  display: block;
-  text-align: center;
-  font-style: italic;
-}
-
-p.post-time {
-  font-style: italic;
-  text-align: right;
-}
-
-div.site-header > div {
-  border-bottom: 1px solid #eee;
-  margin-bottom: 2rem;
 }

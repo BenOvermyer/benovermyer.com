@@ -3,30 +3,34 @@
 {{ partial "head.html" . }}
 <body>
 	{{ partial "header.html" . }}
-	<div class="row">
-		<div class="small-12 columns">
-			<p>Read my blog at <a href="https://pathfinder.space/">Pathfinder</a>.</p>
+	<section class="section">
+		<div class="columns">
+			<div class="column">
+				<p>Read my blog at <a href="https://pathfinder.space/">Pathfinder</a>.</p>
+			</div>
 		</div>
-	</div>
-<div class="row">
-  <div class="small-3 columns">
-    <a href="{{ .Site.BaseURL }}about"><h2 class="link-title">About</h2></a>
-    <p class="link-description">Learn about who I am.</p>
-  </div>
-  <div class="small-3 columns">
-    <a href="https://github.com/BenOvermyer"><h2 class="link-title">GitHub</h2></a>
-	<p class="link-description">View code that I've developed. You can also check out <a href="http://gitlab.com/benovermyer">GitLab</a>, my new source code destination.</p>
-  </div>
-  <div class="small-3 columns">
-  	<a href="{{ .Site.BaseURL }}about/resume"><h2 class="link-title">Résumé</h2></a>
-	<p class="link-description">Read about my career so far.</p>
-  </div>
-  <div class="small-3 columns">
-    <a href="{{ .Site.BaseURL }}about/published-works"><h2 class="link-title">Published Works</h2></a>
-    <p class="link-description">See some of what I've written.</p>
-  </div>
-</div>
-{{ partial "footer.html" . }}
-{{ partial "google_analytics.html" . }}
+	</section>
+	<section class="section">
+		<div class="columns">
+			<div class="column">
+				<a href="{{ .Site.BaseURL }}page/about"><h2 class="title is-2">About</h2></a>
+				<p class="link-description">Learn about who I am.</p>
+			</div>
+			<div class="column">
+				<a href="https://github.com/BenOvermyer"><h2 class="title is-2">GitHub</h2></a>
+				<p class="link-description">View code that I've developed.</p>
+			</div>
+			<div class="column">
+				<a href="{{ .Site.BaseURL }}page/resume"><h2 class="title is-2">Résumé</h2></a>
+				<p class="link-description">Read about my career so far.</p>
+			</div>
+			<div class="column">
+				<a href="{{ .Site.BaseURL }}page/published-works"><h2 class="title is-2">Published Works</h2></a>
+				<p class="link-description">See some of what I've written.</p>
+			</div>
+		</div>
+	</section>
+	{{ partial "footer.html" . }}
+	{{ partial "google_analytics.html" . }}
 </body>
 </html>

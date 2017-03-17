@@ -3,8 +3,8 @@
 {{ partial "head.html" . }}
 <body>
 {{ partial "header.html" . }}
-<div class="row">
-	<div class="small-12 columns">
+<div class="columns">
+	<div class="column">
 	{{ range .Paginator.Pages }}
 		{{ .Render "li" }}
 	{{ end }}

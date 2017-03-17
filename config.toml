@@ -1,5 +1,6 @@
 baseurl = "https://benovermyer.com/"
 languageCode = "en-us"
+theme = "manatrance"
 title = "Ben Overmyer"
 
 [params]
