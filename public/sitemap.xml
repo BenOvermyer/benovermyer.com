@@ -23,8 +23,18 @@
   </url>
   
   <url>
+    <loc>https://benovermyer.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benovermyer.com/page/</loc>
     <lastmod>2016-02-25T18:09:03-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benovermyer.com/tags/</loc>
     <priority>0</priority>
   </url>
   
