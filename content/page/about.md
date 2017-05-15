@@ -28,19 +28,9 @@ __Religion:__ I identify greatly with this quote attributed to late Czech states
 
 __Causes I Care About:__ Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-__Favorite Musical Artists/Groups:__ [Zedd](https://play.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Boston](https://play.spotify.com/artist/29kkCKKGXheHuoO829FxWK), [Inon Zur](https://play.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi)
-
-__Favorite Historical Figures:__ [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin), [Thomas Paine](https://en.wikipedia.org/wiki/Thomas_Paine), [Miyamoto Musashi](https://en.wikipedia.org/wiki/Miyamoto_Musashi)
-
-__Favorite Historical Era:__ [Sengoku Japan](https://en.wikipedia.org/wiki/Sengoku_period)
-
-__Favorite Fictional Organizations:__ The Sith Empire, House Slytherin, Hydra (hey, they all have great style, if questionable ethics)
-
-__Favorite Hobbies:__ Singing, video games (esp. [Overwatch](http://us.battle.net/overwatch/en/)), [making music](https://soundcloud.com/mana-trance), random quirky physical games (e.g. kickball, laser tag, etc.), "strategic" board games (e.g., Game of Thrones)
+__Hobbies:__ Video games (esp. [Overwatch](http://us.battle.net/overwatch/en/)), tabletop games (esp. Warhammer 40k)
 
 __Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
-
-__Favorite Celebrities:__ Emma Watson, Alan Rickman (RIP), Alec Guinness (RIP), Hugh Jackman, Ian McKellen, George Takei, Robert Downey Jr.
 
 __Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp).
 
@@ -48,4 +38,3 @@ __Languages Spoken:__ English (Fluent/Native), Japanese (Badly), German (Badly),
 
 __Social Networks Frequented:__ [Twitter](https://twitter.com/bovermyer), [Facebook](https://www.facebook.com/ben.overmyer)
 
-__Countries I've Visited:__ USA, Canada, France, Switzerland, Germany, Belgium, Austria, Italy, Russia, New Zealand, The Netherlands, Australia, China, Japan
