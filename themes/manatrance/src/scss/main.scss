@@ -2,9 +2,14 @@
 
 $family-sans-serif: 'Fira Sans', sans-serif;
 $family-serif: 'Crimson Text', serif;
-  
+$family-primary: $family-serif;
+
 body, html {
     font-feature-settings: "kern", "liga";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $family-sans-serif;
 }
 
 @import "../../node_modules/bulma/bulma.sass";

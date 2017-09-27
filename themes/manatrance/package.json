@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "sass src/scss/main.scss static/css/main.css"
+    "compile": "sass src/scss/main.scss static/css/main.css",
+    "watch": "sass --watch src/scss:static/css"
   },
   "author": "Ben Overmyer",
   "license": "MIT"

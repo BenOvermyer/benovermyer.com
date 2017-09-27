@@ -2,6 +2,9 @@
 body, html {
   font-feature-settings: "kern", "liga"; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fira Sans", sans-serif; }
+
 /*! bulma.io v0.5.3 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -105,7 +108,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "Fira Sans", sans-serif; }
+  font-family: "Crimson Text", serif; }
 
 code,
 pre {
