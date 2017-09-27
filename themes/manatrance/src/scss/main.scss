@@ -1,0 +1,10 @@
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+
+$family-sans-serif: 'Fira Sans', sans-serif;
+$family-serif: 'Crimson Text', serif;
+  
+body, html {
+    font-feature-settings: "kern", "liga";
+}
+
+@import "../../node_modules/bulma/bulma.sass";
