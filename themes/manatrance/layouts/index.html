@@ -2,33 +2,50 @@
 <html>
 {{ partial "head.html" . }}
 <body>
-	<div class="container">
-		{{ partial "header.html" . }}
-		<div class="columns">
-			<div class="column">
-				<a href="{{ .Site.BaseURL }}page/about"><h2 class="title is-2">About</h2></a>
-				<p class="link-description">Learn about who I am.</p>
+	<section class="main">
+		<div class="container">
+				{{ partial "header.html" . }}
+				<div class="columns">
+					<div class="column">
+						<a href="{{ .Site.BaseURL }}page/about"><h2 class="title is-2">About</h2></a>
+						<p class="link-description">Learn about me.</p>
+					</div>
+					<div class="column">
+						<a href="{{ .Site.BaseURL }}page/resume"><h2 class="title is-2">Résumé</h2></a>
+						<p class="link-description">Read about my career so far.</p>
+					</div>
+					<div class="column">
+						<a href="{{ .Site.BaseURL }}page/creations"><h2 class="title is-2">Creations</h2></a>
+						<p class="link-description">See some of what I've made.</p>
+					</div>
+					<div class="column">
+						<a href="https://github.com/BenOvermyer"><h2 class="title is-2">GitHub</h2></a>
+						<p class="link-description">View code that I've developed.</p>
+					</div>
+				</div>
+				<div class="columns">
+					<div class="column content">
+						<p>
+							Hi, I'm Ben Overmyer. I love making awesome web experiences for people and machines.
+						</p>
+						<p>
+							Right now, I help guard the free flow of information as the Digital Manager of Operations 
+							at the <a href="http://www.startribune.com">Minneapolis Star Tribune</a>. Prior to joining the Star
+							Tribune, I worked mostly as a web developer and occasionally a designer.
+						</p>
+						<p>
+							I lead a team of engineers in building performant web systems that can scale to tens of thousands of 
+							concurrent users. Guided by the philosophy of DevOps, we encourage communication and collaboration
+							throughout the organization as we automate a wonderland of server infrastructure.
+						</p>
+					</div>
+					<div class="column is-one-third">
+						<p>Interested in reading more? Read my blog at <a href="https://pathfinder.space/">Pathfinder</a>.</p>
+					</div>
+				</div>
+				{{ partial "footer.html" . }}
+				{{ partial "google_analytics.html" . }}
 			</div>
-			<div class="column">
-				<a href="https://github.com/BenOvermyer"><h2 class="title is-2">GitHub</h2></a>
-				<p class="link-description">View code that I've developed.</p>
-			</div>
-			<div class="column">
-				<a href="{{ .Site.BaseURL }}page/resume"><h2 class="title is-2">Résumé</h2></a>
-				<p class="link-description">Read about my career so far.</p>
-			</div>
-			<div class="column">
-				<a href="{{ .Site.BaseURL }}page/published-works"><h2 class="title is-2">Published Works</h2></a>
-				<p class="link-description">See some of what I've written.</p>
-			</div>
-		</div>
-		<div class="columns">
-			<div class="column">
-				<p>Read my blog at <a href="https://pathfinder.space/">Pathfinder</a>.</p>
-			</div>
-		</div>
-		{{ partial "footer.html" . }}
-		{{ partial "google_analytics.html" . }}
-	</div>
+	</section>
 </body>
 </html>

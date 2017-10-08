@@ -2,12 +2,14 @@
 <html>
 	{{ partial "head.html" . }}
 <body>
-	<div class="container">
-		{{ partial "header.html" . }}
-		{{ .Render "post" }}
-		{{ partial "footer.html" . }}
-		{{ partial "google_analytics.html" . }}
-	</div>
+	<section class="section">
+		<div class="container">
+			{{ partial "header.html" . }}
+			{{ .Render "post" }}
+			{{ partial "footer.html" . }}
+			{{ partial "google_analytics.html" . }}
+		</div>
+	</section>
 </body>
 
 </html>

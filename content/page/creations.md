@@ -1,15 +1,23 @@
 +++
 date = "2016-02-13T09:09:03-06:00"
 draft = false
-title = "Published Works"
+title = "Creations"
 
 +++
+
+## Open Source Projects
+
+I'm particularly interested in procedural generation of fictional worlds. Here are a few of my projects in that vein:
+
+* [Country Maker](https://github.com/BenOvermyer/country-maker) A fantasy country generator. My current project.
+
+* [Name Generator](https://github.com/BenOvermyer/name-generator) A constructed-language name generator.
+
+## Tabletop Games
 
 Over the years I’ve released a variety of books, articles, and other documents into the wild. Some of these were published in the true print sense, and some were only released online.
 
 These are listed in reverse chronological order. Where possible, I included a link to the most recent publicly available version.
-
-## Books
 
 ### Writer Credit
 
