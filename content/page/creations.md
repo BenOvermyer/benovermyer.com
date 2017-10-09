@@ -29,6 +29,34 @@ These are listed in reverse chronological order. Where possible, I included a li
 
 ### Artist Credit
 
+* A Stitched In Time (Silver Gryphon Games, 2014)
+
+* A Thule and His Money (Silver Gryphon Games, 2014)
+
+* Brain Slugs from Planet X! (Silver Gryphon Games, 2014)
+
+* Camp Wicakini 4 (Silver Gryphon Games, 2013)
+
+* Milecastle 42 (Silver Gryphon Games, 2013)
+
+* Camp Wicakini 3: Wanagi Mato Lives! (Silver Gryphon Games, 2012)
+
+* Red Blizzard (Silver Gryphon Games, 2012)
+
+* Diabolical Traps – The Maintenance Mummy (Silver Gryphon Games, 2012)
+
+* Diabolical Traps – Non-Traps (Silver Gryphon Games, 2011)
+
+* Camp Wicakini Part II (Silver Gryphon Games, 2011)
+
+* The Pine Ridge Horror (Silver Gryphon Games, 2010)
+
+* Diabolical Traps – Rooms (Silver Gryphon Games, 2010)
+
+* Camp Wicakini (Silver Gryphon Games, 2009)
+
+* Diabolical Traps – Skeletons (Silver Gryphon Games, 2007)
+
 * [Big Eyes, Small Mouth 3rd Edition] (http://www.drivethrurpg.com/product/24482/BESM-Big-Eyes-Small-Mouth-3rd-Edition) (White Wolf, 2007)
 
 * [Post Apocalyptic Hero] (https://www.amazon.com/Post-apocalyptic-Hero-2007-Games-System/dp/1583661050) (Hero Games, 2007)
