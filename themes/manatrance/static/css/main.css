@@ -1,10 +1,9 @@
 @charset "UTF-8";
-
 body, html {
   font-feature-settings: "kern", "liga"; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, sans-serif; }
 
 /*! bulma.io v0.5.3 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
@@ -163,8 +162,7 @@ span {
 
 strong {
   color: #363636;
-  font-weight: 700; 
-}
+  font-weight: 700; }
 
 pre {
   -webkit-overflow-scrolling: touch;
