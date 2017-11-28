@@ -1,64 +1,10 @@
 @charset "UTF-8";
 
-@font-face {
-    font-family: 'alegreyablack';
-    src: url('alegreya-black-webfont.woff2') format('woff2'),
-         url('alegreya-black-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alegreyablack_italic';
-    src: url('alegreya-blackitalic-webfont.woff2') format('woff2'),
-         url('alegreya-blackitalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alegreyabold';
-    src: url('alegreya-bold-webfont.woff2') format('woff2'),
-         url('alegreya-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alegreyabold_italic';
-    src: url('alegreya-bolditalic-webfont.woff2') format('woff2'),
-         url('alegreya-bolditalic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alegreyaitalic';
-    src: url('alegreya-italic-webfont.woff2') format('woff2'),
-         url('alegreya-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alegreyaregular';
-    src: url('alegreya-regular-webfont.woff2') format('woff2'),
-         url('alegreya-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 body, html {
   font-feature-settings: "kern", "liga"; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Fira Sans", sans-serif; }
+  font-family: Arial, Helvetica, sans-serif; }
 
 /*! bulma.io v0.5.3 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
@@ -163,7 +109,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "alegreyaregular", serif; }
+  font-family: "alegreya", serif; }
 
 code,
 pre {
@@ -218,7 +164,6 @@ span {
 strong {
   color: #363636;
   font-weight: 700; 
-  font-family: "alegreyabold";
 }
 
 pre {
