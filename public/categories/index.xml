@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ben Overmyer</title>
-    <link>https://benovermyer.com/categories/</link>
+    <link>https://www.benovermyer.com/categories/</link>
     <description>Recent content in Categories on Ben Overmyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://benovermyer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.benovermyer.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
