@@ -2,9 +2,10 @@
 <html>
 {{ partial "head.html" . }}
 <body>
+	{{ partial "header.html" . }}
+
 	<section class="main">
 		<div class="container">
-				{{ partial "header.html" . }}
 				<div class="columns">
 					<div class="column">
 						<a href="{{ .Site.BaseURL }}page/about"><h2 class="title is-2">About</h2></a>
@@ -33,7 +34,7 @@
 						</p>
 					</div>
 					<div class="column is-one-third">
-  						<h3>Recent Posts</h3>
+  						<h3 class="title is-3">Recent Posts</h3>
   						<ul>
   						{{- range first .Site.Params.SidebarRecentLimit .Site.RegularPages -}}
 						<li><a href="{{.RelPermalink}}">{{.Title}}</a> <cite>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</cite></li>

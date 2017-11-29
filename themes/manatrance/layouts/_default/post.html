@@ -1,7 +1,7 @@
 <section class="section">
     <div class="columns">
         <div class="column">
-    		<h3 class="title is-3">{{ .Title }}</h3>
+    		<h2 class="title is-2">{{ .Title }}</h2>
     	</div>
     </div>
 
@@ -9,5 +9,13 @@
     	<div class="column content">
         {{ .Content }}
     	</div>
+		<div class="column is-one-third">
+  			<h3 class="title is-3">Recent Posts</h3>
+  			<ul>
+  			{{- range first .Site.Params.SidebarRecentLimit .Site.RegularPages -}}
+				<li><a href="{{.RelPermalink}}">{{.Title}}</a> <cite>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</cite></li>
+  			{{- end -}}
+  			</ul>
+		</div>
     </div>
 </section>
