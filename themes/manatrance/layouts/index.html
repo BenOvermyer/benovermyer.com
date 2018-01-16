@@ -7,24 +7,6 @@
 	<section class="main">
 		<div class="container">
 				<div class="columns">
-					<div class="column">
-						<a href="{{ .Site.BaseURL }}page/about"><h2 class="title is-2">About</h2></a>
-						<p class="link-description">Learn about me.</p>
-					</div>
-					<div class="column">
-						<a href="{{ .Site.BaseURL }}page/resume"><h2 class="title is-2">Résumé</h2></a>
-						<p class="link-description">Read about my career so far.</p>
-					</div>
-					<div class="column">
-						<a href="{{ .Site.BaseURL }}page/creations"><h2 class="title is-2">Creations</h2></a>
-						<p class="link-description">See some of what I've made.</p>
-					</div>
-					<div class="column">
-						<a href="https://github.com/BenOvermyer"><h2 class="title is-2">GitHub</h2></a>
-						<p class="link-description">View code that I've developed.</p>
-					</div>
-				</div>
-				<div class="columns">
 					<div class="column content">
 						<p>
 							Hi, I'm Ben Overmyer. I love making awesome web experiences for people and machines.
@@ -33,14 +15,7 @@
 							Right now, I help a team of talented DevOps engineers build automated systems to keep health care professionals in touch when it really matters.
 						</p>
 					</div>
-					<div class="column is-one-third">
-  						<h3 class="title is-3">Recent Posts</h3>
-  						<ul>
-  						{{- range first .Site.Params.SidebarRecentLimit .Site.RegularPages -}}
-						<li><a href="{{.RelPermalink}}">{{.Title}}</a> <cite>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</cite></li>
-  						{{- end -}}
-  						</ul>
-					</div>
+					{{ partial "sidebar.html" . }}
 				</div>
 				{{ partial "footer.html" . }}
 				{{ partial "google_analytics.html" . }}
