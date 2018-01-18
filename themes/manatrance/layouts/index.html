@@ -2,24 +2,23 @@
 <html>
 {{ partial "head.html" . }}
 <body>
-	{{ partial "header.html" . }}
-
-	<section class="main">
+	<section class="section">
 		<div class="container">
-				<div class="columns">
-					<div class="column content">
-						<p>
-							Hi, I'm Ben Overmyer. I love making awesome web experiences for people and machines.
-						</p>
-						<p>
-							Right now, I help a team of talented DevOps engineers build automated systems to keep health care professionals in touch when it really matters.
-						</p>
-					</div>
-					{{ partial "sidebar.html" . }}
+			{{ partial "header.html" . }}
+			<div class="columns">
+				<div class="column content">
+					<p>
+						Hi, I'm Ben Overmyer. I love making awesome web experiences for people and machines.
+					</p>
+					<p>
+						Right now, I help a team of talented DevOps engineers build automated systems to keep health care professionals in touch when it really matters.
+					</p>
 				</div>
-				{{ partial "footer.html" . }}
-				{{ partial "google_analytics.html" . }}
+				{{ partial "sidebar.html" . }}
 			</div>
+			{{ partial "footer.html" . }}
+			{{ partial "google_analytics.html" . }}
+		</div>
 	</section>
 </body>
 </html>

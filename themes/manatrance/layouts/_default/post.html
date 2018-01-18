@@ -1,14 +1,7 @@
-<section class="section">
-    <div class="columns">
-        <div class="column">
-    		<h2 class="title is-2">{{ .Title }}</h2>
-    	</div>
-    </div>
-
-    <div class="columns">
-    	<div class="column content">
+<div class="columns">
+    <div class="column content">
+        <h2 class="title is-2">{{ .Title }}</h2>
         {{ .Content }}
-    	</div>
-		{{ partial "sidebar.html" . }}
     </div>
-</section>
+    {{ partial "sidebar.html" . }}
+</div>
