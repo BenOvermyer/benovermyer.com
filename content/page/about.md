@@ -8,7 +8,7 @@ title = "About"
 
 I'm a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Since its inception, it has changed the world. It's my job and my passion to make it better.
 
-I have travelled the world, lived abroad, and usually only ever lived in one place for a couple years. That changed when I moved to Minneapolis. Of all the places I've lived on this globe, Minneapolis has been my favorite. It helps that Minneapolis is turning into a tech hub with a wealth of interesting people doing interesting things with the web.
+I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. For the moment, I live in Minneapolis, Minnesota.
 
 My particular focus in the professional world is site reliability and systems architecture. Complex systems and their interactions are amazing things.
 
@@ -30,7 +30,7 @@ __Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://w
 
 __Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp).
 
-__Languages Spoken:__ English (Fluent/Native), Japanese (Badly), German (Badly), Spanish (Badly)
+__Languages Spoken:__ English (Native), Japanese (Badly), German (Badly), Spanish (Badly)
 
 __Social Networks:__ [Twitter](https://twitter.com/bovermyer), [LinkedIn](https://www.linkedin.com/in/benovermyer/)
 

@@ -5,7 +5,7 @@ title = "Résumé"
 
 +++
 
-The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on [my personal blog](http://pathfinder.space). 
+The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on my blog. 
 
 __Specialties:__ AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps philosophy, knowledge sharing, and leading effective teams.
 
@@ -13,15 +13,21 @@ __Preferred Programming Languages:__ PHP, Python, JavaScript/Node.js, [Go](http:
 
 __Ancillary Skills:__ Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
-__Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Docker](https://www.docker.com/), Mac OS X, Linux, [Vagrant](https://www.vagrantup.com/) (if Docker is unavailable)
+__Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Docker](https://www.docker.com/), [Linux](http://www.kubuntu.org)
 
 ## Work History
 
+### DevOps Engineer at Spok, Inc
+
+_November 2017 to Present_
+
+I'm part of a team of devops engineers working on automation and reliability for Spok. So far, I've focused primarily on hooking up monitoring systems and building out data analytics for the same.
+
 ### Digital Manager, Operations at the Minneapolis Star Tribune
 
-_September 2015 to Present_
+_September 2015 to November 2017_
 
-I manage the operations team for the Digital department at the Star Tribune. I oversee and guide the implementation and maintenance of our digital infrastructure, as well as lead initiatives to improve performance, cost effectiveness, and general awesomeness of the same. I also handle most of the more complex engineering tasks for the operations team, such as developing new Ansible processes, writing monitoring services in Go, architecting new systems, and implementing tools for which no internally documented process exists.
+I managed the operations team for the Digital department at the Star Tribune. I oversaw the implementation and maintenance of their digital infrastructure, as well as lead initiatives to improve performance, cost effectiveness, and general awesomeness of the same. I also handled most of the more complex engineering tasks for the operations team, such as developing new Ansible processes, writing monitoring services in Go, architecting new systems, and implementing tools for which no internally documented process exists.
 
 ### Senior Software Engineer at the Minneapolis Star Tribune
 
