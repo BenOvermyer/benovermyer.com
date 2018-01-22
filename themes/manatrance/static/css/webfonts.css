@@ -53,90 +53,90 @@
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-bold-webfont.woff2') format('woff2'),
-         url('../josefinsans-bold-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-bold-webfont.woff2') format('woff2'),
+         url('../amaranth-bold-webfont.woff') format('woff');
     font-weight: 700;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-bolditalic-webfont.woff2') format('woff2'),
-         url('../josefinsans-bolditalic-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-bolditalic-webfont.woff2') format('woff2'),
+         url('../amaranth-bolditalic-webfont.woff') format('woff');
     font-weight: 700;
     font-style: italic;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-italic-webfont.woff2') format('woff2'),
-         url('../josefinsans-italic-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-italic-webfont.woff2') format('woff2'),
+         url('../amaranth-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-light-webfont.woff2') format('woff2'),
-         url('../josefinsans-light-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-light-webfont.woff2') format('woff2'),
+         url('../amaranth-light-webfont.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-lightitalic-webfont.woff2') format('woff2'),
-         url('../josefinsans-lightitalic-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-lightitalic-webfont.woff2') format('woff2'),
+         url('../amaranth-lightitalic-webfont.woff') format('woff');
     font-weight: 200;
     font-style: italic;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-regular-webfont.woff2') format('woff2'),
-         url('../josefinsans-regular-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-regular-webfont.woff2') format('woff2'),
+         url('../amaranth-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-semibold-webfont.woff2') format('woff2'),
-         url('../josefinsans-semibold-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-semibold-webfont.woff2') format('woff2'),
+         url('../amaranth-semibold-webfont.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-semibolditalic-webfont.woff2') format('woff2'),
-         url('../josefinsans-semibolditalic-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-semibolditalic-webfont.woff2') format('woff2'),
+         url('../amaranth-semibolditalic-webfont.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-thin-webfont.woff2') format('woff2'),
-         url('../josefinsans-thin-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-thin-webfont.woff2') format('woff2'),
+         url('../amaranth-thin-webfont.woff') format('woff');
     font-weight: 100;
     font-style: normal;
 
 }
 
 @font-face {
-    font-family: 'josefin';
-    src: url('../josefinsans-thinitalic-webfont.woff2') format('woff2'),
-         url('../josefinsans-thinitalic-webfont.woff') format('woff');
+    font-family: 'amaranth';
+    src: url('../amaranth-thinitalic-webfont.woff2') format('woff2'),
+         url('../amaranth-thinitalic-webfont.woff') format('woff');
     font-weight: 100;
     font-style: italic;
 

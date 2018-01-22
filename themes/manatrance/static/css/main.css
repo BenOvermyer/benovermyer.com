@@ -2,11 +2,19 @@
 body, html {
   font-feature-settings: "kern", "liga"; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "josefin", sans-serif; }
+h1, h2, h3, h4, h5, h6, nav {
+  font-family: "amaranth", sans-serif; }
 
 cite {
   font-size: 0.75rem; }
+
+.navbar-item {
+  font-size: 1rem; }
+
+.post-description {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.25rem; }
 
 /*! bulma.io v0.5.3 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {

@@ -1,7 +1,7 @@
 @import "../../node_modules/bulma/sass/utilities/initial-variables";
 
 $body-size: 24px;
-$family-sans-serif: 'josefin', sans-serif;
+$family-sans-serif: 'amaranth', sans-serif;
 $family-serif: 'alegreya', serif;
 $family-primary: $family-serif;
 
@@ -9,12 +9,22 @@ body, html {
     font-feature-settings: "kern", "liga";
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, nav {
     font-family: $family-sans-serif;
 }
 
 cite {
     font-size: 0.75rem;
+}
+
+.navbar-item {
+    font-size: 1rem;
+}
+
+.post-description {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
 }
 
 @import "../../node_modules/bulma/bulma.sass";

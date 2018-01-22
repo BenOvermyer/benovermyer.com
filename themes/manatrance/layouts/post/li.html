@@ -1,0 +1,7 @@
+<div class="{{ .Type }} columns">
+    <div class="column content">
+        <h3 class="title is-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="subtitle is-5">{{ dateFormat "Monday, January 2, 2006" .Date }}</p>
+        <p class="post-description">{{ .Description }}</p>
+    </div>
+</div>

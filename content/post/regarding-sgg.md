@@ -1,6 +1,7 @@
 ---
 title: "Regarding Silver Gryphon Games"
 date: 2018-01-14T12:13:39-06:00
+description: "In late 2014, I stepped down from my role at Silver Gryphon Games."
 draft: false
 ---
 In late 2014, I stepped down from my role at Silver Gryphon Games. I had too much going on in my life to properly pay attention to the company.
