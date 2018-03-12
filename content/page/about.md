@@ -2,6 +2,7 @@
 date = "2016-02-13T08:46:57-06:00"
 draft = false
 title = "About"
+description = "About me."
 +++
 
 ## Professional Background

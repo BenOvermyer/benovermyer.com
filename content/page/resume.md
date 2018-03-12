@@ -2,7 +2,7 @@
 date = "2016-02-25T18:09:03-06:00"
 draft = false
 title = "Résumé"
-
+description = "My résumé."
 +++
 
 The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on my blog. 
