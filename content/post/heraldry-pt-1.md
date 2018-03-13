@@ -34,7 +34,7 @@ Here's a simple example of a plain field:
 
 The tincture generation is being done at a higher level so that the program is aware of which tinctures are used in the entire design. This is so it can avoid violating the first rule.
 
-However, sometimes the divisions are generated in the same color (e.g., azure next to azure). I'll need to fix this in the next iteration.
+However, sometimes the divisions are generated in the same color (e.g., *azure* next to *azure*). I'll need to fix this in the next iteration.
 
 The below image may look identical to the first one, but it's actually divided, just with both halves being *vert*.
 
