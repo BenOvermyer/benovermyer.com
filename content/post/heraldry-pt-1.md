@@ -44,4 +44,4 @@ Still, the basic design looks reasonable thus far. Here's a simple *per fess* ex
 
 ![Basic Division](/heraldry-basic-division.svg)
 
-The source code for the generator is available [on GitHub](https://github.com/ironarachne/heraldry-generator).
+The source code for the generator is available [on GitHub](https://github.com/ironarachne/heraldry).
