@@ -10,3 +10,6 @@ After having just the fess and pale divisions in the last iteration, I added the
 
 I also added the most basic of charges - those geometric shapes called "ordinaries." Not all of the common ordinaries are in there yet, and some of them look a little askew. Since I manually created them through trial and error rather than through calculation, there are a number of problems that I'll need to sort out.
 
+For example, here's a saltire charge from the current iteration. Notice how it's a little off?
+
+![A little off]()
