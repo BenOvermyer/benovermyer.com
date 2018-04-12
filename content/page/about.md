@@ -33,5 +33,5 @@ __Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp).
 
 __Languages Spoken:__ English (Native), Japanese (Badly), German (Badly), Spanish (Badly)
 
-__Social Networks:__ [Twitter](https://twitter.com/bovermyer), [LinkedIn](https://www.linkedin.com/in/benovermyer/)
+__Social Networks:__ [Twitter](https://twitter.com/bovermyer) (though I don't post often), [LinkedIn](https://www.linkedin.com/in/benovermyer/) because I have to, and [Mastodon](https://wandering.shop/@pathfinder) because I believe in decentralization and federation.
 

@@ -7,9 +7,11 @@ description = "My creations."
 
 ## Open Source Projects
 
-I'm particularly interested in procedural generation of fictional worlds. Here are a few of my projects in that vein:
+I'm particularly interested in procedural generation of fictional worlds. I'm starting to do more of this under the banner of *Iron Arachne*. Here are a few of my projects in that vein:
 
-* [Country Maker](https://github.com/BenOvermyer/country-maker) A fantasy country generator. My current project.
+* [Heraldry Generator](https://github.com/ironarachne/heraldry) Heraldry generator, written in Go. Also a library for the same.
+
+* [Country Maker](https://github.com/BenOvermyer/country-maker) A fantasy country generator.
 
 * [Name Generator](https://github.com/BenOvermyer/name-generator) A constructed-language name generator.
 
