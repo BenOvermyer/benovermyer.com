@@ -1,0 +1,38 @@
+---
+title: "Build a Better Warrior in Rift"
+date: 2013-06-08T14:00:00-05:00
+description: ""
+draft: false
+---
+I've been playing Rift a lot lately, and the more I play, the better I
+understand the ins and outs of being a Warrior. This post has a few of
+my thoughts on the subject of tuning warrior builds.
+
+The class is really versatile, but focuses heavily on two aspects -
+tanking and dealing damage. That much is obvious. What is less obvious
+is that there are several ways to do each of these. My personal
+preference is for dealing respectable amounts of damage to multiple
+enemies while being able to take a lot of punishment before going down.
+
+My favorite ability for staying in the fight is **No Permission to
+Die**. It's in the fifth tier of the Warlord soul, and it can be a
+godsend. If you die within ten seconds of triggering it, you are
+resurrected at 50% of your maximum health. Properly timed, it can really
+save your bacon. Also, it's not on global cooldown, so it's really
+hard to NOT time it right if you have a good sense of your combat
+situation.
+
+My next favorite ability is **Cornered Beast**, which is the 32 point
+unlock for the Champion soul. It hits up to 6 enemies for a ton of
+damage over time AND generates Attack Points over time, making it a
+powerful threat-building ability. Awesome for tanks, and for area effect
+damage.
+
+Along with Warlord and Champion, picking the Reaver soul allows for a
+ridiculous amount of survivability. It has a number of abilities that
+boost armor, endurance, and resistances. A balanced mix of the three
+souls, like the [build linked here (Champion (32) / Warlord (23) /
+Reaver
+(21))](http://rift.magelo.com/en/stc/zzkBLlckIkrhz00zvl0V0ocMzzvlz0Vhzo),
+will give you a decent AoE tanking playstyle. You won't win any DPS
+races, but it will keep you in the fight for a good long time.

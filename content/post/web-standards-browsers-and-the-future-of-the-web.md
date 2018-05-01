@@ -1,0 +1,65 @@
+---
+title: "Web standards, browsers, and the future of the web"
+date: 2007-12-19T16:34:00-05:00
+description: ""
+draft: false
+---
+Recently, the CSS working group and the W3C in general have [come under
+fire](http://alex.dojotoolkit.org/?p=642) as Opera launches an assault
+on Microsoft. A counterculture of pro-proprietary technology advocates
+has risen up against the web standards movement. The web standards crowd
+has responded with fire and passion, sending up a rallying cry against
+what they see as [a return to the browser wars of the
+'90s](http://shallowthoughts.org/2007/12/17/return-to-the-web-of-the-1990s/trackback/).
+All of this begs the question - what are we really trying to do with web
+standards and the Web in general? [James Bennett asks the same
+question](http://www.b-list.org/weblog/2007/dec/17/standards/), though
+more eloquently and with greater background than I present here.
+
+The point of the World Wide Web is to provide people with information.
+It used to be nothing more spectacular than that. The type of
+information varied - marketing, scientific studies, news, etc. - but it
+was all information. With the advent of RIA technologies and new usage
+of the Web, though, that's starting to change. People are starting to
+do more than just research and purchase on the Web. The lines between
+desktop applications and web pages are blurring.
+
+With AIR, Flex, JavaFX, Silverlight, and other possible vehicles for
+innovative usage of the Web proliferating like mad, we are left with the
+question - what can't we do with the Web? That question is what drives
+research and innovation in the Web. It doesn't play as much of a
+factor, though, in industrial and commercial common usage. For example,
+when was the last time you overheard any non-developer talking about Web
+2.0 or rich internet applications? How many people actually know about
+and use Google Docs? I'd be willing to wager that not many outside our
+world do. That will change in the future, of course, as clever and
+useful new technologies frequently are wont to be adopted.
+
+However, it seems that we - that is, web developers and other Internet
+professionals - often confuse research with production. The development
+of other new technologies, such as [integrated graphene
+circuits](http://pubs.acs.org/cgi-bin/abstract.cgi/nalefd/2007/7/i11/abs/nl070708c.html),
+is kept largely out of the public eye. While not expressly hidden, there
+is no attempt made to put such bleeding-edge breakthroughs into
+immediate public usage.
+
+Web standards and the development of proprietary Web technology is
+slightly different, but not much. Web standards are supposedly akin to
+such things as the [Railway Group
+Standards](http://www.rgsonline.co.uk/) in that they make the Web easier
+and "safer" to use and develop for. By taking away the difficulties
+inherent in producing for multiple different platforms, web standards
+allow developers to spend their time innovating in more specific ways.
+
+The problem is that web standards are not keeping up with technological
+development, and so developers on the cutting edge are not able to
+utilize new technologies without resorting to proprietary platforms.
+Many developers give up on web standards so that they can implement the
+latest and greatest products of the commercial or open source worlds. I
+personally would love to see XHTML taken beyond its HTML4.01 roots; the
+[WHATWG](http://www.whatwg.org/) tends to agree with me on this.
+However, with the current leadership of web standards, that simply
+isn't possible.
+
+We need new standards. The W3C is not keeping up with the pace of
+development, and therefore should either be revamped or replaced.

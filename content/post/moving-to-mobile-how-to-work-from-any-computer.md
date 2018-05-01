@@ -1,0 +1,54 @@
+---
+title: "Moving to mobile: how to work from any computer"
+date: 2008-04-17T10:48:00-05:00
+description: ""
+draft: false
+---
+Lately, working on multiple computers has started to take its toll on my
+time and productivity. I regularly use my work computer, my laptop, and
+my home computer, and occasionally use university computers and
+conference room computers. That's five different machines on a fairly
+frequent basis. It's hard to keep track of everything - especially if I
+need a file that's on machine X, or a password that's in the Firefox
+password manager on machine Y.
+
+So, to fix that, I'm going full mobile. I'm moving everything that can
+be securely moved (i.e., nothing proprietary from work) into the cloud.
+Here's a few of the things I'm doing to accomplish this:
+
+-   [KeePass](http://keepass.info/) - I'm moving all my passwords and
+    login names into the freely-available KeePass password manager.
+    It's portable and very secure, as well as able to generate some
+    really nice passwords for you - and all you need to know is one
+    password to unlock the database. No more having to remember dozens
+    of different passwords and logins.
+
+-   [Google Docs](https://drive.google.com/) - Documents that I don't
+    use often I'm archiving to DVD. Everything else, which isn't much,
+    I'm moving into Google Docs - both for ease of access and for the
+    unique collaborative quality of document editing in the cloud.
+
+-   [Google Reader](http://reader.google.com/) - Though I love the Flock
+    browser's social media functions, I'm moving to just using Google
+    Reader for all my feeds. That way I can keep up without having to
+    worry about logging on the right machine, and feeds that aren't
+    allowed at work - like the Wizards of the Coast feed - I just keep
+    in a separate, closed folder that doesn't trip the firewall.
+
+-   [Google Notebook](http://notebook.google.com/) - No need to keep
+    track of all my favorites/bookmarks separately. Notebook does this
+    for me. It even integrates with Firefox with a nifty toolbar.
+
+-   [Portable Apps](http://portableapps.com/) - For those times when I
+    really need a specific application, I'll just load up Portable Apps
+    on my flash drive. GAIM, OpenOffice, 7zip, Notepad++, it's all
+    there and all portable.
+
+The only applications which I can't transport easily are Photoshop and
+Star Wars Galaxies, but seeing as Adobe just released a web-based
+version of Photoshop that's freely available, the former's not going
+to be a problem. And I really don't need to be playing Galaxies at
+work, so that's not an issue either, heh.
+
+I'm taking my first steps toward being fully mobile. If you have any
+suggestions for additional ways to do this, let us know in the comments!

@@ -1,0 +1,61 @@
+---
+title: "Guild Wars 2 Final Beta Weekend"
+date: 2012-07-21T20:12:00-05:00
+description: ""
+draft: false
+---
+So last night was the first time I got to play Guild Wars 2. I've
+already preordered the Digital Deluxe Edition, and based on last
+night's experience, it was money well spent.
+
+My first character I rolled up was a Norn Ranger. I loved the "My
+Story" portion of character creation, and it was seamlessly integrated
+into the rest of the process. The Norn are huge, hulking giants with an
+extremely Norse flavor to them. The word "norn" itself is directly
+lifted from Norse mythology. That had my attention from before I even
+played the game, but it was greatly evident once I logged in that Norse
+mythology has influenced every facet of the Norn race. It was a great
+experience.
+
+The Ranger class proved to be a lot of fun. I started the game with an
+alpine wolf companion, and tamed a raven and an ice drake later on. I
+encountered a bug where, once I'd tamed a third creature, it took the
+name I'd given to my first. Switching them around fixed that (I LOVE
+being able to hot-swap pets). I tried three different weapon types with
+the Ranger - longbow, shortbow, and axe. Of the three, longbow was
+definitely my favorite, and the Barrage skill was far and away my
+favorite of the longbow set of skills. An AoE storm of arrows falling
+from the sky? Yes please.
+
+After doing several tasks (quests) and participating in a number of
+Events (kind of like public quests from Warhammer Online), I veered off
+into the realm of exploration. Guild Wars 2 actively rewards
+exploration, by placing "Undiscovered Vistas" throughout the game
+world. These Vistas are jumping puzzles that reward completion with XP
+and a cinematic pan around the area.
+
+During my exploration of the Norn areas, I stumbled on something that
+stole my attention for a good half hour - Keg Brawl. It's a little like
+football meets soccer meets a tavern brawl, where the "ball" is a keg
+of ale. It has rounds, but the players can drop in and out at any time,
+and it tries to balance the teams. Keg Brawl was a little frustrating at
+first, but once I figured out the abilities, it got to be fun.
+
+I also tried out an Asura Elementalist and a Charr Thief for a little
+bit, but I didn't really play them long enough to evaluate them
+properly. Unlike with my Norn character, I blew through character
+creation and just got into the game, ignoring the Story choices. I've
+already decided that my main at launch will be a Norn, so I didn't
+really want to know much about the other races' stories.
+
+The experience was pretty smooth, with very few glitches. However, there
+was one bug that proved very irritating. Every so often, I would try and
+interact with the login server (either to create a new character or to
+attempt to logout), and it would fail to connect to it. That in itself
+would have been fine, but then I would be unable to logout, unable to
+quit the program, and whenever I opened the Windows Task Manager to try
+and kill GW2, the entire computer would lock up. Only a hard reset would
+fix the issue.
+
+They really need to fix that problem, and I'm sure they will. But the
+game itself is a blast so far.

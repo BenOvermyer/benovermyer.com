@@ -1,0 +1,30 @@
+---
+title: "Why Jorn Barger is wrong and the rest of the world is right"
+date: 2007-12-07T20:54:00-05:00
+description: ""
+draft: false
+---
+So, as I was browsing the web for a topic for this week's blog post, I
+came across an article in Wired that really caught my eye. In it, the
+inventor of blogging, Jorn Barger, talks about [what blogging should
+have
+been](http://www.wired.com/culture/lifestyle/news/2007/12/blog_advice)
+instead of what it has become. He seems to be of the impression that
+blogs should be, essentially, reports of interesting links the blogger
+has seen recently.
+
+Sorry Jorn, but that's what del.icio.us and digg are for now.
+
+Blogs these days frequently come in two flavors - personal diaries and
+explorations of a particular topic. While links play a major role in
+most of the latter, they are often completely absent in the former.
+Blogging has gone beyond its humble origins and developed into something
+akin to a cross between 18th century coffee houses and digital soap
+boxes.
+
+Blogging is a powerful social medium. It can be a tremendous platform
+for conversation on just about any topic. My personal favorites, like
+productivity, fun, and fitness, have endless possibilities for debate,
+ideas, and plain craziness. It wouldn't be nearly as much fun, though,
+without the highly social nature of it all. A conversation isn't a
+conversation if it's a bunch of links.
