@@ -1,0 +1,25 @@
+<nav class="pagination" role="navigation" aria-label="pagination">
+    <a class="pagination-previous" {{ if .Paginator.HasPrev }}href="{{ .Paginator.Prev.URL }}" {{ else }}disabled{{ end }}>Previous</a>
+    <a class="pagination-next" {{ if .Paginator.HasNext }}href="{{ .Paginator.Next.URL }}"{{ else }}disabled{{ end }}>Next page</a>
+    <ul class="pagination-list">
+        <li>
+            <a class="pagination-link" aria-label="Goto page 1" href="{{ .Paginator.First.URL }}">First</a>
+        </li>
+        {{ if .Paginator.HasPrev }}
+        <li>
+            <a class="pagination-link" aria-label="Goto page {{ .Paginator.Prev.PageNumber }}" href="{{ .Paginator.Prev.URL }}">{{ .Paginator.Prev.PageNumber }}</a>
+        </li>
+        {{ end }}
+        <li>
+            <a class="pagination-link is-current" aria-label="Page {{ .Paginator.PageNumber }}" aria-current="page">{{ .Paginator.PageNumber }}</a>
+        </li>
+        {{ if .Paginator.HasNext }}
+        <li>
+            <a class="pagination-link" aria-label="Goto page {{ .Paginator.Next.PageNumber }}" href="{{ .Paginator.Next.URL }}">{{ .Paginator.Next.PageNumber }}</a>
+        </li>
+        {{ end }}
+        <li>
+            <a class="pagination-link" aria-label="Goto page {{ .Paginator.TotalPages }}" href="{{ .Paginator.Last.URL }}">Last</a>
+        </li>
+    </ul>
+</nav>

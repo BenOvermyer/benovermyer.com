@@ -21,6 +21,13 @@ cite {
     font-size: 1rem;
 }
 
+nav.pagination {
+    ul,li {
+        list-style: none;
+        margin: 0 auto;
+    }
+}
+
 .post-description {
     border-bottom: 1px solid #aaa;
     margin-bottom: 0.5rem;
