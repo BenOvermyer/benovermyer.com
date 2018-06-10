@@ -9,11 +9,11 @@ description = "My creations."
 
 I'm particularly interested in procedural generation of fictional worlds. I'm starting to do more of this under the banner of *Iron Arachne*. Here are a few of my projects in that vein:
 
-* [Heraldry Generator](https://github.com/ironarachne/heraldry) Heraldry generator, written in Go. Also a library for the same.
+* [Heraldry Generator](https://gitlab.com/ironarachne/heraldry) Heraldry generator, written in Go. Also a library for the same.
 
-* [Country Maker](https://github.com/BenOvermyer/country-maker) A fantasy country generator.
+* [Country Maker](https://gitlab.com/BenOvermyer/country-maker) A fantasy country generator.
 
-* [Name Generator](https://github.com/BenOvermyer/name-generator) A constructed-language name generator.
+* [Name Generator](https://gitlab.com/BenOvermyer/name-generator) A constructed-language name generator.
 
 ## Tabletop Games
 
