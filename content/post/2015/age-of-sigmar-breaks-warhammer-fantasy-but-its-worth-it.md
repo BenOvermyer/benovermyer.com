@@ -1,7 +1,7 @@
 ---
 title: "Age of Sigmar breaks Warhammer Fantasy, but it's worth it"
 date: 2015-07-19T13:03:00-05:00
-description: ""
+description: "Age of Sigmar is a different game from Warhammer Fantasy, and that's fine."
 draft: false
 ---
 Age of Sigmar grabbed the Warhammer Fantasy rulebook, tore it apart, and
@@ -9,9 +9,6 @@ threw the remains into the fire.
 
 I love the game that came out of that, even if there are some
 significant negatives to this event.
-
-![Age of
-Sigmar](http://www.spikeybits.com/wp-content/uploads/2015/07/age-of-sigmar-rules.jpg)
 
 From simulationist roots to casual narratives {#fromsimulationistrootstocasualnarratives}
 ---------------------------------------------
