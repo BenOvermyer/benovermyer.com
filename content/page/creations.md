@@ -11,9 +11,9 @@ I'm particularly interested in procedural generation of fictional worlds. I'm st
 
 * [Heraldry Generator](https://gitlab.com/ironarachne/heraldry) Heraldry generator, written in Go. Also a library for the same.
 
-* [Country Maker](https://gitlab.com/BenOvermyer/country-maker) A fantasy country generator.
+* [Uncharted worlds Character Generator](https://github.com/ironarachne/uncharted-worlds-chargen) A character generator for Uncharted Worlds.
 
-* [Name Generator](https://gitlab.com/BenOvermyer/name-generator) A constructed-language name generator.
+* [Name Generator](https://github.com/ironarachne/namegen) A command line name generator.
 
 ## Tabletop Games
 
