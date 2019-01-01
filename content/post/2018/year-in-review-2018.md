@@ -26,6 +26,3 @@ website for such tools, Iron Arachne.
 Finally, I started to really put normal effort into Silver Gryphon
 Games again. I've been blogging there regularly and working on
 multiple new books for the company.
-
-Tomorrow, I'll write about my goals for 2019 and where I want to be
-at the end of that year.
