@@ -5,23 +5,29 @@ title = "Résumé"
 description = "My résumé."
 +++
 
-The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now manage a team of engineers responsible for building out performant and highly-available digital infrastructure. My history as an engineer in the same capacity and my particular talents for guiding others and seeing the big picture have led me down this path. The challenge of the continually-evolving domain of web infrastructure drives me to always be learning and sharing that new knowledge. I give presentations on new technologies and techniques I learn, and occasionally write tutorials on my blog. 
+The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a "DevOps" consultant. I'm responsible for building out performant and highly-available digital infrastructure and teaching others how to do the same. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
 
-__Specialties:__ AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps philosophy, knowledge sharing, and leading effective teams.
+__Specialties:__ AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
 
-__Preferred Programming Languages:__ PHP, Python, JavaScript/Node.js, [Go](http://sobit.me/2016/02/25/go-from-php-engineers-perspective/)
+__Preferred Programming Languages:__ Go, Python, JavaScript/Node.js, PHP
 
 __Ancillary Skills:__ Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
-__Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Docker](https://www.docker.com/), [Linux](http://www.kubuntu.org)
+__Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Docker](https://www.docker.com/), [Linux](https://system76.com/pop)
 
 ## Work History
 
+### DevOps Consultant at Solution Design Group
+
+_May 2018 to present_
+
+I help enterprise clients modernize their infrastructure. Thus far this has involved helping migrate to Docker, automate various systems, help set up distributed tracing and other forms of monitoring, implement CI/CD, act as a developer advocate, act as a security adviser, and other such tasks.
+
 ### DevOps Engineer at Spok, Inc
 
-_November 2017 to Present_
+_November 2017 to May 2018_
 
-I'm part of a team of devops engineers working on automation and reliability for Spok. So far, I've focused primarily on hooking up monitoring systems and building out data analytics for the same.
+I was part of a team of devops engineers working on automation and reliability for Spok. I focused primarily on hooking up monitoring systems and building out data analytics for the same. I also worked on improving CI/CD processes with Jenkins at their core.
 
 ### Digital Manager, Operations at the Minneapolis Star Tribune
 
@@ -51,13 +57,13 @@ For the most part, I worked on back end systems using PHP and MySQL, with a heav
 
 _August 2011 to May 2013_
 
-In addition to my duties as a lead developer, I managed the IT staff at G3M. Some of the things I did in this capacity include: 
+In addition to my duties as a lead developer, I managed the IT staff at G3M. Some of the things I did in this capacity include:
 
-* Reduced IT infrastructure costs by ~60% by migrating to cloud resources 
-* Increased developer efficiency by introducing web-based time tracking to the IT team (and, later, the graphic design team). 
-* Lead development of a web-based loyalty rewards system built on Symfony2, Doctrine, and Twig with a MySQL database 
-* Introduced usage of version control (Git) 
-* Reengineered legacy Visual Foxpro applications into PHP scripts and web applications 
+* Reduced IT infrastructure costs by ~60% by migrating to cloud resources
+* Increased developer efficiency by introducing web-based time tracking to the IT team (and, later, the graphic design team).
+* Lead development of a web-based loyalty rewards system built on Symfony2, Doctrine, and Twig with a MySQL database
+* Introduced usage of version control (Git)
+* Reengineered legacy Visual Foxpro applications into PHP scripts and web applications
 * Designed, built, and maintained MySQL databases for client systems
 
 ### Software Engineer at CHR Solutions
@@ -100,7 +106,7 @@ Designed user interfaces and level layouts using proprietary software, Adobe Pho
 
 _August 2002 to November 2002_
 
-Designed and maintained two company websites, built a Flash-based virtual company lobby, and redesigned company logos.
+Designed and maintained two company websites, built a Flash-based virtual company lobby using 3D Studio MAX, and redesigned company branding.
 
 ## Education
 
@@ -108,13 +114,13 @@ Designed and maintained two company websites, built a Flash-based virtual compan
 
 B.A., History, 2004 - 2007 (Degree Received)
 
-#### Activities and Societies 
+#### Activities and Societies
 
 * Phi Alpha Theta
 * Japanese Animation & Culture Society
 * Medieval Society
 * Students in Free Enterprise
- 
+
 ### Massey University
 
 B.A., Japanese, 2002 - 2003 (Incomplete)
