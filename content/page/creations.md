@@ -9,7 +9,7 @@ description = "My creations."
 
 I'm particularly interested in procedural generation of fictional worlds. I'm starting to do more of this under the banner of *Iron Arachne*. Here are a few of my projects in that vein:
 
-* [Heraldry Generator](https://gitlab.com/ironarachne/heraldry) Heraldry generator, written in Go. Also a library for the same.
+* [World Generation API](https://github.com/ironarachne/world) World generation API, written in Go.
 
 * [Uncharted worlds Character Generator](https://github.com/ironarachne/uncharted-worlds-chargen) A character generator for Uncharted Worlds.
 
