@@ -11,7 +11,7 @@ I'm particularly interested in procedural generation of fictional worlds. I'm st
 
 * [World Generation API](https://github.com/ironarachne/world) World generation API, written in Go.
 
-* [Uncharted worlds Character Generator](https://github.com/ironarachne/uncharted-worlds-chargen) A character generator for Uncharted Worlds.
+* [Uncharted Worlds Character Generator](https://github.com/ironarachne/uncharted-worlds-chargen) A character generator for Uncharted Worlds.
 
 * [Name Generator](https://github.com/ironarachne/namegen) A command line name generator.
 
