@@ -9,7 +9,7 @@ The chief aim of any web technologist is to make a particular part of the web mo
 
 __Specialties:__ AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
 
-__Preferred Programming Languages:__ Go, Python, JavaScript/Node.js, PHP
+__Preferred Programming Languages:__ Go, Python, PHP, Ruby
 
 __Ancillary Skills:__ Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
@@ -43,9 +43,9 @@ I worked on a variety of systems to keep the [Twin Cities' best newspaper](http:
 
 ### Creative Director at Silver Gryphon Games
 
-_June 2007 to November 2014_
+_June 2007 to April 2019_
 
-I was co-owner, art director, layout artist, colorist, and Ingenium&trade; brand manager of [this tabletop gaming company](http://www.silvergryphongames.com). In this capacity I also authored several fantasy gaming books.
+I was co-owner, art director, layout artist, colorist, and Ingenium&trade; brand manager of [Silver Gryphon Games](https://www.silvergryphongames.com). In this capacity I also authored several fantasy gaming books.
 
 ### Senior Web Developer at Sportsdigita
 

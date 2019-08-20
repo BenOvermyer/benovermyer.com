@@ -11,7 +11,7 @@ You can get in touch with me a variety of ways. Email is best.
 
 *Email:* [ben@overmyer.net](mailto:ben@overmyer.net)
 
-*Mastodon:* [@dungeonHack](https://mmorpg.social/@dungeonHack)
+*Twitter:* [@bovermyer](https://twitter.com/bovermyer)
 
 *LinkedIn:* [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
@@ -29,13 +29,11 @@ I started my professional career as a developer, not a system administrator. Now
 
 __Politics:__ Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. But, within the American context, you could consider me a pragmatic progressive.
 
-__Religion:__ I identify greatly with this quote attributed to late Czech statesman Václav Havel:
-
-> Seek the company of those who search for truth; run from those who have found it.
+__Guiding Philosophies:__ Stoicism, with a dash of existential nihilism
 
 __Causes I Care About:__ Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-__Hobbies:__ Gaming (PC and tabletop), volunteering, writing, art
+__Hobbies:__ Gaming, coding, writing short-form nonfiction, painting, making themed music playlists, hosting parties
 
 __Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
 

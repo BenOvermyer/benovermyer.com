@@ -23,11 +23,11 @@ These are listed in reverse chronological order. Where possible, I included a li
 
 ### Writer Credit
 
-* [Master Nicholas and the Wayward Wizardry] (http://www.drivethrurpg.com/product/124154/Master-Nicholas-and-the-Wayward-Wizardy) (Silver Gryphon Games, 2013)
+* Master Nicholas and the Wayward Wizardry (Silver Gryphon Games, 2013)
 
-* [A Darkness at Summerfort] (http://www.drivethrurpg.com/product/112347/A-Darkness-at-Summerfort) (Silver Gryphon Games, 2013)
+* A Darkness at Summerfort (Silver Gryphon Games, 2013)
 
-* [Ingenium™] (http://www.drivethrurpg.com/product/86469/Ingenium) (Silver Gryphon Games, 2010)
+* Ingenium™ (Silver Gryphon Games, 2010)
 
 ### Artist Credit
 
@@ -59,10 +59,10 @@ These are listed in reverse chronological order. Where possible, I included a li
 
 * Diabolical Traps – Skeletons (Silver Gryphon Games, 2007)
 
-* [Big Eyes, Small Mouth 3rd Edition] (http://www.drivethrurpg.com/product/24482/BESM-Big-Eyes-Small-Mouth-3rd-Edition) (White Wolf, 2007)
+* Big Eyes, Small Mouth 3rd Edition (White Wolf, 2007)
 
-* [Post Apocalyptic Hero] (https://www.amazon.com/Post-apocalyptic-Hero-2007-Games-System/dp/1583661050) (Hero Games, 2007)
+* Post Apocalyptic Hero (Hero Games, 2007)
 
-## Articles (Writer Credit)
+## Other Writings
 
 * Creating Convincing Villains (The Amethyst Alliance/The RPG Consortium, 2004)
