@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 {{ partial "head.html" . }}
+
 <body>
 	{{ partial "nav.html" . }}
 	<section class="section">
@@ -9,7 +10,7 @@
 				<div class="column content">
 					<h2 class="title is-2">Blog Posts</h2>
 					{{ range .Paginator.Pages }}
-						{{ .Render "li" }}
+					{{ .Render "li" }}
 					{{ end }}
 					{{ partial "pagination.html" . }}
 				</div>
@@ -19,4 +20,5 @@
 	</section>
 	{{ partial "footer.html" . }}
 </body>
+
 </html>

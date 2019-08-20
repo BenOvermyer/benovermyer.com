@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html>
 {{ partial "head.html" . }}
+
 <body>
 	{{ partial "nav.html" . }}
 	<div class="container">
 		<div class="columns">
 			<div class="column">
 				{{ range .Paginator.Pages }}
-					{{ .Render "li" }}
+				{{ .Render "li" }}
 				{{ end }}
 			</div>
 		</div>
 	</div>
 	{{ partial "footer.html" . }}
 </body>
+
 </html>
