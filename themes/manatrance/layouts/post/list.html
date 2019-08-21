@@ -9,7 +9,7 @@
 			<div class="columns">
 				<div class="column content">
 					<h2 class="title is-2">Blog Posts</h2>
-					{{ range .Paginator.Pages }}
+					{{ range (.Paginator 5).Pages }}
 					{{ .Render "li" }}
 					{{ end }}
 					{{ partial "pagination.html" . }}

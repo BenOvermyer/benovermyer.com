@@ -3,6 +3,7 @@ title: 'Updates to Iron Arachne: The World API and more'
 date: Sun, 12 May 2019 14:50:20 +0000
 draft: false
 tags: [Development, Iron Arachne]
+description: Condensing everything into one project...
 ---
 
 It's been awhile since I blogged about [Iron Arachne](https://ironarachne.com). Much has changed since then.

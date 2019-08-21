@@ -5,11 +5,11 @@
         {{ else }}disabled{{ end }}>Next page</a>
     <ul class="pagination-list">
         <li>
-            <a class="pagination-link" aria-label="Goto page 1" href="{{ .Paginator.First.URL }}">First</a>
+            <a class="pagination-link" aria-label="Go to page 1" href="{{ .Paginator.First.URL }}">First</a>
         </li>
         {{ if .Paginator.HasPrev }}
         <li>
-            <a class="pagination-link" aria-label="Goto page {{ .Paginator.Prev.PageNumber }}"
+            <a class="pagination-link" aria-label="Go to page {{ .Paginator.Prev.PageNumber }}"
                 href="{{ .Paginator.Prev.URL }}">{{ .Paginator.Prev.PageNumber }}</a>
         </li>
         {{ end }}
@@ -19,12 +19,12 @@
         </li>
         {{ if .Paginator.HasNext }}
         <li>
-            <a class="pagination-link" aria-label="Goto page {{ .Paginator.Next.PageNumber }}"
+            <a class="pagination-link" aria-label="Go to page {{ .Paginator.Next.PageNumber }}"
                 href="{{ .Paginator.Next.URL }}">{{ .Paginator.Next.PageNumber }}</a>
         </li>
         {{ end }}
         <li>
-            <a class="pagination-link" aria-label="Goto page {{ .Paginator.TotalPages }}"
+            <a class="pagination-link" aria-label="Go to page {{ .Paginator.TotalPages }}"
                 href="{{ .Paginator.Last.URL }}">Last</a>
         </li>
     </ul>

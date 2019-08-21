@@ -3,6 +3,7 @@ title: 'Getting back into MMORPGs'
 date: Wed, 06 Mar 2019 00:18:30 +0000
 draft: false
 tags: [Elder Scrolls Online, Gaming, MMORPGs, Project Gorgon]
+description: Returning to actively playing MMORPGs in general, and one in particular.
 ---
 
 As a result of my one-year boycott of Activision-Blizzard, I found myself without any of my usual games to play. I decided to take the opportunity to return to a genre I haven't played much of in the past few years - MMORPGs.

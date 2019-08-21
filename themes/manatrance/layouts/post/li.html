@@ -2,6 +2,7 @@
     <div class="column content">
         <h3 class="title is-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
         <p class="subtitle is-5">{{ dateFormat "Monday, January 2, 2006" .Date }}</p>
-        <p class="post-description">{{ .Description }}</p>
+        <p class="reading-time"><strong>Estimated Reading Time:</strong> {{ .ReadingTime }} minutes</strong></p>
+        <p class="post-description">{{ .Summary }}</p>
     </div>
 </div>
