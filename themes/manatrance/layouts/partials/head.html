@@ -1,6 +1,9 @@
     <head>
         {{ partial "meta.html" . }}
         <title>{{ .Title }} | {{ .Site.Title }}</title>
+        {{ with .OutputFormats.Get "rss" -}}
+            {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{ end -}}
         <link href="{{ .Site.BaseURL }}" rel="canonical">
         <link href="{{ .Site.BaseURL }}css/main.css" rel="stylesheet" type='text/css'>
         <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
