@@ -1,11 +1,11 @@
 ---
 title: "Uses"
 date: 2020-01-23T14:31:18-06:00
-draft: true
+draft: false
 description: "The tools and software that I use on a daily basis."
 ---
 
-This is a list of all the things that I use to be productive day-to-day.
+This is a list of all the things that I use to be productive day-to-day. It's inspired by [this page](https://github.com/wesbos/awesome-uses).
 
 ## Hardware
 
@@ -14,7 +14,21 @@ This is a list of all the things that I use to be productive day-to-day.
 **Website:** [Corsair K70 Lux](https://www.corsair.com/us/en/Categories/Products/Gaming-Keyboards/Mechanical-Gaming-Keyboards/k70-lux-config-na/p/CH-9101020-NA)
 
 I bought this keyboard back in 2013, and it's been my daily workhorse ever since. I use it for gaming, coding, and writing.
-The cats don't mind.
+The cats don't mind the loudness of the Cherry Red switches.
+
+### Viotek GN34C 34" Ultrawidescreen Monitor
+
+**Website:** [Viotek GN34C](https://viotek.com/viotek-gn34cx-34-ultrawide-qhd-curved-professional-monitor-100hz-219-freesync/)
+
+Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing
+capabilities. Also, watching movies on this thing is awesome.
+
+### DXRacer King Zero gaming chair
+
+**Website:** [DXRacer King Zero](https://www.dxracer.com/au/en-au/product/1/gaming-chair/king-series/oh-kf00-nr-zero/)
+
+After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming
+chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
 
 ## Quality of Life Apps
 
@@ -71,7 +85,7 @@ I write a lot of Go. And by far the best tool for writing Go has been GoLand.
 
 **Website:** [Namecheap](https://www.namecheap.com/)
 
-I've heard that other domain registrars are better (e.g., Hover), but I host almost all of my domains
+I've heard that other domain registrars are better (e.g., [Hover](https://www.hover.com/)), but I host almost all of my domains
 at Namecheap because it works well enough.
 
 ### Digital Ocean
