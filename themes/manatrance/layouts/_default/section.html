@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "nav.html" . }}
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <div class="content">
+          <h1 class="title is-1">{{ .Title }}</h1>
+          <p>{{ .Description }}</p>
+        </div>
+        {{ range .Paginator.Pages.ByTitle }}
+        <article class="section-page content">
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description }}</p>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
+</body>
+
+</html>
