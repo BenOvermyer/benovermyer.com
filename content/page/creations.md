@@ -17,11 +17,17 @@ I'm particularly interested in procedural generation of fictional worlds. I'm st
 
 ## Tabletop Games
 
-Over the years I’ve released a variety of books, articles, and other documents into the wild. Some of these were published in the true print sense, and some were only released online.
+Over the years I've been involved in tabletop game publications either as an artist, a writer, or both. I've also written a number of games that were never formally published.
 
-These are listed in reverse chronological order. Where possible, I included a link to the most recent publicly available version.
+### Unpublished Works Available Online
 
-### Writer Credit
+You can see some of my unpublished works on my "tilde" website here: [Sith Lord's RPG Trove](http://tilde.town/~sithlord)
+
+### Publication Credits
+
+This is a list of all publications that credit me as a contributor.
+
+#### Writer Credit
 
 * Master Nicholas and the Wayward Wizardry (Silver Gryphon Games, 2013)
 
@@ -29,7 +35,7 @@ These are listed in reverse chronological order. Where possible, I included a li
 
 * Ingenium™ (Silver Gryphon Games, 2010)
 
-### Artist Credit
+#### Artist Credit
 
 * A Stitched In Time (Silver Gryphon Games, 2014)
 

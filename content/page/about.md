@@ -21,7 +21,7 @@ I'm a software engineer who loves the web. Not just web technology, mind you; th
 
 I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. For the moment, I live in Minneapolis, Minnesota.
 
-My particular focus in the professional world is site reliability and systems architecture. Complex systems and their interactions are amazing things.
+My particular focus in the professional world is automation and systems architecture. Complex systems and their interactions are amazing things.
 
 I started my professional career as a developer, not a system administrator. Now I'm a "DevOps" engineer. I love driving innovation, understanding of systems, and reliability. It's a fascinating domain.
 
@@ -37,6 +37,8 @@ __Hobbies:__ Gaming, coding, writing short-form nonfiction, painting, making the
 
 __Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
 
-__Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp).
+__Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp)
+
+__Hogwarts House:__ Slytherin
 
 __Languages Spoken:__ English (Native), Japanese (Badly), German (Badly), Spanish (Badly)

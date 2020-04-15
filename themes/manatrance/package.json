@@ -1,10 +1,10 @@
 {
   "name": "manatrance-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The manatrance theme for Hugo",
   "main": "index.js",
   "dependencies": {
-    "bulma": "^0.7.1"
+    "bulma": "^0.8.2"
   },
   "devDependencies": {},
   "scripts": {
