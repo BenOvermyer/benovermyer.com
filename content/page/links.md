@@ -7,9 +7,19 @@ description = "A curated list of links to interesting web pages."
 
 This may have once been called a "web directory." What follows is a set of links to pages around the web that I find interesting.
 
-## World Creation
+## Procedural Generation
 
-This is my list of links I've found to interesting world creation projects.
+* [Algorithms for Procedural Content Generation](http://pcg.wikidot.com/category-pcg-algorithms) - a bunch of algorithms
+* [Here Dragons Abound](https://heredragonsabound.blogspot.com/) - a blog by a procedural map generator creator
+* [Red Blob Games](https://www.redblobgames.com/) - tutorials and interactive lessons on procedural generation, especially for games
+
+## Tabletop Role-Playing Games
+
+* [Shadow of the Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/) - a really dark fantasy RPG
+* [Sith Lord's RPG Trove](http://tilde.town/~sithlord/) - my own site for RPGs I write
+* [Uncharted Worlds](https://uncharted-worlds.com/) - a freeform space opera RPG
+
+## World Creation
 
 * [Iron Arachne](https://ironarachne.com/) - this is my own site devoted to such things!
 * [& Magazine map generation tools](http://wizardawn.and-mag.com/tool_world.php)
