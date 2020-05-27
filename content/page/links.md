@@ -7,6 +7,10 @@ description = "A curated list of links to interesting web pages."
 
 This may have once been called a "web directory." What follows is a set of links to pages around the web that I find interesting.
 
+## Food and Drink
+
+* [Webtender](https://www.webtender.com/) - a mixology site, including a cool feature that gives you recipes based on what you have in your bar
+
 ## Procedural Generation
 
 * [Algorithms for Procedural Content Generation](http://pcg.wikidot.com/category-pcg-algorithms) - a bunch of algorithms
