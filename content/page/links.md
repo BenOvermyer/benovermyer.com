@@ -38,3 +38,4 @@ This may have once been called a "web directory." What follows is a set of links
 * [Procedural Name Generator](http://www.samcodes.co.uk/project/markov-namegen/)
 * [Seventh Sanctum](https://www.seventhsanctum.com/)
 * [Springhole Worldbuilding Generators](http://www.springhole.net/writing_roleplaying_randomators/worldbuilding.htm)
+* [WorldMaster](http://www.wintertreeredux.com/index.shtml) - one of the (maybe THE) first programmatic generators out there
