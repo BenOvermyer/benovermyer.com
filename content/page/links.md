@@ -7,8 +7,19 @@ description = "A curated list of links to interesting web pages."
 
 This may have once been called a "web directory." What follows is a set of links to pages around the web that I find interesting.
 
+## Design
+
+* [Butterick's Practical Typography](https://practicaltypography.com/) - a definitive guide to typography
+
+## Fonts
+
+* [Fantasque Sans](https://github.com/belluzj/fantasque-sans) - my current coding font family
+* [Fira Code](https://github.com/tonsky/FiraCode)
+* [Iosevka](https://typeof.net/Iosevka/)
+
 ## Food and Drink
 
+* [Supercook](https://www.supercook.com/) - a website that recommends recipes based on your ingredients
 * [Webtender](https://www.webtender.com/) - a mixology site, including a cool feature that gives you recipes based on what you have in your bar
 
 ## Procedural Generation
@@ -19,6 +30,7 @@ This may have once been called a "web directory." What follows is a set of links
 
 ## Tabletop Role-Playing Games
 
+* [Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/)
 * [Shadow of the Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/) - a really dark fantasy RPG
 * [Sith Lord's RPG Trove](http://tilde.town/~sithlord/) - my own site for RPGs I write
 * [Uncharted Worlds](https://uncharted-worlds.com/) - a freeform space opera RPG
