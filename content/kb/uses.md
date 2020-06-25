@@ -9,12 +9,12 @@ This is a list of all the things that I use to be productive day-to-day. It's in
 
 ## Hardware
 
-### Corsair K70 mechanical keyboard
+### Steelseries Apex Pro Keyboard
 
-**Website:** [Corsair K70 Lux](https://www.corsair.com/us/en/Categories/Products/Gaming-Keyboards/Mechanical-Gaming-Keyboards/k70-lux-config-na/p/CH-9101020-NA)
+**Website:** [Steelseries Apex Pro](https://steelseries.com/gaming-keyboards/apex-pro)
 
-I bought this keyboard back in 2013, and it's been my daily workhorse ever since. I use it for gaming, coding, and writing.
-The cats don't mind the loudness of the Cherry Red switches.
+This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel that I just adore. It's great for gaming
+and typing.
 
 ### Viotek GN34C 34" Ultrawidescreen Monitor
 
@@ -30,7 +30,7 @@ capabilities. Also, watching movies on this thing is awesome.
 After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming
 chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
 
-## Quality of Life Apps
+## Lifestyle Software
 
 ### Firefox
 
@@ -39,7 +39,7 @@ chair. It was a night and day experience. So comfortable! Mine is sunburst yello
 This is my web browser of choice. While sometimes I'm forced to use Brave, I try to avoid anything
 Chromium-based if I can help it.
 
-## Design
+## Design Software
 
 ### Affinity Photo
 
@@ -62,16 +62,14 @@ Inkscape when I need to trace raster graphics.
 Same story as Photo, but this one replaces Adobe InDesign. It's still new enough to have some issues and
 there are features missing, but it works well enough for laying out books and such.
 
-## Development
+## Development Software
 
-### Sublime Text
+### Visual Studio Code
 
-**Website:** [Sublime Text](https://www.sublimetext.com/)
+**Website:** [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 
-Up until recently, I used VS Code for anything that didn't need a dedicated IDE, but was a little too
-heavy for just `vim`. However, after getting fed up with some annoying Electron issues, I decided to
-try Sublime Text again. It had been about half a decade since I last tried it out, but oh man, is it
-_fast_. I've now uninstalled VS Code everywhere and use this instead.
+Though I switched back to Sublime Text for a time due to its speed, I had to come back to VSCode for
+light code editing owing to its robust plugin ecosystem.
 
 ### GoLand
 
@@ -79,7 +77,13 @@ _fast_. I've now uninstalled VS Code everywhere and use this instead.
 
 I write a lot of Go. And by far the best tool for writing Go has been GoLand.
 
-## Hosting
+### PHPStorm
+
+**Website:** [Jetbrains PHPStorm](https://www.jetbrains.com/phpstorm/)
+
+When I write PHP, this is the IDE I use most.
+
+## Hosting and Infrastructure Services
 
 ### Namecheap
 

@@ -4,7 +4,7 @@ date: 2020-01-03T08:29:45-06:00
 draft: false
 description: My predictions for what the next ten years will hold.
 ---
-This post is inspired by this thread from Hacker News. I posted a comment there
+This post is inspired by a thread from Hacker News. I posted a comment there
 with ten predictions for 2030. This is an extrapolation of that.
 
 ## Global Trends and Events

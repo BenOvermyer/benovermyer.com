@@ -1,16 +1,32 @@
-@import "../../node_modules/bulma/sass/utilities/initial-variables";
-
 $body-size: 24px;
 $family-sans-serif: "Gill Sans", sans-serif;
 $family-serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$family-primary: $family-serif;
+$page-width: 900px;
 
 body, html {
+    font-family: $family-serif;
     font-feature-settings: "kern" 1, "dlig" 1;
+    font-size: $body-size;
 }
 
 h1, h2, h3, h4, h5, h6, nav {
     font-family: $family-sans-serif;
+}
+
+h1 {
+    font-size: 1.25rem;
+}
+
+h2 {
+    font-size: 1.1rem;
+}
+
+h3 {
+    font-size: 1.0rem;
+}
+
+h4, h5, h6 {
+    font-size: 1.0rem;
 }
 
 cite {
@@ -22,9 +38,13 @@ cite {
 }
 
 nav.pagination {
-    ul,li {
+    display: flex;
+    ul {
+        display: flex;
         list-style: none;
-        margin: 0 auto;
+        li {
+            margin-right: 1rem;
+        }
     }
 }
 
@@ -34,4 +54,32 @@ nav.pagination {
     padding-bottom: 0.25rem;
 }
 
-@import "../../node_modules/bulma/bulma.sass";
+.header {
+    border-bottom: 1px solid #000;
+}
+
+.header p {
+    font-style: italic;
+}
+
+footer {
+    border-top: 1px solid #000;
+    width: $page-width;
+    margin: 0 auto;
+    p {
+        font-size: 0.8rem;
+    }
+}
+
+section {
+    width: $page-width;
+    margin: 0 auto;
+}
+
+ul.menu {
+    list-style: none;
+    display: flex;
+    li {
+        margin-left: 1rem;
+    }
+}

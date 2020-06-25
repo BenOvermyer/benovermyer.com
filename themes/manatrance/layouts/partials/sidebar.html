@@ -1,5 +1,5 @@
-<div class="column is-one-third content">
-    <h3 class="title is-3">Recent Posts</h3>
+<div>
+    <h2>Recent Posts</h2>
     <ul>
         {{- range first .Site.Params.SidebarRecentLimit (where .Site.RegularPages "Section" "post") -}}
         <li><a href="{{ .RelPermalink }}">{{.Title}}</a> <cite>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</cite></li>

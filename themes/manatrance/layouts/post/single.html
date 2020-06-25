@@ -4,16 +4,11 @@
 
 <body class="single">
 	{{ partial "nav.html" . }}
-	<section class="section">
-		<div class="container">
-			<div class="columns">
-				<div class="column content">
-					<h2 class="title is-2">{{ .Title }}</h2>
-					<p class="subtitle is-4">Posted {{ dateFormat "Monday, January 2, 2006" .Date }}</p>
-					{{ .Content }}
-				</div>
-				{{ partial "sidebar.html" . }}
-			</div>
+	<section>
+		<div class="post">
+            <h2>{{ .Title }}</h2>
+            <p>Posted {{ dateFormat "Monday, January 2, 2006" .Date }}</p>
+            {{ .Content }}
 		</div>
 	</section>
 	{{ partial "footer.html" . }}
