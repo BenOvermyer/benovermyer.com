@@ -28,10 +28,6 @@ cite {
   font-size: 0.75rem;
 }
 
-.navbar-item {
-  font-size: 1rem;
-}
-
 nav.pagination {
   display: flex;
 }
@@ -57,9 +53,36 @@ nav.pagination ul li {
   font-style: italic;
 }
 
+@media screen and (min-width: 900px) {
+  footer, section {
+    width: 900px;
+  }
+
+  ul.menu {
+    list-style: none;
+    display: flex;
+  }
+  ul.menu li {
+    margin-left: 1rem;
+  }
+}
+@media screen and (max-width: 899px) {
+  nav.pagination {
+    display: inline;
+  }
+  nav.pagination ul {
+    display: block;
+  }
+  nav.pagination ul li {
+    display: block;
+  }
+
+  footer, section {
+    width: 80%;
+  }
+}
 footer {
   border-top: 1px solid #000;
-  width: 900px;
   margin: 0 auto;
 }
 footer p {
@@ -67,16 +90,7 @@ footer p {
 }
 
 section {
-  width: 900px;
   margin: 0 auto;
-}
-
-ul.menu {
-  list-style: none;
-  display: flex;
-}
-ul.menu li {
-  margin-left: 1rem;
 }
 
 /*# sourceMappingURL=main.css.map */

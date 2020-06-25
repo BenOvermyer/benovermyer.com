@@ -1,7 +1,6 @@
 $body-size: 24px;
 $family-sans-serif: "Gill Sans", sans-serif;
 $family-serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$page-width: 900px;
 
 body, html {
     font-family: $family-serif;
@@ -33,10 +32,6 @@ cite {
     font-size: 0.75rem;
 }
 
-.navbar-item {
-    font-size: 1rem;
-}
-
 nav.pagination {
     display: flex;
     ul {
@@ -62,9 +57,36 @@ nav.pagination {
     font-style: italic;
 }
 
+@media screen and (min-width:900px) {
+    footer, section {
+        width: 900px;
+    }
+    ul.menu {
+        list-style: none;
+        display: flex;
+        li {
+            margin-left: 1rem;
+        }
+    }
+}
+
+@media screen and (max-width:899px) {
+    nav.pagination {
+        display: inline;
+        ul {
+            display: block;
+            li {
+                display: block;
+            }
+        }
+    }
+    footer, section {
+        width: 80%;
+    }
+}
+
 footer {
     border-top: 1px solid #000;
-    width: $page-width;
     margin: 0 auto;
     p {
         font-size: 0.8rem;
@@ -72,14 +94,5 @@ footer {
 }
 
 section {
-    width: $page-width;
     margin: 0 auto;
-}
-
-ul.menu {
-    list-style: none;
-    display: flex;
-    li {
-        margin-left: 1rem;
-    }
 }
