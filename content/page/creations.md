@@ -19,10 +19,6 @@ I'm particularly interested in procedural generation of fictional worlds. I'm st
 
 Over the years I've been involved in tabletop game publications either as an artist, a writer, or both. I've also written a number of games that were never formally published.
 
-### Unpublished Works Available Online
-
-You can see some of my unpublished works on my "tilde" website here: [Sith Lord's RPG Trove](http://tilde.town/~sithlord)
-
 ### Publication Credits
 
 This is a list of all publications that credit me as a contributor.
