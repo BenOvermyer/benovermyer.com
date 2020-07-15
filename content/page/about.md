@@ -19,11 +19,11 @@ You can get in touch with me a variety of ways. Email is best.
 
 I'm a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Since its inception, it has changed the world. It's my job and my passion to make it better.
 
-I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. For the moment, I live in Minneapolis, Minnesota.
+I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Since 2011, I have lived in Minneapolis, Minnesota. The climate may be a little suspect in the colder months, but it's one of the best places I've lived in my entire life.
 
 My particular focus in the professional world is automation and systems architecture. Complex systems and their interactions are amazing things.
 
-I started my professional career as a developer, not a system administrator. Now I'm a "DevOps" engineer. I love driving innovation, understanding of systems, and reliability. It's a fascinating domain.
+I started my professional career as a developer, not a system administrator. Now I'm an engineer specializing in DevOps. I love driving innovation, understanding of systems, and reliability. It's a fascinating domain.
 
 ## Personal Specifics
 
@@ -33,7 +33,7 @@ __Guiding Philosophies:__ Stoicism, with a dash of existential nihilism
 
 __Causes I Care About:__ Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-__Hobbies:__ Gaming, coding, writing short-form nonfiction, painting, making themed music playlists, hosting parties
+__Hobbies:__ Gaming, developing procedurally generated content tools for tabletop RPGs, writing short-form nonfiction, painting, making themed music playlists
 
 __Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
 
