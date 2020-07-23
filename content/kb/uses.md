@@ -9,26 +9,27 @@ This is a list of all the things that I use to be productive day-to-day. It's in
 
 ## Hardware
 
+### 2019 MacBook Pro 16"
+
+I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. Since then, it's been amazing. Though I had to give up some gaming capability, the tradeoff is that everything else is worlds better. Having 32 GB of RAM certainly helps matters.
+
 ### Steelseries Apex Pro Keyboard
 
 **Website:** [Steelseries Apex Pro](https://steelseries.com/gaming-keyboards/apex-pro)
 
-This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel that I just adore. It's great for gaming
-and typing.
+This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel that I just adore. It's great for gaming and typing.
 
 ### Viotek GN34C 34" Ultrawidescreen Monitor
 
 **Website:** [Viotek GN34C](https://viotek.com/viotek-gn34cx-34-ultrawide-qhd-curved-professional-monitor-100hz-219-freesync/)
 
-Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing
-capabilities. Also, watching movies on this thing is awesome.
+Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing capabilities. Also, watching movies on this thing is awesome.
 
 ### DXRacer King Zero gaming chair
 
 **Website:** [DXRacer King Zero](https://www.dxracer.com/au/en-au/product/1/gaming-chair/king-series/oh-kf00-nr-zero/)
 
-After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming
-chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
+After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
 
 ## Lifestyle Software
 
@@ -36,8 +37,7 @@ chair. It was a night and day experience. So comfortable! Mine is sunburst yello
 
 **Website:** [Firefox](https://www.firefox.com/)
 
-This is my web browser of choice. While sometimes I'm forced to use Brave, I try to avoid anything
-Chromium-based if I can help it.
+This is my web browser of choice. I avoid Chromium-based browsers whenever possible. Sometimes I'll use Safari, though.
 
 ## Design Software
 
