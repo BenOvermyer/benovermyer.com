@@ -1,8 +1,8 @@
 ---
-title: "Armoring"
+title: "Cosplay Armoring"
 date: 2019-12-24T12:38:52-05:00
 draft: false
-description: "Making armor for cosplay"
+description: "Notes on the fabrication of costume armor"
 ---
 
 These are notes regarding the fabrication of costume armor.

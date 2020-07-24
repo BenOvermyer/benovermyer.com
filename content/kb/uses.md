@@ -23,7 +23,7 @@ This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel tha
 
 **Website:** [Viotek GN34C](https://viotek.com/viotek-gn34cx-34-ultrawide-qhd-curved-professional-monitor-100hz-219-freesync/)
 
-Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing capabilities. Also, watching movies on this thing is awesome.
+Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing capabilities. Also, watching movies on this thing is awesome. In order for it to work correctly on my MacBook Pro, though, I needed to buy an app. It doesn't properly declare its resolutions. 
 
 ### DXRacer King Zero gaming chair
 
