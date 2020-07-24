@@ -32,11 +32,11 @@ This may have once been called a "web directory." What follows is a set of links
 
 * [Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/)
 * [Shadow of the Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/) - a really dark fantasy RPG
-* [Sith Lord's RPG Trove](http://tilde.town/~sithlord/) - my own site for RPGs I write
 * [Uncharted Worlds](https://uncharted-worlds.com/) - a freeform space opera RPG
 
 ## World Creation
 
+* [Tabletop Role-Playing Game Generators](https://www.rpggen.dev) - a link directory for generator tools for RPGs
 * [Iron Arachne](https://ironarachne.com/) - this is my own site devoted to such things!
 * [& Magazine map generation tools](http://wizardawn.and-mag.com/tool_world.php)
 * [Chaotic Shiny](http://chaoticshiny.com/) - a TON of tools, many of which covers areas the others don't (e.g., culture generator)

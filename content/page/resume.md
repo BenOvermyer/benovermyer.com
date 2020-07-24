@@ -7,13 +7,13 @@ description = "My résumé."
 
 The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a "DevOps" consultant. I'm responsible for building out performant and highly-available digital infrastructure and teaching others how to do the same. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
 
-__Specialties:__ AWS infrastructure, high availability, continuous deployment, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
+**Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
 
-__Preferred Programming Languages:__ Go, Python, PHP, Ruby
+**Preferred Programming Languages:** Go, Python, PHP, Ruby
 
-__Ancillary Skills:__ Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
+**Ancillary Skills:** Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
-__Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Docker](https://www.docker.com/), [Linux](https://system76.com/pop)
+**Tools of Choice:** [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Visual Studio Code](https://code.visualstudio.com/), [Chef](https://chef.io), [Docker](https://www.docker.com/), [Linux](https://system76.com/pop)
 
 ## Work History
 
@@ -21,7 +21,7 @@ __Tools of Choice:__ [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-v
 
 _May 2018 to present_
 
-I help enterprise clients modernize their infrastructure. Thus far this has involved helping migrate to Docker, automate various systems, help set up distributed tracing and other forms of monitoring, implement CI/CD, act as a developer advocate, act as a security adviser, and other such tasks.
+I help enterprise clients modernize their infrastructure. Thus far this has involved writing orchestration management code in Chef and Ansible, helping migrate to Docker, automating various systems, helping set up distributed tracing and other forms of monitoring, implementing CI/CD, acting as a developer advocate, acting as a security adviser, and other such tasks.
 
 ### DevOps Engineer at Spok, Inc
 

@@ -7,7 +7,7 @@ description = "About me."
 
 ## Contact Information
 
-You can get in touch with me a variety of ways. Email is best.
+You can get in touch with me in a variety of ways. Email is best.
 
 *Email:* [ben@overmyer.net](mailto:ben@overmyer.net)
 
@@ -27,18 +27,20 @@ I started my professional career as a developer, not a system administrator. Now
 
 ## Personal Specifics
 
-__Politics:__ Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. But, within the American context, you could consider me a pragmatic progressive.
+**Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. But, within the American context, you could consider me a pragmatic progressive with big-state leanings.
 
-__Guiding Philosophies:__ Stoicism, with a dash of existential nihilism
+**Guiding Philosophies:** Stoicism, pragmatism, and a dash of existential nihilism to keep it real
 
-__Causes I Care About:__ Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/)
+**Causes I Care About:** Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/), universal education, universal health care
 
-__Hobbies:__ Gaming, developing procedurally generated content tools for tabletop RPGs, writing short-form nonfiction, painting, making themed music playlists
+**Hobbies:** Reading, gaming, developing procedurally generated content tools for tabletop RPGs, writing short-form nonfiction, painting, making themed music playlists
 
-__Theme Song:__ [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
+**Theme Song:** [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
 
-__Myers-Briggs Type:__ [ENFP](http://www.humanmetrics.com/personality/enfp)
+**Myers-Briggs Type:** [ENFP](http://www.humanmetrics.com/personality/enfp)
 
-__Hogwarts House:__ Slytherin
+**Hogwarts House:** Slytherin
 
-__Languages Spoken:__ English (Native), Japanese (Badly), German (Badly), Spanish (Badly)
+**Dungeons &amp; Dragons Archetype:** Half-Elf Sorcerer
+
+**Languages Spoken:** English (Native), Japanese (Badly), German (Badly), Spanish (Badly)
