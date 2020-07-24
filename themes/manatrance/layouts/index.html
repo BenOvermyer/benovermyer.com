@@ -4,29 +4,28 @@
 
 <body>
     {{ partial "nav.html" . }}
-    <section>
-        <div>
-            {{ partial "header.html" . }}
-            <p>
-                Hi, I'm Ben. I love making web experiences awesome for people and machines.
-            </p>
-            <p>
-                By day, I work as a DevOps consultant. My time is spent helping organizations up their web operations
-                game.
-            </p>
-            <p>
-                In my free time I work on procedural content generation tools for tabletop role-playing games. You can
-                see my
-                latest works in this area at <a href="https://ironarachne.com">Iron Arachne</a>.
-            </p>
-            <p>
-                I spend a lot of time thinking about how to encourage people of wildly different worldviews to talk to
-                each
-                other instead of yelling at each other.
-            </p>
-            {{ partial "sidebar.html" . }}
-        </div>
-    </section>
+    <main>
+        {{ partial "header.html" . }}
+        <img class="photo" src="/dithered-photo.jpg" width="600">
+        <p>
+            Hi, I'm Ben. I love making web experiences awesome for people and machines.
+        </p>
+        <p>
+            By day, I work as a DevOps consultant. My time is spent helping organizations up their web operations
+            game.
+        </p>
+        <p>
+            In my free time I work on procedural content generation tools for tabletop role-playing games. You can
+            see my
+            latest works in this area at <a href="https://ironarachne.com">Iron Arachne</a>.
+        </p>
+        <p>
+            I spend a lot of time thinking about how to encourage people of wildly different worldviews to talk to
+            each
+            other instead of yelling at each other.
+        </p>
+        {{ partial "sidebar.html" . }}
+    </main>
     {{ partial "footer.html" . }}
 </body>
 

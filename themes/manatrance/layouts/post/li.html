@@ -1,6 +1,6 @@
-<div class="{{ .Type }}">
-    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+<article class="{{ .Type }}">
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <p><strong>Posted:</strong> {{ dateFormat "Monday, January 2, 2006" .Date }}</p>
     <p><strong>Estimated Reading Time:</strong> {{ .ReadingTime }} minutes</p>
     <p class="description">{{ .Summary }}</p>
-</div>
+</article>

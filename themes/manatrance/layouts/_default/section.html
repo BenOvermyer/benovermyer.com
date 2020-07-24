@@ -4,22 +4,16 @@
 
 <body>
     {{ partial "nav.html" . }}
-    <section class="section">
-        <div class="container">
-            <div class="columns">
-                <div class="column is-one-half content">
-                    <h2 class="title is-2">{{ .Title }}</h2>
-                    <p>{{ .Description }}</p>
-                    {{ range .Paginator.Pages.ByTitle }}
-                    <article class="section-page content">
-                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                        <p>{{ .Description }}</p>
-                    </article>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </section>
+    <main>
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Description }}</p>
+        {{ range .Paginator.Pages.ByTitle }}
+        <article>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Description }}</p>
+        </article>
+        {{ end }}
+    </main>
     {{ partial "footer.html" . }}
 </body>
 

@@ -1,6 +1,6 @@
 $body-size: 24px;
-$family-sans-serif: "Gill Sans", sans-serif;
-$family-serif: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+$family-sans-serif: "Helvetica Light", "Gill Sans", sans-serif;
+$family-serif: "Baskerville", "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
 body, html {
     font-family: $family-serif;
@@ -10,18 +10,20 @@ body, html {
 
 h1, h2, h3, h4, h5, h6, nav {
     font-family: $family-sans-serif;
+    font-weight: 300;
 }
 
 h1 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    border-bottom: 1px solid #bbb;
 }
 
 h2 {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 h3 {
-    font-size: 1.0rem;
+    font-size: 1.1rem;
 }
 
 h4, h5, h6 {
@@ -30,6 +32,11 @@ h4, h5, h6 {
 
 cite {
     font-size: 0.75rem;
+}
+
+nav.main-navigation {
+    margin: 0 auto;
+    border-bottom: 1px dotted #aaa;
 }
 
 nav.pagination {
@@ -49,16 +56,22 @@ nav.pagination {
     padding-bottom: 0.25rem;
 }
 
-.header {
+header {
     border-bottom: 1px solid #000;
-}
-
-.header p {
-    font-style: italic;
+    h1 {
+        border-bottom: none;
+        font-size: 2rem;
+        margin-bottom: 0;
+    }
+    p {
+        font-size: 1.25rem;
+        font-style: italic;
+        margin-top: 0.2rem;
+    }
 }
 
 @media screen and (min-width:900px) {
-    footer, section {
+    footer, main, nav.main-navigation {
         width: 900px;
     }
     ul.menu {
@@ -68,6 +81,13 @@ nav.pagination {
             margin-left: 1rem;
         }
     }
+}
+
+img.photo {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    display: block;
+    margin: 1rem auto;
 }
 
 @media screen and (max-width:899px) {
@@ -80,7 +100,7 @@ nav.pagination {
             }
         }
     }
-    footer, section {
+    footer, main {
         width: 80%;
     }
 }
@@ -93,6 +113,39 @@ footer {
     }
 }
 
-section {
+main {
     margin: 0 auto;
+
+    ul {
+        li {
+            line-height: 1.5rem;
+        }
+    }
+}
+
+article.post {
+    border-bottom: 3px dashed #aaa;
+    margin-bottom: 2rem;
+    p.description {
+        border-left: 30px solid #000;
+        padding-left: 1rem;
+    }
+}
+
+p.post-date {
+    font-style: italic;
+    text-align: right;
+    line-height: 0.25rem;
+}
+
+code {
+    display: inline-block;
+    background-color: #eee;
+    padding: 0.25rem;
+    font-family: Menlo, Consolas, monospace;
+    font-size: 0.6rem;
+}
+
+strong {
+    font-weight: 700;
 }

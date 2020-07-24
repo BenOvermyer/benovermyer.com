@@ -4,20 +4,15 @@
 
 <body>
 	{{ partial "nav.html" . }}
-	<div class="container">
-		<div class="columns">
-			<div class="column is-one-half content">
-				<h2 class="title is-2">{{ .Title }}</h1>
-				<p>{{ .Description }}</p>
-				<ul>
-				{{ range .Paginator.Pages }}
-				{{ .Render "li" }}
-				{{ end }}
-				</ul>
-			</div>
-			<div class="column"></div>
-		</div>
-	</div>
+	<main>
+		<h1>{{ .Title }}</h1>
+		<p>{{ .Description }}</p>
+		<ul>
+		{{ range .Paginator.Pages }}
+		{{ .Render "li" }}
+		{{ end }}
+		</ul>
+	</main>
 	{{ partial "footer.html" . }}
 </body>
 

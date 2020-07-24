@@ -4,11 +4,7 @@
 
 <body class="single">
 	{{ partial "nav.html" . }}
-	<section class="section">
-		<div class="container">
-			{{ .Render "post" }}
-		</div>
-	</section>
+	{{ .Render "post" }}
 	{{ partial "footer.html" . }}
 </body>
 

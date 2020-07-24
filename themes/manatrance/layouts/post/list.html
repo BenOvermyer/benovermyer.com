@@ -4,20 +4,14 @@
 
 <body>
 	{{ partial "nav.html" . }}
-	<section class="section">
-		<div class="container">
-			<div class="columns">
-				<div class="column content">
-					<h2 class="title is-2">Blog Posts</h2>
-					{{ range (.Paginator 5).Pages }}
-					{{ .Render "li" }}
-					{{ end }}
-					{{ partial "pagination.html" . }}
-				</div>
-				{{ partial "sidebar.html" . }}
-			</div>
-		</div>
-	</section>
+	<main>
+		<h1>Blog</h1>
+		<p>This is my blog. I update it sporadically. Usually, it takes the form of opinion pieces, but sometimes I'll write tutorials or other useful articles.</p>
+		{{ range (.Paginator 5).Pages }}
+		{{ .Render "li" }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	</main>
 	{{ partial "footer.html" . }}
 </body>
 
