@@ -24,7 +24,7 @@ These are role-playing games that I never published in any commercial sense. The
 * [Vox Draconis](/voxdraconis.pdf) (1997) - My first RPG to be made publicly available.
 * [Vox Draconis: Timescape](/timescape.pdf) (1997) - A time-travel and lore supplement for Vox Draconis.
 * [Iridium Fantasy](/iridiumfantasy.pdf) (1998) - My first attempt at system design.
-* [Vox Draconis: Kingdoms of Stone and Fire](/voxdraconis2.pdf) - This is a work in progress. It's a new RPG, written with over twenty years of game design experience behind me.
+* [Vox Draconis: Kingdoms of Stone and Fire](/page/voxdraconisksf) - This is a work in progress. It's a new RPG, written with over twenty years of game design experience behind me.
 
 ### Publication Credits
 
