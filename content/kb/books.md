@@ -13,6 +13,7 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 3. _Flag in Exile_ by David Weber
 4. _Honor Among Enemies_ by David Weber
 5. _In Enemy Hands_ by David Weber
+6. _Echoes of Honor_ by David Weber
 
 ## 2019
 
