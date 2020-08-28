@@ -11,6 +11,7 @@ These are things that I have found useful or interesting, or spend a large amoun
 
 * [tmux](https://github.com/tmux/tmux/wiki): Useful for having multiple workflows in progress on a Linux server or workstation at once.
 * [asciinema](https://asciinema.org/): I use this to create recordings of shell sessions to demonstrate things to people.
+* [LaTeX](https://www.overleaf.com/learn): Manuscripts I write are all done in LaTeX these days. It's wonderful for marrying writing and layout in one format.
 
 ## Automation Tools
 
@@ -21,6 +22,5 @@ These are things that I have found useful or interesting, or spend a large amoun
 
 ## Self-Hosted Applications
 
-* [Gitea](https://gitea.io/en-us/): GitHub clone.
 * [FreshRSS](https://www.freshrss.org/): RSS reader, like Google Reader.
 * [WriteFreely](https://writefreely.org/): Federated blog software. Written in Go.
