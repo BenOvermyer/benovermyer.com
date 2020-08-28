@@ -9,9 +9,9 @@ description = "My creations."
 
 I'm particularly interested in procedural generation of fictional worlds. I'm starting to do more of this under the banner of *Iron Arachne*. Here are a few of my projects in that vein:
 
-* [World Generation API](https://github.com/ironarachne/world): World generation API, written in Go.
-* [Uncharted Worlds Character Generator](https://github.com/ironarachne/uncharted-worlds-chargen): A character generator for Uncharted Worlds.
-* [Name Generator](https://github.com/ironarachne/namegen): A command line name generator.
+* [Iron Arachne](https://gitlab.com/benovermyer/generators-website): My world generation site, and my main personal project.
+* [Uncharted Worlds Character Generator](https://gitlab.com/ironarachne/uncharted-worlds-chargen): A character generator for Uncharted Worlds.
+* [Name Generator](https://github.com/ironarachne/namegen): A command line name generator written in Go.
 
 ## Tabletop Games
 
