@@ -14,6 +14,7 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 4. _Honor Among Enemies_ by David Weber
 5. _In Enemy Hands_ by David Weber
 6. _Echoes of Honor_ by David Weber
+7. _Ashes of Victory_ by David Weber
 
 ## 2019
 
