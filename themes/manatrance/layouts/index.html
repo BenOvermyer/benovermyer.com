@@ -1,32 +1,31 @@
 <!DOCTYPE html>
 <html>
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
+  <body>
     {{ partial "nav.html" . }}
     <main>
-        {{ partial "header.html" . }}
-        <img class="photo" src="/dithered-photo.jpg" width="600">
-        <p>
-            Hi, I'm Ben. I love making web experiences awesome for people and machines.
-        </p>
-        <p>
-            By day, I work as a DevOps consultant. My time is spent helping organizations up their web operations
-            game.
-        </p>
-        <p>
-            In my free time I work on procedural content generation tools for tabletop role-playing games. You can
-            see my
-            latest works in this area at <a href="https://ironarachne.com">Iron Arachne</a>.
-        </p>
-        <p>
-            I spend a lot of time thinking about how to encourage people of wildly different worldviews to talk to
-            each
-            other instead of yelling at each other.
-        </p>
-        {{ partial "sidebar.html" . }}
+      {{ partial "header.html" . }}
+      <img class="photo" src="/dithered-photo.jpg" />
+      <p>
+        Hi, I'm Ben. I love making web experiences awesome for people and
+        machines.
+      </p>
+      <p>
+        By day, I work as a DevOps consultant. My time is spent helping
+        organizations up their web operations game.
+      </p>
+      <p>
+        In my free time I work on procedural content generation tools for
+        tabletop role-playing games. You can see my latest works in this area at
+        <a href="https://ironarachne.com">Iron Arachne</a>. I also work on the
+        membership management application "Medusa" for the
+        <a href="http://trmn.org">Royal Manticoran Navy</a> fan organization,
+        and I handle the system administration for the
+        <a href="https://geekpartnership.org">Geek Partnership Society</a>.
+      </p>
+      {{ partial "recent-posts.html" . }}
     </main>
     {{ partial "footer.html" . }}
-</body>
-
+  </body>
 </html>

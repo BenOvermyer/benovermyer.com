@@ -1,10 +1,17 @@
-body, html {
+body,
+html {
   font-family: "Baskerville", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-feature-settings: "kern" 1, "dlig" 1;
   font-size: 24px;
 }
 
-h1, h2, h3, h4, h5, h6, nav {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav {
   font-family: "Helvetica Light", "Gill Sans", sans-serif;
   font-weight: 300;
 }
@@ -22,7 +29,9 @@ h3 {
   font-size: 1.1rem;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   font-size: 1rem;
 }
 
@@ -67,7 +76,9 @@ header p {
 }
 
 @media screen and (min-width: 900px) {
-  footer, main, nav.main-navigation {
+  footer,
+main,
+nav.main-navigation {
     width: 900px;
   }
 
@@ -97,7 +108,12 @@ img.photo {
     display: block;
   }
 
-  footer, main {
+  footer,
+main {
+    width: 80%;
+  }
+
+  img.photo {
     width: 80%;
   }
 }

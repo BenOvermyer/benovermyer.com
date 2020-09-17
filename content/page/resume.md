@@ -9,7 +9,7 @@ The chief aim of any web technologist is to make a particular part of the web mo
 
 **Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
 
-**Preferred Programming Languages:** Go, Python, PHP, Ruby
+**Preferred Programming Languages:** Python, PHP, Ruby, Go
 
 **Ancillary Skills:** Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
@@ -59,12 +59,12 @@ _August 2011 to May 2013_
 
 In addition to my duties as a lead developer, I managed the IT staff at G3M. Some of the things I did in this capacity include:
 
-* Reduced IT infrastructure costs by ~60% by migrating to cloud resources
-* Increased developer efficiency by introducing web-based time tracking to the IT team (and, later, the graphic design team).
-* Lead development of a web-based loyalty rewards system built on Symfony2, Doctrine, and Twig with a MySQL database
-* Introduced usage of version control (Git)
-* Reengineered legacy Visual Foxpro applications into PHP scripts and web applications
-* Designed, built, and maintained MySQL databases for client systems
+- Reduced IT infrastructure costs by ~60% by migrating to cloud resources
+- Increased developer efficiency by introducing web-based time tracking to the IT team (and, later, the graphic design team).
+- Lead development of a web-based loyalty rewards system built on Symfony2, Doctrine, and Twig with a MySQL database
+- Introduced usage of version control (Git)
+- Reengineered legacy Visual Foxpro applications into PHP scripts and web applications
+- Designed, built, and maintained MySQL databases for client systems
 
 ### Software Engineer at CHR Solutions
 
@@ -116,10 +116,10 @@ B.A., History, 2004 - 2007 (Degree Received)
 
 #### Activities and Societies
 
-* Phi Alpha Theta
-* Japanese Animation & Culture Society
-* Medieval Society
-* Students in Free Enterprise
+- Phi Alpha Theta
+- Japanese Animation & Culture Society
+- Medieval Society
+- Students in Free Enterprise
 
 ### Massey University
 
@@ -131,8 +131,8 @@ B.F.A., Digital Media, 2000 - 2002 (Incomplete)
 
 #### Activities and Societies
 
-* Anime & Gaming Organization: Dunedin
-* New Carthage
+- Anime & Gaming Organization: Dunedin
+- New Carthage
 
 ### Drexel University
 
@@ -140,4 +140,4 @@ B.S., Digital Media, 1999 - 2000 (Incomplete)
 
 #### Activities and Societies
 
-* Anime & Gaming Organization
+- Anime & Gaming Organization
