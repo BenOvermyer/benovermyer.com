@@ -9,11 +9,11 @@ description = "About me."
 
 You can get in touch with me in a variety of ways. Email is best.
 
-*Email:* [ben@overmyer.net](mailto:ben@overmyer.net)
+_Email:_ [ben@overmyer.net](mailto:ben@overmyer.net)
 
-*Twitter:* [@bovermyer](https://twitter.com/bovermyer)
+_Twitter:_ [@bovermyer](https://twitter.com/bovermyer)
 
-*LinkedIn:* [benovermyer](https://www.linkedin.com/in/benovermyer/)
+_LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
 ## Professional Background
 
@@ -40,6 +40,10 @@ I started my professional career as a developer, not a system administrator. Now
 **Myers-Briggs Type:** [ENFP](http://www.humanmetrics.com/personality/enfp)
 
 **Hogwarts House:** Slytherin
+
+**World of Warcraft Main:** [Exsecratus, Blood Elf Warlock](https://www.wowhead.com/list=64805593/us-tichondrius-exsecratus)
+
+**Destiny 2 Profile:** [dungeonHack](https://destinytracker.com/destiny-2/profile/steam/4611686018467375040/overview)
 
 **Dungeons &amp; Dragons Archetype:** Half-Elf Sorcerer
 
