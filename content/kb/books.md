@@ -4,6 +4,7 @@ date: 2019-11-28T16:48:52-05:00
 draft: false
 description: "All the books I've read"
 ---
+
 I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read. I'm just starting with 2019 for my sanity, but maybe in the future I'll go back and slowly fill in previous years.
 
 ## 2020
@@ -15,6 +16,7 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 5. _In Enemy Hands_ by David Weber
 6. _Echoes of Honor_ by David Weber
 7. _Ashes of Victory_ by David Weber
+8. _War of Honor_ by David Weber
 
 ## 2019
 
