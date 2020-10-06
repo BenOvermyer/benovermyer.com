@@ -1,13 +1,13 @@
 ---
-title: 'Second Life, MMORPGs, and conversation'
+title: "Second Life, MMORPGs, and conversation"
 date: Mon, 19 Nov 2007 18:45:00 +0000
 draft: false
 tags: [Uncategorized]
 ---
 
-So, I reactivated my old Second Life account to do some building work for my dad at Baker College. He’s started a virtual space for Baker College in Second Life called Baker Island. It’s apparently a research exercise in the vein of human-computer interaction, and I’ve been tasked with building a caf√© for all the virtually-hungry students that come calling.
+So, I reactivated my old Second Life account to do some building work for my dad at Baker College. He’s started a virtual space for Baker College in Second Life called Baker Island. It’s apparently a research exercise in the vein of human-computer interaction, and I’ve been tasked with building a café for all the virtually-hungry students that come calling.
 
-As I wandered around Second Life’s many shops and freebie areas looking for resources to help build the caf√©, I noticed an overwhelming number of people running around….but not talking. There was very little chatter in the public chat, and little chatter in the rather large groups I belong to. So, while there is a large number of users in these shopping areas - ostensibly the most populous regions in Second Life - there was almost no social interaction.
+As I wandered around Second Life’s many shops and freebie areas looking for resources to help build the café, I noticed an overwhelming number of people running around….but not talking. There was very little chatter in the public chat, and little chatter in the rather large groups I belong to. So, while there is a large number of users in these shopping areas - ostensibly the most populous regions in Second Life - there was almost no social interaction.
 
 Compare this to World of Warcraft, the largest Western MMORPG in terms of paying subscribers. Everywhere you go, there is inevitably a dearth of conversation. People form groups, raids, and arena teams…not to mention guilds. There is a constant loud presence in larger areas like Orgrimmar and the Crossroads.
 

@@ -139,6 +139,16 @@ main {
   }
 }
 
+ul.years {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  li {
+    display: block;
+    margin: 0 0.5rem;
+  }
+}
+
 article.post {
   border-bottom: 3px dashed #aaa;
   margin-bottom: 2rem;
