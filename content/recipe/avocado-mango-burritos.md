@@ -9,25 +9,25 @@ description: This recipe is inspired by tacos I had at Lago Tacos in Lyn-Lake in
 
 ### Avocado Mango Salsa
 
-- 2 mangos
-- 1 avocado
-- 1 medium red onion
-- 3 tablespoons fresh cilantro
-- juice of 1 lime
-- 3 garlic cloves
+-   2 mangos
+-   1 avocado
+-   1 medium red onion
+-   3 tablespoons fresh cilantro
+-   juice of 1 lime
+-   3 garlic cloves
 
 ### Black Bean Filling
 
-- 1 can black beans, rinsed and drained
-- 1 large red bell pepper, julienned
-- 2 jalapeños, chopped
-- juice of 1/2 lime
-- flour tortillas
+-   1 can black beans, rinsed and drained
+-   1 large red bell pepper, julienned
+-   2 jalapeños, chopped
+-   juice of 1/2 lime
+-   flour tortillas
 
 ### Optional Extras
 
-- Sour cream
-- Crumbled fresh cotija
+-   Sour cream
+-   Crumbled fresh cotija
 
 ## Instructions
 

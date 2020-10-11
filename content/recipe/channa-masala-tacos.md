@@ -9,21 +9,21 @@ description: This variation on tacos was adapted from a recipe I found online so
 
 ### White Sauce
 
-* 1 cup mayonnaise
-* 1/4 cup water
-* 2 1/2 tablespoons lemon juice
-* Kosher salt
-* Freshly ground pepper
+-   1 cup mayonnaise
+-   1/4 cup water
+-   2 1/2 tablespoons lemon juice
+-   Kosher salt
+-   Freshly ground pepper
 
 ### Tacos
 
-* 2 (10 ounce) pouches Tasty Bite Channa Masala (or use homemade)
-* 8 small taco-sized tortillas
-* 2 avocados, sliced
-* 2 jalapeños, sliced
-* pickled red onions
-* White Sauce (see below)
-* cilantro, for garnish
+-   2 (10 ounce) pouches Tasty Bite Channa Masala (or use homemade)
+-   8 small taco-sized tortillas
+-   2 avocados, sliced
+-   2 jalapeños, sliced
+-   pickled red onions
+-   White Sauce (see below)
+-   cilantro, for garnish
 
 ## Instructions
 

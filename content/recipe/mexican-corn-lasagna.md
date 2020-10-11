@@ -7,20 +7,20 @@ description: My mom made this for me as a kid. Later I found out it was based on
 
 ## Ingredients
 
-- 1 lb. ground beef
-- 1 can corn
-- 1 can tomato sauce
-- 1 cup picante salsa
-- 1 tablespoon chili powder
-- 1 1/2 tablespoons cumin
-- 16 oz. cottage cheese
-- 2 eggs (slightly beaten)
-- 1/4 cup parmesan cheese
-- 1 tablespoon oregano
-- 1/2 tablespoon garlic salt
-- 12 corn tortillas
-- 1 cup shredded cheddar cheese
-- 1/2 cup cotija cheese (crumbled)
+-   1 lb. ground beef
+-   1 can corn
+-   1 can tomato sauce
+-   1 cup picante salsa
+-   1 tablespoon chili powder
+-   1 1/2 tablespoons cumin
+-   16 oz. cottage cheese
+-   2 eggs (slightly beaten)
+-   1/4 cup parmesan cheese
+-   1 tablespoon oregano
+-   1/2 tablespoon garlic salt
+-   12 corn tortillas
+-   1 cup shredded cheddar cheese
+-   1/2 cup cotija cheese (crumbled)
 
 ## Instructions
 

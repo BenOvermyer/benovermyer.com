@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+
+<body>
+    {{ partial "nav.html" . }}
+    <main>
+        <h1>Knowledge Base</h1>
+        
+        <p>This is my personal knowledge base. It's meant mostly to be notes for myself, but it might be useful to others too.</p>
+        
+        {{ range .Pages.ByTitle }}
+
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Description }}</p>
+
+        {{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+
+</html>
