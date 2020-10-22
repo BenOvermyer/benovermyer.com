@@ -7,6 +7,12 @@ description: "Cooking methods and tips"
 
 Various notes on cooking methods and other miscellany.
 
+## Scrambling eggs
+
+Beat the eggs gently, not vigorously, and only until they're just mixed.
+
+If you're going to add salt to the eggs before cooking, do it immediately before adding the eggs to the pan, and not before. Otherwise, the salt will break down the structure of the eggs and wreck the texture.
+
 ## Seafood Boils
 
 Fill the pot 3/4 full of water, bring to a boil. Add aromatics, salt, and acid. White wine,

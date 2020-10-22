@@ -1,9 +1,19 @@
 ---
-title: "System Notes"
+title: "System Administration Notes"
 date: 2019-10-25T07:45:43-05:00
 draft: false
 description: "Notes about system administration or management."
 ---
+
+## Examining an SSL certificate
+
+To verify a web server's certificate:
+
+```
+openssl s_client -connect <domain name>:443
+```
+
+There is more information available on [Bruce's blog post about verifying certificates](https://rbwilson.ca/how-to-verify-certificates-with-openssl/).
 
 ## Adding a root certificate to Ubuntu
 
@@ -45,7 +55,7 @@ for node in $(knife search node "ohai_time:[* TO $(date +%s -d '30 days ago')]" 
 done
 ```
 
-This script produces a list of nodes (one per line, name only) with an `ohai_time` of greater than or equal to 30 days ago. The `ohai_time` is when the node checked in with Chef Infra Server. It then deletes the client and node metadata from the server for that node.
+This script produces a list of nodes (one per line, name only) with an `ohai_time` of greater than or equal to 30 days ago. The `ohai_time` is when the node last checked in with Chef Infra Server. It then deletes the client and node metadata from the server for that node.
 
 You might need to change the '30 days ago' timeframe to better suit your own environment.
 
