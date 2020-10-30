@@ -4,8 +4,11 @@
 
   <body>
     {{ partial "nav.html" . }}
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <p>{{ .Site.Params.description }}</p>
+    </header>
     <main>
-      {{ partial "header.html" . }}
       <img class="photo" src="/dithered-photo.jpg" />
       <p>
         Hi, I'm Ben. I love making web experiences awesome for people and

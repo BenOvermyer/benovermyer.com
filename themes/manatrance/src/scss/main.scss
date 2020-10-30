@@ -1,13 +1,16 @@
 $body-size: 24px;
 $family-sans-serif: "Helvetica Light", "Gill Sans", sans-serif;
 $family-serif: "Baskerville", "Palatino Linotype", "Book Antiqua", Palatino,
-  serif;
+    serif;
+$accent-color: #ee2200;
+$interaction-color: #ffaa00;
+$interaction-shadow-color: #550000;
 
 body,
 html {
-  font-family: $family-serif;
-  font-feature-settings: "kern" 1, "dlig" 1;
-  font-size: $body-size;
+    font-family: $family-serif;
+    font-feature-settings: "kern" 1, "dlig" 1;
+    font-size: $body-size;
 }
 
 h1,
@@ -17,161 +20,230 @@ h4,
 h5,
 h6,
 nav {
-  font-family: $family-sans-serif;
-  font-weight: 300;
+    font-family: $family-sans-serif;
+    font-weight: 300;
 }
 
 h1 {
-  font-size: 1.5rem;
-  border-bottom: 1px solid #bbb;
+    font-size: 1.5rem;
+    border-bottom: 1px solid #bbb;
+    color: $accent-color;
 }
 
 h2 {
-  font-size: 1.2rem;
+    font-size: 1.2rem;
+    border-bottom: 1px solid $interaction-shadow-color;
+}
+
+h2::first-letter {
+    color: #ff0000;
 }
 
 h3 {
-  font-size: 1.1rem;
+    font-size: 1rem;
+}
+
+h3::first-letter {
+    color: #ff0000;
 }
 
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+    font-size: 1rem;
+}
+
+a {
+    color: $interaction-color;
+}
+
+a:active {
+    color: #ffff00;
+}
+
+a:hover {
+    color: #cc7700;
 }
 
 cite {
-  font-size: 0.75rem;
+    font-size: 0.75rem;
 }
 
 nav.main-navigation {
-  margin: 0 auto;
-  border-bottom: 1px dotted #aaa;
+    margin: 0 auto;
+    border-bottom: 1px solid #aaa;
+    ul {
+        li {
+            a {
+                text-decoration: none;
+            }
+        }
+    }
 }
 
 nav.pagination {
-  display: flex;
-  ul {
     display: flex;
-    list-style: none;
-    li {
-      margin-right: 1rem;
+    ul {
+        display: flex;
+        list-style: none;
+        li {
+            margin-right: 1rem;
+        }
     }
-  }
 }
 
 .post-description {
-  border-bottom: 1px solid #aaa;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.25rem;
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
 }
 
 header {
-  border-bottom: 1px solid #000;
-  h1 {
-    border-bottom: none;
-    font-size: 2rem;
-    margin-bottom: 0;
-  }
-  p {
-    font-size: 1.25rem;
-    font-style: italic;
-    margin-top: 0.2rem;
-  }
+    border-bottom: 3px solid #000;
+    text-align: center;
+    margin: 0 auto;
+    h1 {
+        border-bottom: none;
+        font-size: 4rem;
+        margin: 0;
+        background: rgb(255, 0, 0);
+        background: linear-gradient(
+            0deg,
+            rgba(255, 0, 0, 1) 0%,
+            rgba(244, 194, 9, 1) 100%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    p {
+        font-size: 1.25rem;
+        font-style: italic;
+        margin-top: 0.2rem;
+        transform: rotate(-1deg);
+    }
 }
 
 @media screen and (min-width: 900px) {
-  footer,
-  main,
-  nav.main-navigation {
-    width: 900px;
-  }
-  ul.menu {
-    list-style: none;
-    display: flex;
-    li {
-      margin-left: 1rem;
+    body,
+    html {
+        background: #ffeedd;
     }
-  }
+    footer,
+    header,
+    main,
+    nav.main-navigation {
+        background: #fff;
+        padding: 1rem;
+        width: 900px;
+    }
+    ul.menu {
+        list-style: none;
+        display: flex;
+        margin: 0;
+        li {
+            margin-left: 1rem;
+        }
+    }
+    ul.menu::before {
+        content: "\1f4bb";
+    }
+    ul.menu::after {
+        content: "\1f37b";
+        margin-left: 1rem;
+    }
 }
 
 img.photo {
-  border: 1px solid #ccc;
-  padding: 1rem;
-  display: block;
-  margin: 1rem auto;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    display: block;
+    margin: 1rem auto;
 }
 
 @media screen and (max-width: 899px) {
-  nav.pagination {
-    display: inline;
-    ul {
-      display: block;
-      li {
-        display: block;
-      }
+    body,
+    html {
+        font-size: 18px;
     }
-  }
-  footer,
-  main {
-    width: 80%;
-  }
-  img.photo {
-    width: 80%;
-  }
+    nav.pagination {
+        display: inline;
+        ul {
+            display: block;
+            li {
+                display: block;
+            }
+        }
+    }
+    footer,
+    main {
+        width: 80%;
+    }
+    img.photo {
+        width: 80%;
+    }
 }
 
 footer {
-  border-top: 1px solid #000;
-  margin: 0 auto;
-  p {
-    font-size: 0.8rem;
-  }
+    border-top: 1px solid #000;
+    margin: 0 auto;
+    p {
+        font-size: 0.8rem;
+    }
 }
 
 main {
-  margin: 0 auto;
+    margin: 0 auto;
 
-  ul {
-    li {
-      line-height: 1.5rem;
+    h1::first-letter {
+        font-size: 3rem;
+        float: left;
+        line-height: 6rem;
+        padding: 2px;
     }
-  }
+
+    ul {
+        li {
+            line-height: 1.5rem;
+        }
+    }
+}
+
+ul {
+    list-style-type: square;
 }
 
 ul.years {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  li {
-    display: block;
-    margin: 0 0.5rem;
-  }
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    li {
+        display: block;
+        margin: 0 0.5rem;
+    }
 }
 
 article.post {
-  border-bottom: 3px dashed #aaa;
-  margin-bottom: 2rem;
-  p.description {
-    border-left: 30px solid #000;
-    padding-left: 1rem;
-  }
+    border-bottom: 3px dashed #aaa;
+    margin-bottom: 2rem;
+    p.description {
+        border-left: 30px solid #000;
+        padding-left: 1rem;
+    }
 }
 
 p.post-date {
-  font-style: italic;
-  text-align: right;
-  line-height: 0.25rem;
+    font-style: italic;
+    font-size: 0.75rem;
 }
 
 code {
-  display: inline-block;
-  background-color: #eee;
-  padding: 0.25rem;
-  font-family: Menlo, Consolas, monospace;
-  font-size: 0.6rem;
+    display: inline-block;
+    background-color: #eee;
+    padding: 0.25rem;
+    font-family: Menlo, Consolas, monospace;
+    font-size: 0.6rem;
 }
 
 strong {
-  font-weight: 700;
+    font-weight: 700;
 }
