@@ -4,6 +4,7 @@ html {
   font-family: "Baskerville", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-feature-settings: "kern" 1, "dlig" 1;
   font-size: 24px;
+  line-height: 1.5rem;
 }
 
 h1,
@@ -21,11 +22,13 @@ h1 {
   font-size: 1.5rem;
   border-bottom: 1px solid #bbb;
   color: #ee2200;
+  margin-bottom: 1rem;
 }
 
 h2 {
   font-size: 1.2rem;
   border-bottom: 1px solid #550000;
+  margin: 1rem 0;
 }
 
 h2::first-letter {
@@ -34,6 +37,7 @@ h2::first-letter {
 
 h3 {
   font-size: 1rem;
+  margin: 1rem 0;
 }
 
 h3::first-letter {
@@ -95,6 +99,7 @@ header {
 header h1 {
   border-bottom: none;
   font-size: 4rem;
+  line-height: 4rem;
   margin: 0;
   background: red;
   background: linear-gradient(0deg, red 0%, #f4c209 100%);
@@ -190,12 +195,22 @@ main h1::first-letter {
   line-height: 6rem;
   padding: 2px;
 }
+main p {
+  margin-bottom: 0.5rem;
+}
 main ul li {
-  line-height: 1.5rem;
+  margin-left: 2rem;
 }
 
 ul {
   list-style-type: square;
+}
+
+ol {
+  list-style-type: numbered;
+}
+ol li {
+  margin-left: 2rem;
 }
 
 ul.years {

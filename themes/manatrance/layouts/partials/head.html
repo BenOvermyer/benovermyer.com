@@ -4,6 +4,7 @@
         {{ with .OutputFormats.Get "rss" -}}
             {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
         {{ end -}}
+        <link href="{{ .Site.BaseURL }}css/reset.css" rel="stylesheet" type="text/css">
         <link href="{{ .Site.BaseURL }}css/main.css" rel="stylesheet" type='text/css'>
         
         <link rel="icon" type="image/svg+xml" href="/favicon.svg">

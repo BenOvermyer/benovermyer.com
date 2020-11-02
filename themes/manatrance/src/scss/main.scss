@@ -11,6 +11,7 @@ html {
     font-family: $family-serif;
     font-feature-settings: "kern" 1, "dlig" 1;
     font-size: $body-size;
+    line-height: 1.5rem;
 }
 
 h1,
@@ -28,11 +29,13 @@ h1 {
     font-size: 1.5rem;
     border-bottom: 1px solid #bbb;
     color: $accent-color;
+    margin-bottom: 1rem;
 }
 
 h2 {
     font-size: 1.2rem;
     border-bottom: 1px solid $interaction-shadow-color;
+    margin: 1rem 0;
 }
 
 h2::first-letter {
@@ -41,6 +44,7 @@ h2::first-letter {
 
 h3 {
     font-size: 1rem;
+    margin: 1rem 0;
 }
 
 h3::first-letter {
@@ -105,6 +109,7 @@ header {
     h1 {
         border-bottom: none;
         font-size: 4rem;
+        line-height: 4rem;
         margin: 0;
         background: rgb(255, 0, 0);
         background: linear-gradient(
@@ -201,15 +206,26 @@ main {
         padding: 2px;
     }
 
+    p {
+        margin-bottom: 0.5rem;
+    }
+
     ul {
         li {
-            line-height: 1.5rem;
+            margin-left: 2rem;
         }
     }
 }
 
 ul {
     list-style-type: square;
+}
+
+ol {
+    list-style-type: numbered;
+    li {
+        margin-left: 2rem;
+    }
 }
 
 ul.years {
