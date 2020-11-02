@@ -150,6 +150,14 @@ header {
             margin-left: 1rem;
         }
     }
+    main {
+        h1::first-letter {
+            font-size: 3rem;
+            float: left;
+            line-height: 6rem;
+            padding: 2px;
+        }
+    }
     ul.menu::before {
         content: "\1f4bb";
     }
@@ -170,6 +178,11 @@ img.photo {
     body,
     html {
         font-size: 18px;
+    }
+    ul.menu {
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-left: 0.5rem;
     }
     nav.pagination {
         display: inline;
@@ -199,13 +212,6 @@ footer {
 
 main {
     margin: 0 auto;
-
-    h1::first-letter {
-        font-size: 3rem;
-        float: left;
-        line-height: 6rem;
-        padding: 2px;
-    }
 
     p {
         margin-bottom: 0.5rem;

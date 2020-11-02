@@ -138,6 +138,13 @@ nav.main-navigation {
     margin-left: 1rem;
   }
 
+  main h1::first-letter {
+    font-size: 3rem;
+    float: left;
+    line-height: 6rem;
+    padding: 2px;
+  }
+
   ul.menu::before {
     content: "💻";
   }
@@ -158,6 +165,12 @@ img.photo {
   body,
 html {
     font-size: 18px;
+  }
+
+  ul.menu {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-left: 0.5rem;
   }
 
   nav.pagination {
@@ -189,12 +202,6 @@ footer p {
 
 main {
   margin: 0 auto;
-}
-main h1::first-letter {
-  font-size: 3rem;
-  float: left;
-  line-height: 6rem;
-  padding: 2px;
 }
 main p {
   margin-bottom: 0.5rem;
