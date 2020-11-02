@@ -38,6 +38,7 @@ These are all the published works that have me listed as one of the authors.
 
 These are all the published works that have me listed as one of the artists.
 
+-   Big Eyes, Small Mouth 4th Edition (Dyskami Publishing Company, 2020)
 -   A Stitched In Time (Silver Gryphon Games, 2014)
 -   A Thule and His Money (Silver Gryphon Games, 2014)
 -   Brain Slugs from Planet X! (Silver Gryphon Games, 2014)
@@ -54,6 +55,7 @@ These are all the published works that have me listed as one of the artists.
 -   Diabolical Traps – Skeletons (Silver Gryphon Games, 2007)
 -   Big Eyes, Small Mouth 3rd Edition (White Wolf, 2007)
 -   Post Apocalyptic Hero (Hero Games, 2007)
+-   Big Eyes, Small Mouth 2nd Edition (Guardians of Order, 2000)
 
 ## Other Writings
 
