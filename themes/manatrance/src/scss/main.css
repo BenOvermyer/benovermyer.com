@@ -131,6 +131,7 @@ nav.main-navigation {
   ul.menu {
     list-style: none;
     display: flex;
+    justify-content: center;
     margin: 0;
   }
   ul.menu li {
