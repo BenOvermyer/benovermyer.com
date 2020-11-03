@@ -153,6 +153,11 @@ nav.main-navigation {
     content: "🍻";
     margin-left: 1rem;
   }
+
+  img {
+    margin: 0 auto;
+    max-width: 900px;
+  }
 }
 img.photo {
   border: 1px solid #ccc;
@@ -190,6 +195,11 @@ main {
 
   img.photo {
     width: 80%;
+  }
+
+  img {
+    max-width: 80%;
+    margin: 0 auto;
   }
 }
 footer {

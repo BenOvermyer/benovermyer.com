@@ -165,6 +165,10 @@ header {
         content: "\1f37b";
         margin-left: 1rem;
     }
+    img {
+        margin: 0 auto;
+        max-width: 900px;
+    }
 }
 
 img.photo {
@@ -199,6 +203,10 @@ img.photo {
     }
     img.photo {
         width: 80%;
+    }
+    img {
+        max-width: 80%;
+        margin: 0 auto;
     }
 }
 
