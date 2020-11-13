@@ -37,3 +37,28 @@ lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
 **Mussels:** 3-6 per person. 5 minutes. Wash and de-beard before cooking.
 
 **Shrimp:** 4-6 per person. 3 minutes. The bigger, the better.
+
+## Vegetarian cooking principles
+
+These are some principles of cooking vegetarian food. I don't often cook
+vegetarian meals, but these are good to keep in mind anyway.
+
+### Build a balanced meal
+
+Combine protein and fiber in each meal.
+
+### Slow roast
+
+Slow roasting intensifies flavor and alters the texture of food.
+
+### Add chewy foods
+
+This makes foods more filling and can mimic the meat-eating experience.
+
+### Include umami ingredients
+
+Savory flavor profiles have a pleasant rounding-out effect.
+
+### Combine flavors and textures
+
+This is more of a general cooking principle than a vegetarian one. The whole is greater than the sum of its parts.
