@@ -7,6 +7,13 @@ description = "A curated list of links to interesting web pages."
 
 This may have once been called a "web directory." What follows is a set of links to pages around the web that I find interesting.
 
+## My Sites
+
+-   [Tilde Town](https://tilde.town/~sithlord/) - my "tilde" website, `~sithlord`, where I post random experiments and toys.
+-   [SpaceHey](https://spacehey.com/benovermyer/) - my page on spacehey, a clone of MySpace as it existed in 2007.
+-   [Neocities](https://dungeonhack.neocities.org/) - my page on NeoCities. It's just for random RPG junk.
+-   [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - a web directory I maintain for TTRPG content generators.
+
 ## Design
 
 -   [Butterick's Practical Typography](https://practicaltypography.com/) — a definitive guide to typography
