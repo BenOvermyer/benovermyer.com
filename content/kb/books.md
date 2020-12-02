@@ -18,6 +18,7 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 7. _Ashes of Victory_ by David Weber
 8. _War of Honor_ by David Weber
 9. _At All Costs_ by David Weber
+10. _The Unicorn Project_ by Gene Kim
 
 ## 2019
 
