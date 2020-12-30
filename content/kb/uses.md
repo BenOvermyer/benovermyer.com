@@ -19,11 +19,12 @@ I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. Si
 
 This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel that I just adore. It's great for gaming and typing.
 
-### Viotek GN34C 34" Ultrawidescreen Monitor
+### Dell S3220DGF 32" 2K monitor
 
-**Website:** [Viotek GN34C](https://viotek.com/viotek-gn34cx-34-ultrawide-qhd-curved-professional-monitor-100hz-219-freesync/)
+**Website:** [Dell 32 Curved Gaming Monitor - S3220DGF](https://www.dell.com/en-us/shop/dell-32-curved-gaming-monitor-s3220dgf/apd/210-atyt/monitors-monitor-accessories)
 
-Though some games don't support 3440x1440 resolution, I've found this to be excellent for coding and for graphics editing capabilities. Also, watching movies on this thing is awesome. In order for it to work correctly on my MacBook Pro, though, I needed to buy an app. It doesn't properly declare its resolutions. 
+I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much
+better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities.
 
 ### DXRacer King Zero gaming chair
 
@@ -64,24 +65,11 @@ there are features missing, but it works well enough for laying out books and su
 
 ## Development Software
 
-### Visual Studio Code
+### Nova
 
-**Website:** [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+**Website:** [Nova](https://www.nova.app/)
 
-Though I switched back to Sublime Text for a time due to its speed, I had to come back to VSCode for
-light code editing owing to its robust plugin ecosystem.
-
-### GoLand
-
-**Website:** [Jetbrains GoLand](https://www.jetbrains.com/go/)
-
-I write a lot of Go. And by far the best tool for writing Go has been GoLand.
-
-### PHPStorm
-
-**Website:** [Jetbrains PHPStorm](https://www.jetbrains.com/phpstorm/)
-
-When I write PHP, this is the IDE I use most.
+Though I used Visual Studio Code, GoLand, and PHPStorm for a long time, this has come to replace all of them.
 
 ## Hosting and Infrastructure Services
 
@@ -96,8 +84,7 @@ at Namecheap because it works well enough.
 
 **Website:** [Digital Ocean](https://www.digitalocean.com/)
 
-Digital Ocean is the infrastructure provider I use for all of my personal projects. It's cheaper than
-AWS, Azure, or GCP, the tooling is really good, and the community is fantastic.
+When I need more than a static site host, I use Digital Ocean.
 
 ### Netlify
 
