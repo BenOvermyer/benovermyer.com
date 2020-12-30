@@ -2,10 +2,10 @@
 title: "Cooking"
 date: 2020-10-05T10:12:24-05:00
 draft: false
-description: "Cooking methods and tips"
+description: "Notes on cooking methods, techniques, and tips"
 ---
-
-Various notes on cooking methods and other miscellany.
+This page has various notes on cooking methods and other miscellany. It's meant to help me remember
+things about cooking that I don't do often or want to share with others.
 
 ## Scrambling eggs
 
@@ -13,7 +13,7 @@ Beat the eggs gently, not vigorously, and only until they're just mixed.
 
 If you're going to add salt to the eggs before cooking, do it immediately before adding the eggs to the pan, and not before. Otherwise, the salt will break down the structure of the eggs and wreck the texture.
 
-## Seafood Boils
+## Seafood boils
 
 Fill the pot 3/4 full of water, bring to a boil. Add aromatics, salt, and acid. White wine,
 lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
@@ -40,8 +40,8 @@ lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
 
 ## Vegetarian cooking principles
 
-These are some principles of cooking vegetarian food. I don't often cook
-vegetarian meals, but these are good to keep in mind anyway.
+These are some principles of cooking vegetarian food. Since switching to the Mediterranean diet in an
+effort to be healthier, this has become very important to me.
 
 ### Build a balanced meal
 
