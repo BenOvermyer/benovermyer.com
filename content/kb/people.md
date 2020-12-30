@@ -2,8 +2,12 @@
 title: "People"
 date: 2020-08-28T17:26:37-05:00
 draft: false
-description: This is a list of people whose online writings inspire or inform me.
+description: "People of interest"
 ---
+This page is a list of people I think are interesting.
+
+## Online Authors
+
 This is a list of people whose online writings inspire or inform me.
 
 * [Amit Patel](https://www.redblobgames.com/) - game design, boolean algebra, procedural generation
