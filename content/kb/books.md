@@ -5,7 +5,8 @@ draft: false
 description: "All the books I've read"
 ---
 
-I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read. I'm just starting with 2019 for my sanity, but maybe in the future I'll go back and slowly fill in previous years.
+I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
+I started doing this in 2019, so previous years are not included.
 
 ## 2020
 
