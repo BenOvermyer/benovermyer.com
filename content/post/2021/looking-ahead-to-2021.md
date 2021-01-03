@@ -1,7 +1,7 @@
 ---
 title: "Looking Ahead to 2021"
-date: 2021-01-01T06:44:25-06:00
-draft: true
+date: 2021-01-03T07:59:25-06:00
+draft: false
 ---
 
 This year will hopefully be much better for humanity than 2020 was. Multiple vaccines are now in play, with
