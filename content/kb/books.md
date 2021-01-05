@@ -8,6 +8,10 @@ description: "All the books I've read"
 I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
 I started doing this in 2019, so previous years are not included.
 
+## 2021
+
+1. _Estonia_ by Neil Taylor
+
 ## 2020
 
 1. _The Short Victorious War_ by David Weber
