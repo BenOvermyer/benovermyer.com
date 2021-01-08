@@ -64,6 +64,9 @@ You might need to change the '30 days ago' timeframe to better suit your own env
 When you're in an environment that has an internal certificate authority, you'll need to add that material
 to Chef. The following Chef code will automate that as part of a base cookbook `my_base_cookbook` default recipe.
 
+Note that this requires two external cookbooks prior to Chef Infra Client 16.5: `chef-client` and `chef_client_updater`.
+Chef Infra Client 16.5 and later includes the `chef-client` functionality.
+
 ```
 node.default['chef_client']['chef_license'] = 'accept'
 node.default['chef_client']['ca_cert_path'] = '/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem' // default for RHEL-compatible Linux
