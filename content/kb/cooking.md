@@ -62,3 +62,30 @@ Savory flavor profiles have a pleasant rounding-out effect.
 ### Combine flavors and textures
 
 This is more of a general cooking principle than a vegetarian one. The whole is greater than the sum of its parts.
+
+## Seasoning Blends
+
+These are seasoning blends that are meant to typify a particular region or culture's cuisine.
+
+### Caribbean
+
+- Thyme
+- Cumin
+- Allspice
+- Red pepper
+
+### Moroccan
+
+- Cumin
+- Cinnamon
+- Turmeric
+- Paprika
+- Fresh mint
+
+### Thai
+
+- Ginger/galangal
+- Cilantro
+- Red pepper
+- Lemongrass
+
