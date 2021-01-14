@@ -27,9 +27,7 @@ British Parliament in power and general composition. The notable political parti
 
 **The EKRE:** The Conservative People's Party. Nationalistic and populist. From what I can tell, they are
 xenophobic, racist, oppose membership in the European Union, oppose LGBTQ, oppose abortion, oppose alcohol and drugs,
-support education, support health care, and have a narrow view of what Estonia and Estonians should be. They
-also appear poised to become the new majority government, as part of a coalition. This has ominous implications
-for my wife and I.
+support education, support health care, and have a narrow view of what Estonia and Estonians should be.
 
 **The Estonian Reform Party:** Also known as the "Squirrel Party." The largest party. Liberal economics. Attracts
 support from a broad range of Estonians, especially educated, young, urban professionals.
