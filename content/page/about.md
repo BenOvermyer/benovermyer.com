@@ -27,13 +27,13 @@ I started my professional career as a developer, not a system administrator. Now
 
 ## Personal Specifics
 
-**Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. But, within the American context, you could consider me a pragmatic progressive with big-state leanings.
+**Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. From an American standpoint, I'm a pragmatic progressive. From an Estonian perspective, I'm center-left.
 
-**Guiding Philosophies:** Stoicism, pragmatism, and a dash of existential nihilism to keep it real
+**Guiding Philosophies:** Stoicism, pragmatism, empiricism, and a dash of existential nihilism to put things in perspective
 
 **Causes I Care About:** Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/), universal education, universal health care
 
-**Hobbies:** Reading, gaming, developing procedurally generated content tools for tabletop RPGs, writing short-form nonfiction, painting, making themed music playlists
+**Hobbies:** Cooking, gaming, reading, developing procedurally generated content tools for tabletop RPGs, writing, making themed music playlists
 
 **Theme Song:** [Everybody Wants to Rule the World by Tears for Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
 
@@ -41,9 +41,7 @@ I started my professional career as a developer, not a system administrator. Now
 
 **Hogwarts House:** Slytherin
 
-**World of Warcraft Main:** [Exsecratus, Blood Elf Warlock](https://www.wowhead.com/list=64805593/us-tichondrius-exsecratus)
-
-**Destiny 2 Profile:** [dungeonHack](https://destinytracker.com/destiny-2/profile/steam/4611686018467375040/overview)
+**Overwatch Main:** Junkrat
 
 **Dungeons &amp; Dragons Archetype:** Half-Elf Sorcerer
 
