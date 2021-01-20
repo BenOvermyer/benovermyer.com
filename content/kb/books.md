@@ -11,6 +11,7 @@ I started doing this in 2019, so previous years are not included.
 ## 2021
 
 1. _Estonia_ by Neil Taylor
+2. _Freedom_ by Daniel Suarez
 
 ## 2020
 
