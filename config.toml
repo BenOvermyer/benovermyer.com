@@ -3,6 +3,19 @@ languageCode = "en-us"
 theme = "manatrance"
 title = "Ben Overmyer"
 
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
+
 [params]
   author = "Ben Overmyer"
   description = "DevOps Engineer and Game Designer"

@@ -154,14 +154,6 @@ header {
             margin-left: 1rem;
         }
     }
-    main {
-        h1::first-letter {
-            font-size: 3rem;
-            float: left;
-            line-height: 6rem;
-            padding: 2px;
-        }
-    }
     ul.menu::before {
         content: "\1f4bb";
     }
@@ -241,7 +233,7 @@ ul {
 }
 
 ol {
-    list-style-type: numbered;
+    list-style-type: decimal;
     li {
         margin-left: 2rem;
     }
@@ -281,4 +273,11 @@ code {
 
 strong {
     font-weight: 700;
+}
+
+div.search-result {
+    border: 1px solid #eee;
+    border-radius: 3px;
+    margin: 0.25rem;
+    padding: 0.25rem;
 }
