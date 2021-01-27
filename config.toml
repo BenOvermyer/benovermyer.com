@@ -18,6 +18,6 @@ params = ["categories", "tags"]
 
 [params]
   author = "Ben Overmyer"
-  description = "DevOps Engineer and Game Designer"
+  description = "Digital Infra Engineer, Game Designer, and Curious Human"
   twitter_name = "bovermyer"
   sidebarrecentlimit = 7
