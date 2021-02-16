@@ -14,12 +14,10 @@ This may have once been called a "web directory." What follows is a set of links
 -   [Neocities](https://dungeonhack.neocities.org/) - my page on NeoCities. It's just for random RPG junk.
 -   [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - a web directory I maintain for TTRPG content generators.
 
-## Design
+## Typography and Fonts
 
+-   [The Fell Types](https://iginomarini.com/fell/) - about the Fell typefaces, and Igino Marini's digital versions of them
 -   [Butterick's Practical Typography](https://practicaltypography.com/) — a definitive guide to typography
-
-## Fonts
-
 -   [Fantasque Sans](https://github.com/belluzj/fantasque-sans) — my current coding font family
 -   [Fira Code](https://github.com/tonsky/FiraCode)
 -   [Iosevka](https://typeof.net/Iosevka/)
