@@ -21,9 +21,10 @@ Over the years I've been involved in tabletop game publications either as an art
 
 These are role-playing games that I never published in any commercial sense. They're just free books you can download here.
 
--   [Vox Draconis](/voxdraconis.pdf) (1997) - My first RPG to be made publicly available.
--   [Vox Draconis: Timescape](/timescape.pdf) (1997) - A time-travel and lore supplement for Vox Draconis.
--   [Iridium Fantasy](/iridiumfantasy.pdf) (1998) - My first attempt at system design.
+-   [Vox Draconis](/games/voxdraconis.pdf) (1997) - My first RPG to be made publicly available.
+-   [Vox Draconis: Timescape](/games/timescape.pdf) (1997) - A time-travel and lore supplement for Vox Draconis.
+-   [Iridium Fantasy](/games/iridiumfantasy.pdf) (1998) - My first attempt at system design.
+-   [Mysteries of a Broken World](/games/mysteriesofabrokenworld.pdf) - This is a work in progress. It was begun in 2018 and meant to be a Silver Gryphon Games product before SGG went under.
 -   [Vox Draconis: Kingdoms of Stone and Fire](/page/voxdraconisksf) - This is a work in progress. It's a new RPG, written with over twenty years of game design experience behind me.
 
 ### Published Writer Credit

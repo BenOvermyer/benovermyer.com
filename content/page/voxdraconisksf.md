@@ -17,7 +17,7 @@ The guiding philosophies behind this game include the following:
 -   Choices are awesome
 -   Stories give meaning to rules
 
-You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Stone and Fire PDF](/vox-draconis-ksf.pdf)
+You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Stone and Fire PDF](/games/vox-draconis-ksf.pdf)
 
 This document is updated periodically as I work on it more. It was last updated October 22nd, 2020.
 
