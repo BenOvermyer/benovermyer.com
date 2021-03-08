@@ -1,16 +1,13 @@
----
-title: "Movies"
-date: 2020-12-30T07:26:26-06:00
-draft: false
-description: "A list of movies I intend to watch at some point."
----
-
++++
+title = "Movies"
+date = 2020-12-30
++++
 Sometimes someone will tell me about a movie I need to see. Usually, my response is "cool, I'll add it
 to the list." Before adding this page to my site, that meant I'd add it to my mental list of movies to
 watch. Relying on memory is problematic at best, so I decided to create an actual list on my site to
 track everything that's in that queue.
 
-## Movies to Watch
+# Movies to Watch
 
 This is the main list. If I get recommendations, or see a movie I want to watch, it goes here.
 
@@ -19,7 +16,7 @@ This is the main list. If I get recommendations, or see a movie I want to watch,
 * The Liberator
 * Iron Mask
 
-## Swashbuckling Movies
+# Swashbuckling Movies
 
 At some point I put together this list because I was playing a character in a Dungeons & Dragons campaign
 that was a swashbuckler-type. The list took a bit of effort to put together, so I didn't want to just

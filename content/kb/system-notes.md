@@ -1,11 +1,8 @@
----
-title: "System Administration Notes"
-date: 2019-10-25T07:45:43-05:00
-draft: false
-description: "Notes about system administration or management."
----
-
-## Examining an SSL certificate
++++
+title = "System Administration Notes"
+date = 2019-10-25
++++
+# Examining an SSL certificate
 
 To verify a web server's certificate:
 
@@ -15,7 +12,7 @@ openssl s_client -connect <domain name>:443
 
 There is more information available on [Bruce's blog post about verifying certificates](https://rbwilson.ca/how-to-verify-certificates-with-openssl/).
 
-## Adding a root certificate to Ubuntu
+# Adding a root certificate to Ubuntu
 
 1. `sudo mkdir /usr/share/local/ca-certificates` if it doesn't already exist
 2. If you have a PEM file instead of a CRT, `openssl x509 -in mypem.pem -inform PEM -out mycrt.crt`
@@ -27,27 +24,27 @@ is one such example, as is Chef.
 
 For Chef, do the following after the above:
 
-```
+```bash
 echo "export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt" > /etc/profile.d/add_ssl_cert_file_for_chef.sh
 ```
 
-## Adding a root certificate to RHEL
+# Adding a root certificate to RHEL
 
 1. Place the root certificate here: `/etc/pki/ca-trust/source/anchors/my-cert.crt`
 2. `sudo update-ca-trust`
 
 For Chef, do the following after the above:
 
-```
+```bash
 echo "export SSL_CERT_FILE=/etc/pki/tls/certs/ca-bundle.crt" > /etc/profile.d/add_ssl_cert_file_for_chef.sh
 ```
 
-## Clearing out old Chef nodes
+# Clearing out old Chef nodes
 
 If you're using Chef with cloud infrastructure that doesn't properly clean up old nodes,
 you can run the following occasionally to clear them out:
 
-```
+```bash
 #!/bin/bash
 for node in $(knife search node "ohai_time:[* TO $(date +%s -d '30 days ago')]" -i); do
   yes|knife client delete $node
@@ -59,7 +56,7 @@ This script produces a list of nodes (one per line, name only) with an `ohai_tim
 
 You might need to change the '30 days ago' timeframe to better suit your own environment.
 
-## Automating the update of Chef Infra Client in environments with internal CA
+# Automating the update of Chef Infra Client in environments with internal CA
 
 When you're in an environment that has an internal certificate authority, you'll need to add that material
 to Chef. The following Chef code will automate that as part of a base cookbook `my_base_cookbook` default recipe.
@@ -67,7 +64,7 @@ to Chef. The following Chef code will automate that as part of a base cookbook `
 Note that this requires two external cookbooks prior to Chef Infra Client 16.5: `chef-client` and `chef_client_updater`.
 Chef Infra Client 16.5 and later includes the `chef-client` functionality.
 
-```
+```ruby
 node.default['chef_client']['chef_license'] = 'accept'
 node.default['chef_client']['ca_cert_path'] = '/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem' // default for RHEL-compatible Linux
 
@@ -94,7 +91,7 @@ chef_client_updater 'Install latest Chef Infra Client' do
 end
 ```
 
-## Building Docker images on an internal-only GitLab
+# Building Docker images on an internal-only GitLab
 
 Let's say you have an instance of GitLab set up on an internal domain name with a certificate signed by an internal root certificate authority. Let's also say that you want to set up Docker-in-Docker builds on a GitLab Runner for that instance.
 
@@ -102,7 +99,7 @@ Your GitLab runner config must have `privileged = true` for the executor, and it
 
 The `.gitlab-ci.yml` file for your project should look something like this:
 
-```
+```yaml
 image: docker:19.03.13
 
 services:

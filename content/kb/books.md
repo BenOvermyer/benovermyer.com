@@ -1,11 +1,9 @@
----
-title: "Books I've Read"
-date: 2019-11-28T16:48:52-05:00
-draft: false
-description: "All the books I've read"
----
-
++++
+title = "Books I've Read"
+date = 2019-11-28
++++
 I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
+
 I started doing this in 2019, so previous years are not included.
 
 ## 2021

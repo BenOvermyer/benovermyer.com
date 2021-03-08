@@ -1,11 +1,8 @@
----
-title: "Eggnog"
-date: 2020-10-11T13:40:17-05:00
-draft: false
-description: "My variation on eggnog."
----
-
-## Ingredients
++++
+title = "Eggnog"
+date = 2020-10-11
++++
+# Ingredients
 
 -   6 eggs
 -   2 + 1/2 cups heavy whipping cream
@@ -16,7 +13,7 @@ description: "My variation on eggnog."
 -   1/2 teaspoon vanilla extract
 -   1/2 teaspoon nutmeg, ground or grated (fresh is best)
 
-## Instructions
+# Instructions
 
 1. Begin with pre-chilled ingredients for the greatest end result.
 2. In a medium bowl, beat the eggs together hard until they're very frothy.

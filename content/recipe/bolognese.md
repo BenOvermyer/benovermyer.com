@@ -1,11 +1,8 @@
----
-title: "Bolognese sauce"
-date: 2020-10-14T06:55:44-05:00
-draft: false
-description: "How to make a basic bolognese sauce"
----
-
-## Ingredients
++++
+title = "Bolognese sauce"
+date = 2020-10-14
++++
+# Ingredients
 
 -   1 tbsp. extra-virgin olive oil
 -   1 onion, chopped
@@ -22,7 +19,7 @@ description: "How to make a basic bolognese sauce"
 -   3/4 tsp. kosher salt
 -   Freshly ground black pepper
 
-## Instructions
+# Instructions
 
 1. In a large dutch oven over medium-high heat, heat oil.
 2. Add onion, carrot, and celery, and cook until soft, about 7 minutes.

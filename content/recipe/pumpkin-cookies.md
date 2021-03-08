@@ -1,11 +1,8 @@
----
-title: "Pumpkin Cookies"
-date: 2020-10-15T09:43:17-05:00
-draft: false
-description: "I don't eat many cookies, but these are damned good."
----
-
-## Ingredients
++++
+title = "Pumpkin Cookies"
+date = 2020-10-15
++++
+# Ingredients
 
 -   1 cup canned pumpkin
 -   1 cup white sugar
@@ -21,7 +18,7 @@ description: "I don't eat many cookies, but these are damned good."
 -   2 cups semisweet chocolate chips
 -   ½ cup chopped walnuts
 
-## Instructions
+# Instructions
 
 1. Combine pumpkin, sugar, vegetable oil, and egg.
 2. In a separate bowl, stir together flour, baking powder, ground cinnamon, and salt. Dissolve the baking soda with the milk and stir in.

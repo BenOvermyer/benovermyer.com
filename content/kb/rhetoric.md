@@ -1,13 +1,10 @@
----
-title: "Rhetoric"
-date: 2020-10-11T13:57:53-05:00
-draft: false
-description: "Notes on how rhetoric works"
----
-
++++
+title = "Rhetoric"
+date = 2020-10-11
++++
 Three kinds of persuasion
 
-## Ethos
+# Ethos
 
 Appearing knowledgeable about the topic, and being a person of good character
 
@@ -21,13 +18,13 @@ Establish common ground:
 
 Live a life of virtue - avoid hypocrisy at all costs
 
-### Readings on ethos:
+## Readings on ethos:
 
 -   The Autobiography of Benjamin Franklin, on living a life of virtue
 -   Win the Crowd: Unlock the Secrets of Influence, Charisma, and Showmanship
 -   Good in a Room
 
-## Pathos
+# Pathos
 
 The Appeal to Emotion
 
@@ -45,13 +42,13 @@ Figures of speech:
 -   energia: the vigor with which one expresses oneself
 -   epistrophe: repetition that occurs when the last word or set of words in one sentence, clause, or phrase is repeated one or more times at the end of successive sentences, clauses, or phrases ("...and that government of the people, by the people, for the people, shall not perish from the earth")
 
-### Readings on pathos:
+## Readings on pathos:
 
 -   Made to Stick
 -   Switch
 -   Story: Substance, Structure, Style and the Principles of Screenwriting
 
-## Logos
+# Logos
 
 The appeal to reason
 
@@ -64,7 +61,7 @@ Make sure it's sound. An argument is sound if:
 
 Reversing the example syllogism is a logical fallacy - a subset may be part of a superset, but the superset is not a subset of its own subset.
 
-### Readings on logos
+## Readings on logos
 
 -   How to Win Every Argument: The Use and Abuse of Logic
 -   Logic: A Very Short Introduction

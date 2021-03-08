@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="page-title">
+	{{ section.title }}
+</h1>
+
+<p>This is my blog. I don't write about anything in particular; just what takes my fancy at the moment.</p>
+
+<ul>
+	{% for page in section.pages %}
+	<li>{{ page.date|date(format="%B %e, %Y") }} - <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+	{% endfor %}
+</ul>
+{% endblock content %}

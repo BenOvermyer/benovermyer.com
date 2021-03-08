@@ -1,13 +1,10 @@
----
-title: "Thai Pineapple Curry"
-date: 2020-10-11T13:45:22-05:00
-draft: false
-description: "Of all the Thai curries, this is my favorite."
----
-
++++
+title = "Thai Pineapple Curry"
+date = 2020-10-11
++++
 This would probably be better with shrimp.
 
-## Ingredients
+# Ingredients
 
 -   2 teaspoons canola oil
 -   1/4 cup red curry paste (if using concentrated use 1 tablespoon)
@@ -22,7 +19,7 @@ This would probably be better with shrimp.
 -   1 tablespoon cornstarch mixed with 1 tablespoon water
 -   2 cups pineapple chunks
 
-## Instructions
+# Instructions
 
 1. Heat the saucepan on medium high heat and add the canola oil.
 2. Add the curry paste and whisk well, cooking it for 1-2 minutes until it starts to get foamy.

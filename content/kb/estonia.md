@@ -1,18 +1,16 @@
----
-title: "Estonia"
-date: 2020-12-30T08:32:40-06:00
-draft: false
-description: "Notes about the country of Estonia"
----
++++
+title = "Estonia"
+date = 2020-12-30
++++
 Here I make notes about Estonia.
 
-## Climate
+# Climate
 
 Winters are warmer and more humid than Minnesota's. Summers are slightly cooler. The annual
 average temperature is lower than Minnesota's, but the warmer winters make up for that.
 Precipitation is over twice that of Minnesota's - more snow, more rain.
 
-## Government
+# Government
 
 The government is divided into three parts - the executive, the legislative, and the judicial. The executive
 is headed by the President, with an executive policy body in the Government. The Government is headed by
@@ -23,7 +21,7 @@ not in the President.
 The legislative is the Riigikogu, or Parliament. It has 101 seats. As far as I can tell, it's similar to the
 British Parliament in power and general composition. The notable political parties are described below.
 
-### Political Parties
+## Political Parties
 
 **The EKRE:** The Conservative People's Party. Nationalistic and populist. From what I can tell, they are
 xenophobic, racist, oppose membership in the European Union, oppose LGBTQ, oppose abortion, oppose alcohol and drugs,
@@ -43,7 +41,7 @@ Reform Party.
 Those are the major parties. Of the minor parties, only the Estonia 200 is notable, but as it's only two years old
 I won't get into it here yet.
 
-## History
+# History
 
 I'm still reading about this and don't have a full understanding yet. The big points are that Estonia as a populated
 region is pretty old, but Estonia as an independent country is fairly young, as European nations go. The Germans and
@@ -51,13 +49,13 @@ the Russians fought over Estonia for a very long time. Estonia's first period of
 and 1940. Russia invaded, then Nazi Germany, then the Soviet Union. Modern Estonia gained independence in 1991 as the
 Soviet Union was imploding. Finland was an important part of keeping Estonian culture alive during the occupation years.
 
-## Language
+# Language
 
 Estonian is a Uralic language related to Finnish. It has nothing to do with Russian. The most common foreign languages
 in Estonia are Russian, English, Finnish, and German. I'll probably make a separate page at some point just for the
 Estonian language.
 
-## Cities
+# Cities
 
 Tallinn is the capital and lies on the northern coast. Tartu is the other big city, and lies in the south. Most of the
 population lives in or near one of these two cities.

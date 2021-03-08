@@ -1,23 +1,16 @@
-baseurl = "https://www.benovermyer.com/"
-languageCode = "en-us"
-theme = "manatrance"
-title = "Ben Overmyer"
+# The URL the site will be built for
+base_url = "https://benovermyer.com"
 
-[outputs]
-home = ["HTML", "RSS", "Algolia"]
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
 
-[outputFormats.Algolia]
-baseName = "algolia"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
 
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
 
-[params]
-  author = "Ben Overmyer"
-  description = "Digital Infra Engineer, Game Designer, and Curious Human"
-  twitter_name = "bovermyer"
-  sidebarrecentlimit = 7
+[extra]
+# Put all your custom variables here

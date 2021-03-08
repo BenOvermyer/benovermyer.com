@@ -1,11 +1,8 @@
----
-title: "Peanut Curry"
-date: 2020-06-25T13:56:45-05:00
-draft: false
-description: This recipe was originally inspired by Thai panang curry, but has undergone a few changes.
----
-
-## Ingredients
++++
+title = "Peanut Curry"
+date = 2020-06-25
++++
+# Ingredients
 
 -   1 can Maesri panang curry paste
 -   2 cans coconut milk
@@ -19,7 +16,7 @@ description: This recipe was originally inspired by Thai panang curry, but has u
 -   6-8 Thai chili peppers, chopped
 -   sea salt
 
-## Directions
+# Directions
 
 1. Heat the oil in a 12-14 inch pan on medium heat.
 2. Saute the onion, adding sea salt as necessary.

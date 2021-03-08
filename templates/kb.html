@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="page-title">
+	{{ section.title }}
+</h1>
+
+<p>This page acts as a kind of notebook. Anything I want to remember for later, I might put here.</p>
+
+<ul>
+	{% for page in section.pages %}
+	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+	{% endfor %}
+</ul>
+{% endblock content %}

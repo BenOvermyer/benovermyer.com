@@ -1,11 +1,8 @@
----
-title: "Channa Masala"
-date: 2020-10-11T13:49:07-05:00
-draft: false
-description: "You can buy this premade, but it's really easy to just make it yourself."
----
-
-## Ingredients
++++
+title = "Channa Masala"
+date = 2020-10-11
++++
+# Ingredients
 
 -   1 tablespoon olive oil
 -   1 large onion, chopped
@@ -19,7 +16,7 @@ description: "You can buy this premade, but it's really easy to just make it you
 -   1/4 cup minced fresh cilantro, or to taste
 -   salt to taste
 
-## Instructions
+# Instructions
 
 1. Heat the oil in a wide skillet. Add the onion and sauté until translucent. Add the garlic and continue to sauté until the onion is golden.
 2. Add the chickpeas, garam masala, turmeric, ginger, tomatoes, lemon juice, and about 1/4 cup water. Bring to a simmer, then cook over medium-low heat for 10 minutes, stirring frequently. This should be moist and stew-like; add a little more water, if needed.

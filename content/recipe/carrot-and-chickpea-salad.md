@@ -1,11 +1,8 @@
----
-title: "Carrot and Chickpea Salad"
-date: 2020-11-02T05:55:05-06:00
-draft: false
-description: "One of the best salad recipes I have."
----
-
-## Ingredients
++++
+title = "Carrot and Chickpea Salad"
+date = 2020-11-02
++++
+# Ingredients
 
 -   1 pound sliced carrots
 -   2 tablespoons olive oil
@@ -20,7 +17,7 @@ description: "One of the best salad recipes I have."
 -   1/2 cup [herb tahini dressing](../herb-tahini-dressing)
 -   1/2 cup chopped toasted almonds
 
-## Instructions
+# Instructions
 
 1. Arrange a rack in the middle of the oven and heat to 400°F.
 2. Place the carrots on a rimmed baking sheet. Drizzle with the oil; sprinkle with 1 teaspoon of the coriander, 1/2 teaspoon of the salt, and pepper; and toss to evenly coat. Spread into an even layer. Roast, stirring once halfway through, until tender and lightly browned, about 20 minutes total.

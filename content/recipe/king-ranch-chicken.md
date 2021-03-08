@@ -1,11 +1,8 @@
----
-title: "King Ranch Chicken"
-date: 2020-11-19T11:56:15-06:00
-draft: false
-description: "My version of king ranch chicken, a really rich enchilada-y casserole."
----
-
-## Ingredients
++++
+title = "King Ranch Chicken"
+date = 2020-11-19
++++
+# Ingredients
 
 -   6 Tbsp butter
 -   1/2 chopped yellow onion
@@ -23,7 +20,7 @@ description: "My version of king ranch chicken, a really rich enchilada-y casser
 -   5 cups shredded cheese
 -   21 corn tortillas, cut into halves
 
-## Instructions
+# Instructions
 
 1. Preheat oven to 375. Lightly spray a 9×13 baking dish with cooking spray and set aside.
 2. In a large skillet over medium heat, melt butter. Add in the onion and sauté 10 minutes or until softened. Add in the garlic, chili powder, cumin, salt, and pepper. Cook 1 minute.

@@ -1,10 +1,8 @@
----
-title: "Boolean Algebra"
-date: 2019-12-18T09:08:54-06:00
-draft: false
-description: "Notes on certain boolean algebra topics"
-has_math: true
----
++++
+title = "Boolean Algebra"
+date = 2019-12-18
++++
+
 # De Morgan's Laws
 
 1. The negation of a disjunction is the conjunction of the negations

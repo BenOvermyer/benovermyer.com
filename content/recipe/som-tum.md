@@ -1,11 +1,8 @@
----
-title: "Som Tum"
-date: 2020-10-11T13:53:20-05:00
-draft: false
-description: "Som tum is my favorite Thai side dish."
----
-
-## Ingredients
++++
+title = "Som Tum"
+date = 2020-10-11
++++
+# Ingredients
 
 -   1 clove garlic
 -   1 or 2 red Thai bird's eye chilies
@@ -18,7 +15,7 @@ description: "Som tum is my favorite Thai side dish."
 -   Fresh lime juice to taste
 -   Fish sauce to taste
 
-## Instructions
+# Instructions
 
 1. Pound the garlic and bird's eye chilies until they form a smooth paste.
 2. Add the dried shrimp and pound until the pieces are broken up, but not completely pulverized.

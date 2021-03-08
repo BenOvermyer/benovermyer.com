@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "im-fell";
+  src: url("IMFellRegular.woff") format("woff");
+}
+body, html {
+  font-family: "Georgia", serif;
+  font-size: 20px;
+}
+
+header {
+  margin-top: 1rem;
+  text-align: center;
+}
+header h1 {
+  font-size: 3rem;
+  line-height: 3rem;
+  margin: 0;
+  margin-left: 0.5rem;
+}
+header p.subtitle {
+  font-family: "im-fell";
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+header img.photo {
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
+
+footer {
+  border-top: 1px solid #ab5e3e;
+  font-size: 0.75rem;
+}
+
+code {
+  font-family: monospace;
+  font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  font-family: "im-fell";
+}
+
+h1.page-title {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+a {
+  color: #ff5a11;
+}
+
+a:hover {
+  color: #ffa900;
+}
+
+a:visited {
+  color: #ab5e3e;
+}
+
+section, nav, footer {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+nav {
+  border-bottom: 1px solid #ab5e3e;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0.2rem 0;
+  padding: 0;
+}
+nav ul li {
+  display: block;
+  list-style: none;
+  margin: 0 0.4rem;
+  font-size: 1.1rem;
+}
+nav ul li a {
+  text-decoration: none;
+}
+
+p.blog-date {
+  font-family: "im-fell", sans-serif;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=main.css.map */

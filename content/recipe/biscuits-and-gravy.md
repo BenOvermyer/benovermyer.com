@@ -1,15 +1,12 @@
----
-title: "Biscuits and Gravy"
-date: 2020-10-11T13:44:04-05:00
-draft: false
-description: "This my recipe for biscuits and gravy, adapted from my dad's recipe. If you ever had biscuits and gravy at Scotto's restaurant in New Zealand, this is basically that recipe."
----
-
++++
+title = "Biscuits and Gravy"
+date = 2020-10-11
++++
 The biscuits are just store-bought buttermilk biscuits. Prepare per their instructions.
 
 The recipe for the gravy is as follows.
 
-## Ingredients
+# Ingredients
 
 -   2 lb. sage ground sausage
 -   5 cups whole milk
@@ -18,7 +15,7 @@ The recipe for the gravy is as follows.
 -   a generous amount of black pepper
 -   a less generous amount of salt
 
-## Instructions
+# Instructions
 
 1. Brown the sausage in a large pan. Remove from heat when done.
 2. Melt the butter in a stock pot.

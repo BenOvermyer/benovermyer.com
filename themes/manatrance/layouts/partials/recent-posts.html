@@ -1,8 +1,0 @@
-<div>
-    <h2>Recent Posts</h2>
-    <ul>
-        {{- range first .Site.Params.SidebarRecentLimit (where .Site.RegularPages "Section" "post") -}}
-        <li><a href="{{ .RelPermalink }}">{{.Title}}</a> <cite>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</cite></li>
-        {{- end -}}
-    </ul>
-</div>

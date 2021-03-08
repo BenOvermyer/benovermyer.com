@@ -1,19 +1,16 @@
----
-title: "Geography"
-date: 2020-01-24T12:18:56-06:00
-draft: false
-description: "Information about geography relevant to world-building and simulation"
----
-
++++
+title = "Geography"
+date = 2020-01-24
++++
 This page is for information about geography and related concerns. I'm learning this for
 world-building purposes.
 
-## Climates and Biomes
+# Climates and Biomes
 
 Climates and biomes are not the same thing. A biome is derived from a climate, but a
 climate is based on geographical traits.
 
-### Climates
+## Climates
 
 The primary determinants of a climate are sun intensity, hours of daylight, axial tilt, distance
 from the equator, distance and direction to the nearest mountains, distance and direction to the
@@ -50,7 +47,7 @@ The following are types of climate:
 * Continental
 * Polar
 
-### Biomes
+## Biomes
 
 A biome has the following traits:
 

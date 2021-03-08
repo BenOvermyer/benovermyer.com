@@ -1,0 +1,19 @@
+{
+  "swatches" : [
+    {
+      "color" : "#ab5d3eff",
+      "name" : "Rustic Brown",
+      "space" : "srgb"
+    },
+    {
+      "color" : "#ffa900ff",
+      "name" : "Warm Sunrise",
+      "space" : "srgb"
+    },
+    {
+      "color" : "#db5910ff",
+      "name" : "Hot Lava",
+      "space" : "srgb"
+    }
+  ]
+}

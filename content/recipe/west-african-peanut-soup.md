@@ -1,11 +1,8 @@
----
-title: "West African Peanut Soup"
-date: 2020-10-11T13:55:00-05:00
-draft: false
-description: "I wanted to try West African food a few years ago, and found this recipe. I love it."
----
-
-## Ingredients
++++
+title = "West African Peanut Soup"
+date = 2020-10-11
++++
+# Ingredients
 
 -   6 cups low sodium vegetable broth
 -   1 medium red onion, chopped
@@ -18,7 +15,7 @@ description: "I wanted to try West African food a few years ago, and found this 
 -   Sriracha
 -   1/4 cup roughly chopped peanuts, for garnish
 
-## Instructions
+# Instructions
 
 1. In a medium Dutch oven or stock pot, bring the broth to a boil. Add the onion, ginger, garlic and salt. Cook on medium-low heat for 20 minutes.
 2. In a medium-sized, heat-safe mixing bowl, combine the peanut butter and tomato paste, then transfer 1 to 2 cups of the hot stock to the bowl.

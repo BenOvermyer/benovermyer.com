@@ -1,11 +1,8 @@
----
-title: "Tasha's Coconut Vegetable Curry"
-date: 2021-01-18T06:27:04-06:00
-draft: false
-description: "A vegetarian curry my sister found for me, with both her and my modifications."
----
-
-## Ingredients
++++
+title = "Tasha's Coconut Vegetable Curry"
+date = 2021-01-18
++++
+# Ingredients
 
 -   2 tbsp vegetable oil
 -   8 green cardamom pods
@@ -33,7 +30,7 @@ description: "A vegetarian curry my sister found for me, with both her and my mo
 -   basmati rice
 -   chopped fresh cilantro
 
-## Instructions
+# Instructions
 
 1. Heat the vegetable oil in a large dutch oven over medium-high heat.
 2. Add the cardamom pods, cinnamon stick, and clove. Cook until the whole spices are toasted, stirring frequently.

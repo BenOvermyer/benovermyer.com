@@ -1,10 +1,7 @@
----
-title: "Turmeric Chicken with Chickpeas"
-date: 2020-11-16T10:02:46-06:00
-draft: false
-description: "A great main dish inspired by Mediterranean flavors."
----
-
++++
+title = "Turmeric Chicken with Chickpeas"
+date = 2020-11-16
++++
 This was taken from [Food52](https://food52.com/recipes/83166-turmeric-chicken-recipe-with-crispy-chickpeas), with some modifications.
 
 ## Ingredients

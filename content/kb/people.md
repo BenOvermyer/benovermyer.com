@@ -1,9 +1,7 @@
----
-title: "People"
-date: 2020-08-28T17:26:37-05:00
-draft: false
-description: "People of interest"
----
++++
+title = "People"
+date = 2020-08-28
++++
 This page is a list of people I think are interesting.
 
 ## Online Authors

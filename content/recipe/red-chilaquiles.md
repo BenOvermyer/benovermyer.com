@@ -1,13 +1,10 @@
----
-title: "Red Chilaquiles"
-date: 2020-06-29T08:01:14-05:00
-draft: false
-description: Chilaquiles are an amazing breakfast.
----
++++
+title = "Red Chilaquiles"
+date = 2020-06-29
++++
+# Ingredients
 
-## Ingredients
-
-### Red Sauce
+## Red Sauce
 
 -   3 tablespoons flour
 -   1 tablespoon chili powder
@@ -22,7 +19,7 @@ description: Chilaquiles are an amazing breakfast.
 -   2 tablespoons chopped fresh cilantro, plus additional for garnish
 -   1 teaspoon apple cider vinegar
 
-### Everything Else
+## Everything Else
 
 -   5 big handfuls corn tortilla chips
 -   ⅓ cup crumbled cotija
@@ -31,9 +28,9 @@ description: Chilaquiles are an amazing breakfast.
 -   4 fried eggs
 -   1 small lime, cut into wedges
 
-## Instructions
+# Instructions
 
-### The Sauce
+## The Sauce
 
 1. To make the sauce: Measure the flour, chili powder, cumin, garlic powder, oregano, salt and cinnamon into a small bowl. Place the bowl near the stove with the tomato paste and broth.
 2. In a large skillet over medium heat, warm the oil until it’s hot enough that a light sprinkle of the flour/spice mixture sizzles on contact.
@@ -41,7 +38,7 @@ description: Chilaquiles are an amazing breakfast.
 4. Raise heat to medium-high and bring the mixture to a simmer, then reduce heat as necessary to maintain a gentle simmer. Cook, whisking often, for about 5 to 7 minutes, until the sauce has thickened a bit and your spoon encounters some resistance as you stir it.
 5. Reduce the heat to the lowest possible setting. Whisk in the cilantro and vinegar and season to taste with additional salt, if necessary.
 
-### The Chilaquiles
+## The Chilaquiles
 
 1. To make the chilaquiles: Add the tortilla chips to the skillet. Using a flexible spatula, gently toss until all of the chips are coated in sauce. It might seem like they never will be, but keep stirring!
 2. Once coated, remove the skillet from the heat. Test a chip to see if it has softened to your liking. If the chips are not sufficiently softened, cover the skillet for 1 to 4 minutes, until you’re happy with their texture.

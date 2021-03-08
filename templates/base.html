@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description"
+        content="Ben Overmyer, Digital Infra Engineer and Game Designer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@https://twitter.com/bovermyer">
+    <meta name="twitter:creator" content="@https://twitter.com/bovermyer">
+    <meta name="twitter:domain" content="https://www.benovermyer.com/">
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Ben Overmyer | Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="">
+    
+    <meta property="og:type" content="website" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="application-name" content="&nbsp;" />
+	<title>Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="/main.css" />
+    <script defer src="/js/katex.min.js"></script>
+    <script defer src="/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+    <link rel="stylesheet" type="text/css" href="/js/katex.min.css" />
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/kb">KB</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/creations">Creations</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		{% block content %} {% endblock %}
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my new favorite static site generator. All content is copyright &copy; {{ now() | date(format="%Y") }} Ben Overmyer, all rights reserved.</p>
+	</footer>
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "86defb7702f045269da305bf183f6aad"}'></script>
+</body>
+
+</html>

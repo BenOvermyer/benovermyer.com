@@ -1,10 +1,7 @@
----
-title: "Moroccan Cauliflower"
-date: 2021-01-13T10:41:35-06:00
-draft: false
-description: "A unique vegetarian main inspired by Moroccan flavors."
----
-
++++
+title = "Moroccan Cauliflower"
+date = 2021-01-13
++++
 ## Ingredients
 
 - 1 whole head of cauliflower, cut into florets

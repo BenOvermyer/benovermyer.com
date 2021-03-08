@@ -1,10 +1,7 @@
----
-title: "Game Design"
-date: 2020-10-11T14:55:23-05:00
-draft: false
-description: "Thoughts and notes regarding game design, especially for tabletop role-playing games"
----
-
++++
+title = "Game Design"
+date = 2020-10-11
++++
 > A game is a series of interesting choices. — _Sid Meier_
 
 To avoid overloading a player with options, present at most 5 options for any given choice, and no more than 5 choices in a row.

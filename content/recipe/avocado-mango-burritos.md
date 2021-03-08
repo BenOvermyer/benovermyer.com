@@ -1,13 +1,10 @@
----
-title: "Black Bean Burritos with Avocado Mango Salsa"
-date: 2020-07-16T17:01:14-05:00
-draft: false
-description: This recipe is inspired by tacos I had at Lago Tacos in Lyn-Lake in Minneapolis, and based partially on a recipe I found online.
----
++++
+title = "Black Bean Burritos with Avocado Mango Salsa"
+date = 2020-07-16
++++
+# Ingredients
 
-## Ingredients
-
-### Avocado Mango Salsa
+## Avocado Mango Salsa
 
 -   2 mangos
 -   1 avocado
@@ -16,7 +13,7 @@ description: This recipe is inspired by tacos I had at Lago Tacos in Lyn-Lake in
 -   juice of 1 lime
 -   3 garlic cloves
 
-### Black Bean Filling
+## Black Bean Filling
 
 -   1 can black beans, rinsed and drained
 -   1 large red bell pepper, julienned
@@ -24,19 +21,19 @@ description: This recipe is inspired by tacos I had at Lago Tacos in Lyn-Lake in
 -   juice of 1/2 lime
 -   flour tortillas
 
-### Optional Extras
+## Optional Extras
 
 -   Sour cream
 -   Crumbled fresh cotija
 
-## Instructions
+# Instructions
 
-### Make the salsa
+## Make the salsa
 
 1. Roughly chop the mangos, avocado, and onion small enough to fit into a food processor
 2. Add all of the salsa ingredients to the food processor and finely chop (but don't puree)
 
-### Make the filling
+## Make the filling
 
 1. Heat a bit of olive oil or avocado oil in a pan on medium heat
 2. Sautee the bell pepper and jalapeños for a few minutes

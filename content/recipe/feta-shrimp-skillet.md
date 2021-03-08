@@ -1,11 +1,8 @@
----
-title: "Feta Shrimp Skillet"
-date: 2021-01-13T10:50:52-06:00
-draft: false
-description: "A great shrimp recipe based on one from Taste of Home."
----
-
-## Ingredients
++++
+title = "Feta Shrimp Skillet"
+date = 2021-01-13
++++
+# Ingredients
 
 - 1 tablespoon olive oil
 - 1 medium onion, finely chopped
@@ -19,7 +16,7 @@ description: "A great shrimp recipe based on one from Taste of Home."
 - 2 tablespoons minced fresh parsley
 - 3/4 cup crumbled feta cheese
 
-## Instructions
+# Instructions
 
 1. Heat oil over medium heat in a large pan.
 2. Sauteé onion until tender.

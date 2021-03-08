@@ -1,11 +1,8 @@
----
-title: "Mom's Mexican Corn Lasagna"
-date: 2020-07-08T06:24:45-05:00
-draft: false
-description: My mom made this for me as a kid. Later I found out it was based on a recipe from Betty Crocker, but with enough changes that it's unique.
----
-
-## Ingredients
++++
+title = "Mom's Mexican Corn Lasagna"
+date = 2020-07-08
++++
+# Ingredients
 
 -   1 lb. ground beef
 -   1 can corn
@@ -22,7 +19,7 @@ description: My mom made this for me as a kid. Later I found out it was based on
 -   1 cup shredded cheddar cheese
 -   1/2 cup cotija cheese (crumbled)
 
-## Instructions
+# Instructions
 
 1. Stir the cottage cheese, eggs, parmesan cheese and oregano in a medium bowl.
 2. Cook the beef in a 10-inch skillet over medium-high heat until it's well browned, stirring often to break up the meat. Pour off any fat. Stir the tomato sauce, picante salsa, chili powder and corn in the skillet. Heat through.
