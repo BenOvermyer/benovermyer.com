@@ -27,4 +27,17 @@
 	<a href="https://geekpartnership.org">Geek Partnership Society</a>.
 </p>
 
+<h2>Most Recent Blog Posts</h2>
+
+{% set blog_posts = get_section(path="blog/_index.md")
+    | get(key="pages")
+    | slice(end=3) 
+%}
+
+<ul>
+{% for post in blog_posts %}
+    <li>{{ post.date }}: <a href="{{ post.permalink }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
 {% endblock content %}
