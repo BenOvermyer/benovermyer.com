@@ -2,6 +2,9 @@
 title = "Biscuits and Gravy"
 date = 2020-10-11
 +++
+This recipe is based on my dad's, which in turn is based on a very old Betty Crocker recipe, I think.
+I've made a few modifications to suit my own tastes.
+
 The biscuits are just store-bought buttermilk biscuits. Prepare per their instructions.
 
 The recipe for the gravy is as follows.
