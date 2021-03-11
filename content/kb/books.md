@@ -12,6 +12,7 @@ I started doing this in 2019, so previous years are not included.
 2. _Freedom_ by Daniel Suarez
 3. _Elven Star_ by Margaret Weiss and Tracy Hickman
 4. _Fire Sea_ by Margaret Weiss and Tracy Hickman
+5. _Serpent Mage_ by Margaret Weiss and Tracy Hickman
 
 ## 2020
 
