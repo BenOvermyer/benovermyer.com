@@ -11,7 +11,6 @@ track everything that's in that queue.
 
 This is the main list. If I get recommendations, or see a movie I want to watch, it goes here.
 
-* Jiu Jitsu
 * High&Low
 * The Liberator
 * Iron Mask
