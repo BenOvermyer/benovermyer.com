@@ -3,7 +3,7 @@ title = "Building things slowly, and with feeling"
 date = "2021-04-02"
 +++
 
-Stitch Fix posted an article on their blog yesterday entitled "Move Slow and Make Things." It was meant to
+Stitch Fix posted an article on their blog yesterday entitled "[Move Slow and Make Things](https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/)." It was meant to
 be an April Fool's joke, but the basic premise of the first paragraph got me to thinking.
 
 Industry has always been obsessed with making as many things as possible as fast as possible. There is usually
