@@ -88,3 +88,24 @@ p.blog-date {
     font-family: 'im-fell', sans-serif;
     font-weight: 700;
 }
+
+@media screen and (max-width: 1024px) {
+    section, nav, footer {
+        width: 100%;
+    }
+
+    header {
+        img.photo {
+            width: 100%;
+        }
+    }
+
+    nav {
+        ul {
+            display: inline;
+            li {
+                display: block;
+            }
+        }
+    }
+}
