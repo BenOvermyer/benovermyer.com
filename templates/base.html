@@ -13,14 +13,14 @@
     <meta name="twitter:domain" content="https://www.benovermyer.com/">
     
     <meta property="og:site_name" content="Ben Overmyer">
-    <meta property="og:title" content="Ben Overmyer | Ben Overmyer">
+    <meta property="og:title" content="{% block socialmediatitle %}{% endblock %}">
     <meta property="og:url" content="https://www.benovermyer.com/">
     <meta property="og:description" content="">
     
     <meta property="og:type" content="website" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <meta name="application-name" content="&nbsp;" />
-	<title>Ben Overmyer</title>
+	<title>{% block title %}{% endblock %}</title>
 	<link rel="stylesheet" type="text/css" href="/main.css" />
     <script defer src="/js/katex.min.js"></script>
     <script defer src="/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
