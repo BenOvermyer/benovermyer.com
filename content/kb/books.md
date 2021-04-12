@@ -13,6 +13,8 @@ I started doing this in 2019, so previous years are not included.
 3. _Elven Star_ by Margaret Weiss and Tracy Hickman
 4. _Fire Sea_ by Margaret Weiss and Tracy Hickman
 5. _Serpent Mage_ by Margaret Weiss and Tracy Hickman
+6. _The Hand of Chaos_ by Margaret Weiss and Tracy Hickman
+7. _Into the Labyrinth_ by Margaret Weiss and Tracy Hickman
 
 ## 2020
 
