@@ -6,24 +6,25 @@ date = 2016-02-13
 
 I'm particularly interested in procedural generation of fictional worlds. I'm starting to do more of this under the banner of _Iron Arachne_. Here are a few of my projects in that vein:
 
--   [Iron Arachne](https://gitlab.com/ironarachne/iron-arachne-js): This site is my primary project. It's a collection of generators for tabletop role-playing games. It's written in JavaScript using Vue.js. Previous iterations were written in PHP and Go.
+-   [Iron Arachne](https://gitlab.com/ironarachne/iron-arachne-js): This site is my primary project. It's a collection of generators for tabletop role-playing games. It's written in JavaScript using Vue.js. Previous iterations were written in [PHP](https://gitlab.com/ironarachne/ironarachne) and [Go](https://gitlab.com/ironarachne/world).
 -   [Name Generator](https://github.com/ironarachne/namegen): A command line name generator written in Go.
 
-## Tabletop Games
-
-Over the years I've been involved in tabletop game publications either as an artist, a writer, or both. I've also written a number of games that were never formally published.
-
-### Non-Commercial RPGs
+## Non-Commercial RPGs
 
 These are role-playing games that I never published in any commercial sense. They're just free books you can download here.
+
+### Finished
 
 -   [Vox Draconis](/games/voxdraconis.pdf) (1997) - My first RPG to be made publicly available.
 -   [Vox Draconis: Timescape](/games/timescape.pdf) (1997) - A time-travel and lore supplement for Vox Draconis.
 -   [Iridium Fantasy](/games/iridiumfantasy.pdf) (1998) - My first attempt at system design.
+
+### In Progress
+
 -   [Mysteries of a Broken World](/games/mysteriesofabrokenworld.pdf) - This is a work in progress. It was begun in 2018 and meant to be a Silver Gryphon Games product before SGG went under.
 -   [Vox Draconis: Kingdoms of Stone and Fire](/voxdraconisksf) - This is a work in progress. It's a new RPG, written with over twenty years of game design experience behind me.
 
-### Published Writer Credit
+## Published Writer Credit
 
 These are all the published works that have me listed as one of the authors.
 
@@ -31,7 +32,7 @@ These are all the published works that have me listed as one of the authors.
 -   A Darkness at Summerfort (Silver Gryphon Games, 2013)
 -   Ingenium™ (Silver Gryphon Games, 2010)
 
-### Published Artist Credit
+## Published Artist Credit
 
 These are all the published works that have me listed as one of the artists.
 
