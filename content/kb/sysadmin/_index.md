@@ -1,5 +1,5 @@
 +++
-title = "Knowledge Base"
+title = "System administration"
 sort_by = "none"
 template = "kb.html"
 page_template = "page.html"

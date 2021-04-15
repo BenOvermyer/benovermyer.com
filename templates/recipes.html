@@ -11,7 +11,7 @@
 <p>These are recipes I've come up with or tinkered with.</p>
 
 <ul>
-	{% for page in section.pages %}
+	{% for page in section.pages|sort(attribute="title") %}
 	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
 	{% endfor %}
 </ul>

@@ -10,8 +10,21 @@
 
 <p>This page acts as a kind of notebook. Anything I want to remember for later, I might put here.</p>
 
+{% if section.subsections|length > 0 %}
+<h2>Subsections</h2>
+
 <ul>
-	{% for page in section.pages %}
+    {% for subsection in section.subsections|sort %}
+        {% set subsection_details = get_section(path=subsection) %}
+        <li><a href="{{ subsection_details.permalink }}">{{ subsection_details.title }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+<h2>Pages</h2>
+
+<ul>
+	{% for page in section.pages|sort(attribute="title") %}
 	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
 	{% endfor %}
 </ul>
