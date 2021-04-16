@@ -4,3 +4,8 @@ command = "zola build"
 
 [build.environment]
 ZOLA_VERSION = "0.13.0"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Permissions-Policy = "interest-cohort=()"
