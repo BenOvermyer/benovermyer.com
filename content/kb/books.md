@@ -16,6 +16,7 @@ I started doing this in 2019, so previous years are not included.
 6. _The Hand of Chaos_ by Margaret Weiss and Tracy Hickman
 7. _Into the Labyrinth_ by Margaret Weiss and Tracy Hickman
 8. _The Seventh Gate_ by Margaret Weiss and Tracy Hickman
+9. _Ready Player Two_ by Earnest Cline
 
 ## 2020
 
