@@ -16,6 +16,6 @@ The guiding philosophies behind this game include the following:
 
 You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Stone and Fire PDF](/games/vox-draconis-ksf.pdf)
 
-This document is updated periodically as I work on it more. It was last updated October 22nd, 2020.
+This document is updated periodically as I work on it more. It was last updated April 30th, 2021.
 
 Once the game is in a more finished state, I intend to publish it on DriveThruRPG as a print-on-demand title.
