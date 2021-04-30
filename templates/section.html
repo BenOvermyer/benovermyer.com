@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block socialmediatitle %}{{ section.title }}{% endblock %}
+{% block title %}{{ section.title }}{% endblock %}
+
+{% block content %}
+<h1 class="page-title">
+	{{ section.title }}
+</h1>
+
+<p>{{ section.description }}</p>
+
+<h2>Pages in this section</h2>
+
+<ul>
+	{% for page in section.pages|sort(attribute="title") %}
+	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+	{% endfor %}
+</ul>
+{% endblock content %}

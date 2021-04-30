@@ -2,7 +2,7 @@
 title = "Vox Draconis: Kingdoms of Stone and Fire"
 date = 2020-08-10
 +++
-I'm working on a new tabletop role-playing game. It's the spiritual successor to _Vox Draconis_,
+This is the spiritual successor to _Vox Draconis_,
 a game I wrote when I was a teenager way back in the 1990s.
 
 The guiding philosophies behind this game include the following:
@@ -18,4 +18,4 @@ You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Sto
 
 This document is updated periodically as I work on it more. It was last updated April 30th, 2021.
 
-Once the game is in a more finished state, I intend to publish it on DriveThruRPG as a print-on-demand title.
+Once the game is in a more finished state, I might publish it on DriveThruRPG as a print-on-demand title.
