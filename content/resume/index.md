@@ -2,15 +2,16 @@
 title = "Resumé"
 date = 2016-02-25
 +++
+
 The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a "DevOps" consultant. I'm responsible for building out performant and highly-available digital infrastructure and teaching others how to do the same. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
 
-**Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, and leading effective teams.
+**Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, leading effective teams
 
 **Preferred Programming Languages:** Python, PHP, Ruby, Go
 
 **Ancillary Skills:** Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
-**Tools of Choice:** [Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/), [Nova](https://www.nova.app/), [Chef](https://chef.io), [Docker](https://www.docker.com/)
+**Tools of Choice:** [Vim](https://pascalprecht.github.io/posts/why-i-use-vim), [VS Code](https://code.visualstudio.com/), [Chef](https://chef.io), [Docker](https://www.docker.com/)
 
 # Work History
 
