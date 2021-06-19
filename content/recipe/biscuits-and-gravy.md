@@ -23,7 +23,7 @@ The recipe for the gravy is as follows.
 1. Brown the sausage in a large pan. Remove from heat when done.
 2. Melt the butter in a stock pot.
 3. Whisk the flour into the butter until a roux is formed.
-4. Slowly add the milk to the rue, stirring constantly.
+4. Slowly add the milk to the roux, stirring constantly.
 5. Add the sausage, salt, and pepper. Stir to combine.
 6. Bring to a boil, stirring occasionally.
 7. Cook for two minutes, stirring constantly.
