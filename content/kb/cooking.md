@@ -87,3 +87,37 @@ These are seasoning blends that are meant to typify a particular region or cultu
 - Red pepper
 - Lemongrass
 
+# Roles in a restaurant kitchen
+
+The following are traditional roles in a French-style restaurant kitchen. This
+is referred to as the brigade de cuisine.
+
+- executive chef: the master in charge of everything, usually a managerial role
+- chef de cuisine: the chef in charge of the kitchen
+- sous-chefs: the chef de cuisine's lieutenants
+
+Then we have the chefs de partie - the station chefs.
+
+- saucier: sauce chef, oversees poissonier and èscailler
+- poissionnier: fish chef
+- èscailler: seafood chef
+- garde-manger: pantry manager, oversees boucher and charcuterie
+- boucher: butcher chef
+- charcuterie: deli chef
+- rôtisseur: roast chef, oversees friturier and gillardin
+- friturier: fryer chef
+- gillardin: grill chef
+- entremetier: entrée chef, oversees potager and légumier
+- potager: soup chef
+- légumier: vegetable chef
+- patisser: dessert/pastry chef, oversees confiseur and boulanger
+- confiseur: confectioner
+- boulanger: baker
+- chef de tournant: relief chef, fills in where needed
+
+After this, there's a few others.
+
+- commis chef: junior chef
+- kitchen porter: cleaners, peelers of potatoes, etc.
+- escuelerie: dishwasher
+- aboyeur: servers/waiters
