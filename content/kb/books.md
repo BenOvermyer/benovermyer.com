@@ -18,6 +18,7 @@ I started doing this in 2019, so previous years are not included.
 8. _The Seventh Gate_ by Margaret Weiss and Tracy Hickman
 9. _Ready Player Two_ by Earnest Cline
 10. _American Nations_ by Colin Woodard
+11. _Light of the Jedi_ by Charles Soule
 
 ## 2020
 
