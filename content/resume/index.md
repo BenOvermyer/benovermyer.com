@@ -15,11 +15,17 @@ The chief aim of any web technologist is to make a particular part of the web mo
 
 # Work History
 
+## Senior Platform Engineer at Apiture
+
+_July 2021 to present_
+
+I help the digital banking startup Apiture build a modern platform to make its services highly available and highly performant. Starting out, this means crafting a thoughtful and powerful observability architecture to identify opportunities for improvement.
+
 ## DevOps Consultant at Solution Design Group
 
-_May 2018 to present_
+_May 2018 to July 2021_
 
-I help enterprise clients modernize their infrastructure. Thus far this has involved writing orchestration management code in Chef and Ansible, helping migrate to Docker, automating various systems, helping set up distributed tracing and other forms of monitoring, implementing CI/CD, acting as a developer advocate, acting as a security adviser, and other such tasks.
+I helped enterprise clients modernize their infrastructure. This involved writing orchestration management code in Chef and Ansible, helping migrate to Docker, automating various systems, helping set up distributed tracing and other forms of monitoring, implementing CI/CD, acting as a developer advocate, acting as a security adviser, and other such tasks.
 
 ## DevOps Engineer at Spok, Inc
 
