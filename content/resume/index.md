@@ -7,7 +7,7 @@ The chief aim of any web technologist is to make a particular part of the web mo
 
 **Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, leading effective teams
 
-**Preferred Programming Languages:** Python, PHP, Ruby, Go
+**Preferred Programming Languages:** PHP, Ruby, Go, Python
 
 **Ancillary Skills:** Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
 
