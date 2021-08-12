@@ -1,11 +1,12 @@
 +++
 title = "Restaurants"
-date = 2020-12-30
+date = "2020-12-30"
 +++
+
 This page is a list of restaurants I want to check out at some point. I may expand it later to include reviews
 of places I've already been.
 
 ## Restaurants to Check Out
 
-- North Coop in Chanhassen - Southern food
-- Black Sea in St. Paul - doner kebabs
+- North Coop in Chanhassen, MN - Southern food
+- Black Sea in St. Paul, MN - doner kebabs
