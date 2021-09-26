@@ -15,6 +15,7 @@ was one of its most popular menu items.
 - Shredded lettuce
 - Tomato, sliced
 - White onion, sliced
+- Cherry pepper relish (Cento brand is good)
 - Olive oil
 - Salt and pepper, to taste
 
@@ -25,5 +26,6 @@ was one of its most popular menu items.
 3. Layer ham, salami, and provolone inside the bread.
 4. Add tomato, then onion.
 5. Add lettuce.
-6. Drizzle with olive oil.
-7. Sprinkle with salt and pepper.
+6. Slather with cherry pepper relish.
+7. Drizzle with olive oil.
+8. Sprinkle with salt and pepper.
