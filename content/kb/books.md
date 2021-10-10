@@ -20,6 +20,7 @@ I started doing this in 2019, so previous years are not included.
 10. _American Nations_ by Colin Woodard
 11. _Light of the Jedi_ by Charles Soule
 12. _Kull: Exile of Atlantis_ by Robert E. Howard
+13. _No-Nonsense Buddhism for Beginners_ by Noah Rasheta
 
 ## 2020
 
