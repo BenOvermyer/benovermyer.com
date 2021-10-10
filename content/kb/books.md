@@ -131,7 +131,6 @@ These are listed in series order, but otherwise in no particular order.
 - _The Black Cauldron_ by Lloyd Alexander
 - _The Eye of the World_ by Robert Jordan
 - _The Great Hunt_ by Robert Jordan
-- _The Sword of Truth_ by ???
 - _Oh, the Places You'll Go_ by Dr. Seuss
 - _The Lorax_ by Dr. Seuss
 - _Dealing with Dragons_ by Patricia C. Wrede
