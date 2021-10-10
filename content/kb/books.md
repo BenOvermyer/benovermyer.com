@@ -19,6 +19,7 @@ I started doing this in 2019, so previous years are not included.
 9. _Ready Player Two_ by Earnest Cline
 10. _American Nations_ by Colin Woodard
 11. _Light of the Jedi_ by Charles Soule
+12. _Kull: Exile of Atlantis_ by Robert E. Howard
 
 ## 2020
 
