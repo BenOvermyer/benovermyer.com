@@ -29,13 +29,14 @@ better refresh rate. Besides that, it also "announces" itself properly, meaning 
 
 After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
 
+Lately it's been wearing out. It's developed a wobble, and the fake leather is perpetually flaking off now. A new chair is on the horizon.
+
 # Lifestyle Software
 
-## Firefox
+## Microsoft Edge, Brave, and Safari
 
-**Website:** [Firefox](https://www.firefox.com/)
-
-This is my web browser of choice. I avoid Chromium-based browsers whenever possible. Sometimes I'll use Safari, though.
+OK, this is complicated. On Windows I use Edge as my preferred browser. On Mac, I'm mostly using Brave, but I'm
+starting to transition to Safari as I figure out how to customize it to my liking.
 
 # Design Software
 
@@ -62,11 +63,11 @@ there are features missing, but it works well enough for laying out books and su
 
 # Development Software
 
-## Nova
+## Visual Studio Code
 
-**Website:** [Nova](https://www.nova.app/)
+**Website:** [VS Code](https://code.visualstudio.com/)
 
-Though I used Visual Studio Code, GoLand, and PHPStorm for a long time, this has come to replace all of them.
+After using Nova for over a year, I switched back to VSCode as my editor of choice.
 
 # Hosting and Infrastructure Services
 
