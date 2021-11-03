@@ -14,7 +14,7 @@ Deities created by the pantheon generator now adhere to the culture the religion
 
 The heraldry generator has had a few tweaks, too, though no new fields or charges have been added. Because the app was rewritten in Laravel, I now make use of caching via Redis to deliver consistent images and blazons. For example, here's one I quite like:
 
-![](/eagles-head-erased.svg)
+![](eagles-head-erased.svg)
 
 > Per saltire azure and argent, a lion's head erased Or
 

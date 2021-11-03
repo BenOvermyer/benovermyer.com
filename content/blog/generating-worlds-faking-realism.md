@@ -3,7 +3,7 @@ title = "Generating Worlds: Faking Realism"
 date = 2020-04-14
 +++
 
-> Note: this was a draft I never completed
+> Note: this was a draft I never completed. However, it's useful enough as notes that I wanted to keep it around, so here it is.
 
 Introduction: why I'm interested in this
 
