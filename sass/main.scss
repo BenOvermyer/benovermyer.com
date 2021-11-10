@@ -89,6 +89,12 @@ p.blog-date {
     font-weight: 700;
 }
 
+img.photo {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    margin: 1rem auto;
+}
+
 @media screen and (max-width: 1024px) {
     section, nav, footer {
         width: 100%;
@@ -108,9 +114,14 @@ p.blog-date {
             }
         }
     }
+
+    img.photo {
+        width: 50%;
+    }
 }
 
-img {
-    width: 50%;
-    margin: 1rem auto;
+@media screen and (min-width: 1024px) {
+    img.photo {
+        width: 800px;
+    }
 }
