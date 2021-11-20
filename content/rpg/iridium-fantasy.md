@@ -10,4 +10,4 @@ While I abandoned this system when I moved to New Zealand, I ended up taking
 the setting from it and making a wholly different game out of it. That game
 ended up as Ingenium, from Silver Gryphon Games.
 
-Download [Iridium Fantasy](/games/iridiumfantasy.pdf)
+Download [Iridium Fantasy](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/iridiumfantasy.pdf)
