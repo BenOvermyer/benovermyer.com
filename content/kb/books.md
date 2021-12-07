@@ -22,6 +22,7 @@ I started doing this in 2019, so previous years are not included.
 12. _Kull: Exile of Atlantis_ by Robert E. Howard
 13. _No-Nonsense Buddhism for Beginners_ by Noah Rasheta
 14. _The Bloody Crown of Conan_ by Robert E. Howard
+15. _The Miracle of Mindfulness_ by Thich Nhat Hanh
 
 ## 2020
 
