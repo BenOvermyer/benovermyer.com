@@ -6,9 +6,16 @@ This is a list of all the things that I use to be productive day-to-day. It's in
 
 # Hardware
 
+## Alienware Aurora R11
+
+I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a long time I used Windows, but when I "upgraded"
+to Windows 11, I ran into too many issues and replaced it with Pop_OS! as my sole operating system. I'm loving gaming on Linux
+now that I've figured out how to properly use Proton.
+
 ## 2019 MacBook Pro 16"
 
-I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. Since then, it's been amazing. Though I had to give up some gaming capability, the tradeoff is that everything else is worlds better. Having 32 GB of RAM certainly helps matters.
+I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. For a time I used it both for development and for gaming, but I
+missed my favorites too much. Now it's used exclusively for development and for travel.
 
 ## Steelseries Apex Pro Keyboard
 
@@ -22,6 +29,7 @@ This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel tha
 
 I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much
 better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities.
+I have two of them - one for my Mac, and one for my gaming PC.
 
 ## DXRacer King Zero gaming chair
 
@@ -33,10 +41,10 @@ Lately it's been wearing out. It's developed a wobble, and the fake leather is p
 
 # Lifestyle Software
 
-## Microsoft Edge, Brave, and Safari
+## Firefox and Safari
 
-OK, this is complicated. On Windows I use Edge as my preferred browser. On Mac, I'm mostly using Brave, but I'm
-starting to transition to Safari as I figure out how to customize it to my liking.
+I've changed browsers frequently over the years. Right now I'm using Firefox, but I'm also experimenting with Safari
+on my Mac.
 
 # Design Software
 
@@ -88,4 +96,11 @@ When I need more than a static site host, I use Digital Ocean.
 
 **Website:** [Netlify](https://www.netlify.com/)
 
-Netlify hosts this website, and a handful of other static sites. It's free and works really well.
+Netlify hosts most of my static sites. It's free and works really well.
+
+## Cloudflare
+
+**Website:** [Cloudflare](https://cloudflare.com)
+
+I use Cloudflare for my DNS management. I don't use it as a CDN really. However, I now use Cloudflare Pages
+to host this site and [Iron Arachne](https://ironarachne.com).

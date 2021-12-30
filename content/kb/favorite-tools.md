@@ -16,6 +16,7 @@ These are things that I have found useful or interesting, or spend a large amoun
 - [Ansible](https://ansible.com): My previous orchestration management tool of choice. I still use it for small things.
 - [Chef](https://chef.io): This is now the orchestration management tool I reach for first, thanks to its robust DSL.
 - [Terraform](https://terraform.io): Infrastructure-as-code. Previously a vital part of my personal infrastructure automation.
+- [Pulumi](https://pulumi.io): Another infrastructure-as-code tool, and one I prefer over Terraform because of the use of a full language.
 
 # Self-Hosted Applications
 
