@@ -1,0 +1,15 @@
++++
+title = "Publishing"
+date = 2022-01-15
++++
+
+This is notes about publishing games.
+
+## Regarding SKUs
+
+SKUs for tabletop games should be three letters followed by five numbers.
+
+The three letters should represent your company. Register your prefix at [https://hobbysmc.com/](the Hobby Manufacturers Association) website.
+
+The five numbers should follow a logical scheme based on product lines. When
+sorting by SKU, product lines should be listed together.
