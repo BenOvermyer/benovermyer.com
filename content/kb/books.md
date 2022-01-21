@@ -6,6 +6,10 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 
 I started doing this in 2019, so previous years are not included.
 
+## 2022
+
+1. _Ender's Shadow_ by Orson Scott Card
+
 ## 2021
 
 1. _Estonia_ by Neil Taylor
