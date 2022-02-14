@@ -1,6 +1,5 @@
 +++
 title = "Herb Tahini Dressing"
-date = 2020-11-02
 +++
 # Ingredients
 

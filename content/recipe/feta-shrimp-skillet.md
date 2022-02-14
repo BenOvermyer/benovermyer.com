@@ -1,6 +1,5 @@
 +++
 title = "Feta Shrimp Skillet"
-date = 2021-01-13
 +++
 # Ingredients
 

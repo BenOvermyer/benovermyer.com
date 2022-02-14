@@ -1,6 +1,5 @@
 +++
 title = "Black Bean Burritos with Avocado Mango Salsa"
-date = 2020-07-16
 +++
 # Ingredients
 

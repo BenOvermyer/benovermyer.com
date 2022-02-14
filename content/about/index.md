@@ -1,6 +1,5 @@
 +++
 title = "About"
-date = "2016-02-13"
 +++
 # Contact Information
 

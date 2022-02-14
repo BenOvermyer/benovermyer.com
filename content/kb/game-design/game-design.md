@@ -1,6 +1,5 @@
 +++
 title = "Game Design"
-date = 2020-10-11
 +++
 > A game is a series of interesting choices. — _Sid Meier_
 

@@ -1,6 +1,5 @@
 +++
 title = "Turmeric Chicken with Chickpeas"
-date = 2020-11-16
 +++
 This was taken from [Food52](https://food52.com/recipes/83166-turmeric-chicken-recipe-with-crispy-chickpeas), with some modifications.
 

@@ -1,6 +1,5 @@
 +++
 title = "Pumpkin Cookies"
-date = 2020-10-15
 +++
 # Ingredients
 

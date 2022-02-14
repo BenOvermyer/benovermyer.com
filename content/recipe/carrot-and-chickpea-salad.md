@@ -1,6 +1,5 @@
 +++
 title = "Carrot and Chickpea Salad"
-date = 2020-11-02
 +++
 # Ingredients
 

@@ -1,6 +1,5 @@
 +++
 title = "People"
-date = 2020-08-28
 +++
 This page is a list of people I think are interesting.
 

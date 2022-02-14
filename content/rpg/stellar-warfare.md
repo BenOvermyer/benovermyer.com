@@ -1,6 +1,5 @@
 +++
 title = "Stellar Warfare"
-date = "2021-04-30"
 +++
 
 This is by far the worst RPG I've ever written. It's

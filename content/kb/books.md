@@ -1,6 +1,5 @@
 +++
 title = "Books I've Read"
-date = 2019-11-28
 +++
 I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
 

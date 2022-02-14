@@ -1,6 +1,5 @@
 +++
 title = "Costume Armoring"
-date = 2019-12-24
 +++
 These are notes regarding the fabrication of costume armor.
 

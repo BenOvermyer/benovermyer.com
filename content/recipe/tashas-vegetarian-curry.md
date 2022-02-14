@@ -1,6 +1,5 @@
 +++
 title = "Tasha's Coconut Vegetable Curry"
-date = 2021-01-18
 +++
 # Ingredients
 

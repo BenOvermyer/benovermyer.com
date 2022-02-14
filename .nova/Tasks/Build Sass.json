@@ -1,9 +1,0 @@
-{
-  "actions" : {
-    "build" : {
-      "enabled" : true,
-      "script" : "sass themes\/manatrance\/src\/scss\/main.scss themes\/manatrance\/static\/css\/main.css"
-    }
-  },
-  "identifier" : "67EF564E-FA49-40EC-A364-2ED7D98D7817"
-}

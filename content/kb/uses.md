@@ -1,6 +1,5 @@
 +++
 title = "Uses"
-date = 2020-01-23
 +++
 This is a list of all the things that I use to be productive day-to-day. It's inspired by [this page](https://github.com/wesbos/awesome-uses).
 

@@ -1,6 +1,5 @@
 +++
 title = "Restaurants"
-date = "2020-12-30"
 +++
 
 This page is a list of restaurants I want to check out at some point. I may expand it later to include reviews

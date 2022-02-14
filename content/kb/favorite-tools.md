@@ -1,6 +1,5 @@
 +++
 title = "Favorite Tools"
-date = 2019-10-22
 +++
 These are things that I have found useful or interesting, or spend a large amount of time on.
 

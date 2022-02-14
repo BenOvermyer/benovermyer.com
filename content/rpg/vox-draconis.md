@@ -1,6 +1,5 @@
 +++
 title = "Vox Draconis"
-date = "2021-04-30"
 +++
 
 Vox Draconis was the first RPG I wrote that ended up online. It was a blatant

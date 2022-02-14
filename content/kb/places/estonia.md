@@ -1,6 +1,5 @@
 +++
 title = "Estonia"
-date = 2020-12-30
 +++
 Here I make notes about Estonia.
 

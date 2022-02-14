@@ -1,6 +1,5 @@
 +++
 title = "Resumé"
-date = 2016-02-25
 +++
 
 The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a "DevOps" consultant. I'm responsible for building out performant and highly-available digital infrastructure and teaching others how to do the same. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.

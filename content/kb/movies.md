@@ -1,6 +1,5 @@
 +++
 title = "Movies"
-date = 2020-12-30
 +++
 Sometimes someone will tell me about a movie I need to see. Usually, my response is "cool, I'll add it
 to the list." Before adding this page to my site, that meant I'd add it to my mental list of movies to

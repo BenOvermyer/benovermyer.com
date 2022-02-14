@@ -1,6 +1,5 @@
 +++
 title = "Cabbage with Zucchini and Ricotta"
-date = "2021-03-23"
 +++
 
 This dish is _really_ good. I made it first because I needed to use up half a

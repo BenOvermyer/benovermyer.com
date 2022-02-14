@@ -1,6 +1,5 @@
 +++
 title = "Docker"
-date = "2021-04-15"
 +++
 
 # Building Docker images on an internal-only GitLab

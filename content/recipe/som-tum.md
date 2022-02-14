@@ -1,6 +1,5 @@
 +++
 title = "Som Tum"
-date = 2020-10-11
 +++
 # Ingredients
 

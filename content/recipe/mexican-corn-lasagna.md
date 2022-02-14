@@ -1,6 +1,5 @@
 +++
 title = "Mom's Mexican Corn Lasagna"
-date = 2020-07-08
 +++
 # Ingredients
 

@@ -1,6 +1,5 @@
 +++
 title = "Chef"
-date = "2021-04-15"
 +++
 
 # Common Chef code bits

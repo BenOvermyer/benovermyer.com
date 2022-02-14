@@ -1,6 +1,5 @@
 +++
 title = "Software"
-date = "2021-04-30"
 +++
 
 I work on a number of different software projects. Most of them are open source.

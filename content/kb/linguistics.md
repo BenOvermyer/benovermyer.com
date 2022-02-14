@@ -1,6 +1,5 @@
 +++
 title = "Linguistics"
-date = "2021-06-23"
 +++
 
 ## Sounds and their English written forms

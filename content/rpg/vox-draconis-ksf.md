@@ -1,6 +1,5 @@
 +++
 title = "Vox Draconis: Kingdoms of Stone and Fire"
-date = 2020-08-10
 +++
 This is the spiritual successor to _Vox Draconis_,
 a game I wrote when I was a teenager way back in the 1990s.

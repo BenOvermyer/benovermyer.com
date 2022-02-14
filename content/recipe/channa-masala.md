@@ -1,6 +1,5 @@
 +++
 title = "Channa Masala"
-date = 2020-10-11
 +++
 # Ingredients
 

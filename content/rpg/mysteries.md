@@ -1,6 +1,5 @@
 +++
 title = "Mysteries of a Broken World"
-date = "2021-04-30"
 +++
 
 Mysteries of a Broken World was originally a project for Silver Gryphon Games.

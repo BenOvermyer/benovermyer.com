@@ -1,6 +1,5 @@
 +++
 title = "Publishing"
-date = 2022-01-15
 +++
 
 This is notes about publishing games.

@@ -1,6 +1,5 @@
 +++
 title = "Linux"
-date = "2021-04-15"
 +++
 
 # Examining an SSL certificate

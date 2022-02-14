@@ -1,6 +1,5 @@
 +++
 title = "Writing Credits"
-date = "2021-04-30"
 +++
 
 These are all the published works that have me listed as one of the authors.

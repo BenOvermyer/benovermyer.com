@@ -1,6 +1,5 @@
 +++
 title = "Boolean Algebra"
-date = 2019-12-18
 +++
 
 # De Morgan's Laws

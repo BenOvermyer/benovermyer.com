@@ -1,6 +1,5 @@
 +++
 title = "Philly-style Italian hoagie"
-date = 2021-09-26
 +++
 When I lived in the Philadelphia area, my dad started making Italian hoagies.
 Later, when my parents opened the Scotto's restaurant in New Zealand, this

@@ -1,6 +1,5 @@
 +++
 title = "Wine"
-date = "2021-08-12"
 +++
 
 This is my page about wines I like and things I've learned about wine.

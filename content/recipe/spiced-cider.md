@@ -1,6 +1,5 @@
 +++
 title = "Spiced Cider"
-date = 2020-10-14
 +++
 # Ingredients
 

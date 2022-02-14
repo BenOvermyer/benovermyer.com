@@ -1,6 +1,5 @@
 +++
 title = "Iridium Fantasy"
-date = "2021-04-30"
 +++
 
 Iridium Fantasy was my first attempt at original system design. The name was

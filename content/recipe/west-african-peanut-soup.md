@@ -1,6 +1,5 @@
 +++
 title = "West African Peanut Soup"
-date = 2020-10-11
 +++
 # Ingredients
 

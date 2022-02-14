@@ -1,6 +1,5 @@
 +++
 title = "Channa Masala Tacos"
-date = 2020-06-25
 +++
 # Ingredients
 

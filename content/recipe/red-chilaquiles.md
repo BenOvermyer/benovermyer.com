@@ -1,6 +1,5 @@
 +++
 title = "Red Chilaquiles"
-date = 2020-06-29
 +++
 # Ingredients
 
