@@ -19,9 +19,9 @@
     <meta property="og:description" content="">
     
     <meta property="og:type" content="website" />
-    <link rel="icon" type="image/svg+xml" href="{{ get_url(path='favicon.svg') }}">
+    <link rel="icon" type="image/svg+xml" href="{{ get_url(path='favicon.svg') | safe}}">
     {% block atom %}
-        <link rel="alternate" type="application/atom+xml" title="Atom" href="{{ get_url(path='atom.xml', trailing_slash=false) }}">
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="{{ get_url(path='atom.xml', trailing_slash=false) | safe }}">
     {% endblock %}
     <meta name="application-name" content="&nbsp;" />
 	<title>{% block title %}{% endblock %}</title>
