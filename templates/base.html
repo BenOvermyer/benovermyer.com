@@ -19,16 +19,16 @@
     <meta property="og:description" content="">
     
     <meta property="og:type" content="website" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="{{ get_url(path='favicon.svg') }}">
     {% block atom %}
         <link rel="alternate" type="application/atom+xml" title="Atom" href="{{ get_url(path='atom.xml', trailing_slash=false) }}">
     {% endblock %}
     <meta name="application-name" content="&nbsp;" />
 	<title>{% block title %}{% endblock %}</title>
-	<link rel="stylesheet" type="text/css" href="/main.css" />
-    <script defer src="/js/katex.min.js"></script>
-    <script defer src="/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
-    <link rel="stylesheet" type="text/css" href="/js/katex.min.css" />
+	<link rel="stylesheet" type="text/css" href="{{ get_url(path='main.css') }}" />
+    <script defer src="{{ get_url(path='js/katex.min.js') }}"></script>
+    <script defer src="{{ get_url(path='js/auto-render.min.js') }}" onload="renderMathInElement(document.body);"></script>
+    <link rel="stylesheet" type="text/css" href="{{ get_url(path='js/katex.min.css') }}" />
 </head>
 
 <body>
