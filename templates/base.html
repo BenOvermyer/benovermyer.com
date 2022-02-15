@@ -26,9 +26,16 @@
     <meta name="application-name" content="&nbsp;" />
 	<title>{% block title %}{% endblock %}</title>
 	<link rel="stylesheet" type="text/css" href="{{ get_url(path='main.css') | safe }}" />
+    {% if page.extra.render_math %}
     <script defer src="{{ get_url(path='js/katex.min.js') | safe }}"></script>
-    <script defer src="{{ get_url(path='js/auto-render.min.js') | safe }}" onload="renderMathInElement(document.body);"></script>
+    <script id="math-render-script" defer src="{{ get_url(path='js/auto-render.min.js') | safe }}"></script>
+    <script nonce>
+        document.getElementById("math-render-script").addEventListener("load", function() {
+            renderMathInElement(document.body);
+        });
+    </script>
     <link rel="stylesheet" type="text/css" href="{{ get_url(path='js/katex.min.css') | safe }}" />
+    {% endif %}
 </head>
 
 <body>

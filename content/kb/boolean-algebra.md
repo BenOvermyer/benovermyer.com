@@ -1,5 +1,8 @@
 +++
 title = "Boolean Algebra"
+
+[extra]
+render_math = true
 +++
 
 # De Morgan's Laws
