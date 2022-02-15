@@ -26,8 +26,8 @@
     <meta name="application-name" content="&nbsp;" />
 	<title>{% block title %}{% endblock %}</title>
 	<link rel="stylesheet" type="text/css" href="{{ get_url(path='main.css') | safe }}" />
-    <script defer src="{{ get_url(path='js/katex.min.js') | safe }}" integrity="sha384-{{ get_file_hash(path='js/katex.min.js', sha_type=384, base64=true) | safe }}"></script>
-    <script defer src="{{ get_url(path='js/auto-render.min.js') | safe }}"  integrity="sha384-{{ get_file_hash(path='js/auto-render.min.js', sha_type=384, base64=true) | safe }}" onload="renderMathInElement(document.body);"></script>
+    <script defer src="{{ get_url(path='js/katex.min.js') | safe }}"></script>
+    <script defer src="{{ get_url(path='js/auto-render.min.js') | safe }}" onload="renderMathInElement(document.body);"></script>
     <link rel="stylesheet" type="text/css" href="{{ get_url(path='js/katex.min.css') | safe }}" />
 </head>
 
