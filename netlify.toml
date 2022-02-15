@@ -11,4 +11,4 @@ ZOLA_VERSION = "0.13.0"
     Permissions-Policy = "interest-cohort=()"
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = 0
-    Content-Security-Policy = "default-src 'self'"
+    Content-Security-Policy = "default-src 'self' benovermyer.com *.benovermyer.com"
