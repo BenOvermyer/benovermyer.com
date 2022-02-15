@@ -29,11 +29,7 @@
     {% if page.extra.render_math %}
     <script defer src="{{ get_url(path='js/katex.min.js') | safe }}"></script>
     <script id="math-render-script" defer src="{{ get_url(path='js/auto-render.min.js') | safe }}"></script>
-    <script nonce>
-        document.getElementById("math-render-script").addEventListener("load", function() {
-            renderMathInElement(document.body);
-        });
-    </script>
+    <script src="{{ get_url(path='js/loadmath.js') | safe }}"></script>
     <link rel="stylesheet" type="text/css" href="{{ get_url(path='js/katex.min.css') | safe }}" />
     {% endif %}
 </head>
