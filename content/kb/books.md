@@ -8,6 +8,7 @@ I started doing this in 2019, so previous years are not included.
 ## 2022
 
 1. _Ender's Shadow_ by Orson Scott Card
+2. _The Eye of the World_ by Robert Jordan
 
 ## 2021
 
