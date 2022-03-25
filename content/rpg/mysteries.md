@@ -1,5 +1,6 @@
 +++
 title = "Mysteries of a Broken World"
+description = "A post-apocalyptic OSR tabletop role-playing game"
 +++
 
 Mysteries of a Broken World was originally a project for Silver Gryphon Games.

@@ -1,5 +1,6 @@
 +++
 title = "About"
+description = "About Ben Overmyer"
 +++
 # Contact Information
 

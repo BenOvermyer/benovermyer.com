@@ -1,5 +1,6 @@
 +++
 title = "Links"
+description = "My personal web directory"
 +++
 This may have once been called a "web directory." What follows is a set of links to pages around the web that I find interesting.
 

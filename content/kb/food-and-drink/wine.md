@@ -1,5 +1,6 @@
 +++
 title = "Wine"
+description = "Notes about wine"
 +++
 
 This is my page about wines I like and things I've learned about wine.

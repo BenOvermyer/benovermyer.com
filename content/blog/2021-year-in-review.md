@@ -1,5 +1,6 @@
 +++
 title = "2021 Year in Review"
+description = "Looking back on 2021"
 date = 2021-12-28
 +++
 2021 was an eventful year. The global pandemic was still a major problem, though

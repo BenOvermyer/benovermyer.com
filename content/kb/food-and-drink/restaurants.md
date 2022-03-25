@@ -1,5 +1,6 @@
 +++
 title = "Restaurants"
+description = "A list of restaurants I want to check out"
 +++
 
 This page is a list of restaurants I want to check out at some point. I may expand it later to include reviews

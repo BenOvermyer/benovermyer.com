@@ -5,9 +5,9 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="referrer" content="no-referrer">
-    <meta name="description"
-        content="Ben Overmyer, Digital Infra Engineer and Game Designer">
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@https://twitter.com/bovermyer">
     <meta name="twitter:creator" content="@https://twitter.com/bovermyer">
@@ -16,9 +16,9 @@
     <meta property="og:site_name" content="Ben Overmyer">
     <meta property="og:title" content="{% block socialmediatitle %}{% endblock %}">
     <meta property="og:url" content="https://www.benovermyer.com/">
-    <meta property="og:description" content="">
-    
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{% endif %}">
     <meta property="og:type" content="website" />
+    
     <link rel="icon" type="image/svg+xml" href="{{ get_url(path='favicon.svg') | safe}}">
     {% block atom %}
         <link rel="alternate" type="application/atom+xml" title="Atom" href="{{ get_url(path='atom.xml', trailing_slash=false) | safe }}">

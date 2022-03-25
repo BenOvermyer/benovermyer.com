@@ -1,5 +1,6 @@
 +++
 title = "Costume Armoring"
+description = "Notes about making costume armor"
 +++
 These are notes regarding the fabrication of costume armor.
 

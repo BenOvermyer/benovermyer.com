@@ -1,5 +1,6 @@
 +++
 title = "Looking ahead to 2022"
+description = "Thoughts, plans, and predictions for 2022"
 date = 2022-01-01
 +++
 

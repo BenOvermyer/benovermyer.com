@@ -1,5 +1,6 @@
 +++
 title = "Publishing"
+description = "Notes about publishing games"
 +++
 
 This is notes about publishing games.

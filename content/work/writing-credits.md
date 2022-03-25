@@ -1,5 +1,6 @@
 +++
 title = "Writing Credits"
+description = "Published works that list me as writer"
 +++
 
 These are all the published works that have me listed as one of the authors.

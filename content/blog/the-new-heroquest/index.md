@@ -1,5 +1,6 @@
 +++
 title = "The New HeroQuest"
+description = "An overview of the new HeroQuest and how it compares to the original"
 date = 2021-11-09
 +++
 

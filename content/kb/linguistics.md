@@ -1,5 +1,6 @@
 +++
 title = "Linguistics"
+description = "Notes about linguistics"
 +++
 
 ## Sounds and their English written forms

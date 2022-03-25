@@ -1,5 +1,6 @@
 +++
 title = "Uses"
+description = "Things that I use on a daily basis"
 +++
 This is a list of all the things that I use to be productive day-to-day. It's inspired by [this page](https://github.com/wesbos/awesome-uses).
 

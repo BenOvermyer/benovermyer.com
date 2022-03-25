@@ -1,5 +1,6 @@
 +++
 title = "Art Credits"
+description = "Published works that credit me as an artist"
 +++
 
 These are all the published works that have me listed as one of the artists.

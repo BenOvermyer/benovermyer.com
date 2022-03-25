@@ -1,5 +1,6 @@
 +++
 title = "Geography"
+description = "Notes about geography and related concerns"
 +++
 This page is for information about geography and related concerns. I'm learning this for
 world-building purposes.

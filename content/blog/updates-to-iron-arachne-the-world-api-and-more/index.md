@@ -1,5 +1,6 @@
 +++
 title = 'Updates to Iron Arachne: The World API and more'
+description = "A look at what's new in Iron Arachne as of May, 2019"
 date = 2019-05-12
 +++
 It's been awhile since I blogged about [Iron Arachne](https://ironarachne.com). Much has changed since then.

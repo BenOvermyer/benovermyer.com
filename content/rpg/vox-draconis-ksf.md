@@ -1,5 +1,6 @@
 +++
 title = "Vox Draconis: Kingdoms of Stone and Fire"
+description = "A tabletop role-playing game set in a whimsical fantasy/stone age setting"
 +++
 This is the spiritual successor to _Vox Draconis_,
 a game I wrote when I was a teenager way back in the 1990s.

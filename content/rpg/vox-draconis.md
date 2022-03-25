@@ -1,5 +1,6 @@
 +++
 title = "Vox Draconis"
+description = "A fantasy tabletop role-playing game set in a mashup stone age and high fantasy setting"
 +++
 
 Vox Draconis was the first RPG I wrote that ended up online. It was a blatant

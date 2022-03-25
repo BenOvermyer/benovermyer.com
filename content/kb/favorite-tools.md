@@ -1,5 +1,6 @@
 +++
 title = "Favorite Tools"
+description = "Things I find useful or interesting"
 +++
 These are things that I have found useful or interesting, or spend a large amount of time on.
 

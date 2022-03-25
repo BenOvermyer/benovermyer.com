@@ -1,5 +1,6 @@
 +++
 title = "People"
+description = "A list of interesting people"
 +++
 This page is a list of people I think are interesting.
 

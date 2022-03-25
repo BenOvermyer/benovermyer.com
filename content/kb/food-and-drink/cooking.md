@@ -1,5 +1,6 @@
 +++
 title = "Cooking"
+description = "Notes about cooking"
 +++
 This page has various notes on cooking methods and other miscellany. It's meant to help me remember
 things about cooking that I don't do often or want to share with others.

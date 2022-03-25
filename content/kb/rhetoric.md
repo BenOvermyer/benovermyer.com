@@ -1,5 +1,6 @@
 +++
 title = "Rhetoric"
+description = "Notes about rhetoric"
 +++
 Three kinds of persuasion
 

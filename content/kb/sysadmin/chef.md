@@ -1,5 +1,6 @@
 +++
 title = "Chef"
+description = "Notes about Chef"
 +++
 
 # Common Chef code bits

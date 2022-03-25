@@ -1,5 +1,6 @@
 +++
 title = "Docker"
+description = "Notes about Docker"
 +++
 
 # Building Docker images on an internal-only GitLab

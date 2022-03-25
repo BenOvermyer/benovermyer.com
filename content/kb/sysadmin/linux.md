@@ -1,5 +1,6 @@
 +++
 title = "Linux"
+description = "Notes about Linux"
 +++
 
 # Examining an SSL certificate

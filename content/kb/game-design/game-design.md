@@ -1,5 +1,6 @@
 +++
 title = "Game Design"
+description = "Notes about game design"
 +++
 > A game is a series of interesting choices. — _Sid Meier_
 

@@ -1,5 +1,6 @@
 +++
 title = "Books I've Read"
+description = "A list of all the books I've read"
 +++
 I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
 

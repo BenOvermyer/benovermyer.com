@@ -1,5 +1,6 @@
 +++
 title = "Boolean Algebra"
+description = "Notes about boolean algebra"
 
 [extra]
 render_math = true

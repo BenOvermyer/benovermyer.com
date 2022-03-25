@@ -1,5 +1,6 @@
 +++
 title = "Personal Poach List"
+description = "My list of people that I would hire if I could"
 +++
 
 This is my personal poach list of people who, if I had infinite money and they had no other commitments, I would hire in a heartbeat. This has a slant towards DevOps and software development, but I also include people from my previous experience in the tabletop games industry also.

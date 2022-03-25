@@ -1,5 +1,6 @@
 +++
 title = "Stellar Warfare"
+description = "A tabletop role-playing game based on Star Wars"
 +++
 
 This is by far the worst RPG I've ever written. It's

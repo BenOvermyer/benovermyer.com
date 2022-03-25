@@ -1,5 +1,6 @@
 +++
 title = "Iridium Fantasy"
+description = "A generic fantasy tabletop role-playing game"
 +++
 
 Iridium Fantasy was my first attempt at original system design. The name was

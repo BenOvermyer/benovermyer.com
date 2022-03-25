@@ -1,5 +1,6 @@
 +++
 title = "Software"
+description = "Software projects I work on"
 +++
 
 I work on a number of different software projects. Most of them are open source.
