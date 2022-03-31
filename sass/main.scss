@@ -89,7 +89,14 @@ p.blog-date {
     font-weight: 700;
 }
 
+img.artwork {
+    display: block;
+    padding: 1rem;
+    margin: 1rem auto;
+}
+
 img.photo {
+    display: block;
     padding: 1rem;
     border: 1px solid #ccc;
     margin: 1rem auto;
