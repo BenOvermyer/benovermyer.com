@@ -1,10 +1,5 @@
-@font-face {
-	font-family: 'im-fell';
-	src: url('IMFellRegular.woff') format('woff');
-}
-
 body, html {
-	font-family: 'Georgia', serif;
+	font-family: 'Baskerville', 'Georgia', serif;
 	font-size: 20px;
 }
 
@@ -18,7 +13,7 @@ header {
         margin-left: 0.5rem;
 	}
 	p.subtitle {
-        font-family: 'im-fell';
+        font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
 		font-style: italic;
         margin-top: 0.25rem;
 	}
@@ -39,8 +34,8 @@ code {
 	font-size: 14px;
 }
 
-h1, h2, h3, h4, h5, h6, a {
-	font-family: 'im-fell';
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
 }
 
 h1.page-title {
@@ -85,7 +80,7 @@ nav {
 }
 
 p.blog-date {
-    font-family: 'im-fell', sans-serif;
+    font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
 }
 
