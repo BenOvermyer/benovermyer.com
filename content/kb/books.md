@@ -12,6 +12,7 @@ I started doing this in 2019, so previous years are not included.
 2. _The Eye of the World_ by Robert Jordan
 3. _The Great Hunt_ by Robert Jordan
 4. _The Dragon Reborn_ by Robert Jordan
+5. _Kill It With Fire_ by Marianne Bellotti
 
 ## 2021
 
