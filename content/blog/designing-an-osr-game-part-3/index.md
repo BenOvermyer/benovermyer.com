@@ -1,17 +1,21 @@
 +++
 title = "Designing an OSR Game Part 3: Names, Backgrounds, and Playtests"
 date = 2018-11-24
+description = "Third in a series about a new OSR tabletop RPG"
 +++
+
 This is part three in a series of posts about designing a new OSR game. You can find the previous two here:
 
-* [Designing a New OSR Game](@/blog/designing-a-new-osr-game.md)
-* [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2.md)
+-   [Designing a New OSR Game](@/blog/designing-a-new-osr-game.md)
+-   [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2.md)
 
-Since the last post, I've been doing a fair amount of work on the OSR game. Enough that it now has a title = Mysteries of a Broken World. The logo above is the official one for the line.
+<img src="Mysteries-logo-small.png" >
+
+Since the last post, I've been doing a fair amount of work on the OSR game. Enough that it now has a title: Mysteries of a Broken World. The logo above is the official one for the line.
 
 That first bit of news is probably the most milestone-y. I've also fleshed out more of the rules, mostly around character creation. While it's going to be a work in progress for quite awhile, you can view the latest playtest version of the rules here:
 
-[Mysteries of a Broken World](/games/mysteriesofabrokenworld.pdf)
+[Mysteries of a Broken World](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/mysteriesofabrokenworld.pdf)
 
 The above document is regenerated every time I make a change to the manuscript. It has the generation date in the header, for reference.
 

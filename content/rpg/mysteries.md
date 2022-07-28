@@ -10,6 +10,6 @@ It has languished since then as I worked on other things.
 It's meant to be an OSR-inspired game set in a post-apocalyptic fantasy world. As
 a work in progress, it will occasionally see updates here.
 
-Last updated: February 18th, 2021
+Last updated: July 28th, 2022
 
-- [Mysteries of a Broken World](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/mysteriesofabrokenworld.pdf)
+-   [Mysteries of a Broken World](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/mysteries-of-a-broken-world.pdf)
