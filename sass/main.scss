@@ -1,46 +1,43 @@
-body, html {
-	font-family: 'Baskerville', 'Georgia', serif;
-	font-size: 20px;
+$grey: rgb(171, 94, 62);
+
+html {
+	font-family: system-ui;
+	font-size: unquote("clamp(1em, 0.909em + 0.45vmin, 1.25em)");
+    max-width: 70ch;
+    padding: unquote("calc(1vmin + .5rem)");
+    margin-inline: auto;
+}
+
+body :not(:is(h1,h2,h3,h4,h5,h6)) {
+    line-height: 1.75;
 }
 
 header {
-    margin-top: 1rem;
     text-align: center;
 	h1 {
 		font-size: 3rem;
-		line-height: 3rem;
-        margin: 0;
-        margin-left: 0.5rem;
+        font-variant: small-caps;
 	}
 	p.subtitle {
-        font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
 		font-style: italic;
-        margin-top: 0.25rem;
 	}
-    img.photo {
-        display: block;
-        width: 600px;
-        margin: 0 auto;
-    }
 }
 
 footer {
-    border-top: 1px solid rgb(171, 94, 62);
+    border-top: 1px solid $grey;
 	font-size: 0.75rem;
 }
 
 code {
+    background-color: grey;
+    color: white;
 	font-family: monospace;
-	font-size: 14px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
+    font-size: 1.0rem;
 }
 
 h1.page-title {
     font-size: 2rem;
-    line-height: 2rem;
+    line-height: 2;
 }
 
 a {
@@ -53,11 +50,6 @@ a:hover {
 
 a:visited {
     color: rgb(171, 94, 62);
-}
-
-section, nav, footer {
-	width: 1024px;
-	margin: 0 auto;
 }
 
 nav {
@@ -76,11 +68,10 @@ nav {
             }
 		}
 	}
-    border-bottom: 1px solid rgb(171, 94, 62);
+    border-bottom: 1px solid $grey;
 }
 
 p.blog-date {
-    font-family: 'Optima', 'Helvetica', 'Arial', sans-serif;
     font-weight: 700;
 }
 
@@ -95,39 +86,4 @@ img.photo {
     padding: 1rem;
     border: 1px solid #ccc;
     margin: 1rem auto;
-}
-
-div.blog-content {
-    max-width: 500px;
-}
-
-@media screen and (max-width: 1024px) {
-    section, nav, footer {
-        width: 100%;
-    }
-
-    header {
-        img.photo {
-            width: 100%;
-        }
-    }
-
-    nav {
-        ul {
-            display: inline;
-            li {
-                display: block;
-            }
-        }
-    }
-
-    img.photo {
-        width: 50%;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    img.photo {
-        width: 800px;
-    }
 }

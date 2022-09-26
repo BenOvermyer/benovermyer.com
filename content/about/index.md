@@ -16,7 +16,7 @@ _LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
 I'm a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Since its inception, it has changed the world. It's my job and my passion to make it better.
 
-I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Since 2011, I have lived in Minneapolis, Minnesota. The climate may be a little suspect in the colder months, but it's one of the best places I've lived in my entire life. That time will soon be coming to an end, though, and I'll be heading east.
+I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Currently I live in Wilmington, North Carolina, but that will change in a year or two.
 
 My particular focus in the professional world is automation and systems architecture. Complex systems and their interactions are amazing things.
 
