@@ -12,4 +12,4 @@ a work in progress, it will occasionally see updates here.
 
 Last updated: July 28th, 2022
 
--   [Mysteries of a Broken World](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/mysteries-of-a-broken-world.pdf)
+-   [Mysteries of a Broken World](https://files.benovermyer.com/rpgs/mysteries-of-a-broken-world.pdf)

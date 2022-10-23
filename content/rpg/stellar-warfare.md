@@ -10,4 +10,4 @@ teenaged mind. I believe I wrote it in 1995, when I was 13.
 There are many awful assumptions I made about the Star Wars setting
 back then, and the strong attention to "Dark Lords of the Sith" is embarassing.
 
-Download [Stellar Warfare](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/stellar-warfare.pdf)
+Download [Stellar Warfare](https://files.benovermyer.com/rpgs/stellar-warfare.pdf)

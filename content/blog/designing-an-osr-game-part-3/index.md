@@ -15,7 +15,7 @@ Since the last post, I've been doing a fair amount of work on the OSR game. Enou
 
 That first bit of news is probably the most milestone-y. I've also fleshed out more of the rules, mostly around character creation. While it's going to be a work in progress for quite awhile, you can view the latest playtest version of the rules here:
 
-[Mysteries of a Broken World](https://dungeonhack.nyc3.digitaloceanspaces.com/rpgs/mysteriesofabrokenworld.pdf)
+[Mysteries of a Broken World](https://files.benovermyer.com/rpgs/mysteriesofabrokenworld.pdf)
 
 The above document is regenerated every time I make a change to the manuscript. It has the generation date in the header, for reference.
 
