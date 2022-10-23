@@ -16,6 +16,7 @@ I started doing this in 2019, so previous years are not included.
 5. _Kill It With Fire_ by Marianne Bellotti
 6. _The Shadow Rising_ by Robert Jordan
 7. _Sid Meier's Memoir!_ by Sid Meier
+8. _The Fires of Heaven_ by Robert Jordan
 
 ## 2021
 
