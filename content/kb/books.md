@@ -17,6 +17,7 @@ I started doing this in 2019, so previous years are not included.
 6. _The Shadow Rising_ by Robert Jordan
 7. _Sid Meier's Memoir!_ by Sid Meier
 8. _The Fires of Heaven_ by Robert Jordan
+9. _Game Wizards_ by Jon Peterson
 
 ## 2021
 
