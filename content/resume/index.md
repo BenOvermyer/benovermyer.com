@@ -3,9 +3,9 @@ title = "Resumé"
 description = "Ben Overmyer's resume"
 +++
 
-The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a "DevOps" consultant. I'm responsible for building out performant and highly-available digital infrastructure and teaching others how to do the same. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
+The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a senior platform engineer and tech lead. I'm responsible for building out performant and highly-available digital infrastructure and guiding others in this discipline. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
 
-**Specialties:** AWS infrastructure, high availability, continuous deployment, Chef, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, leading effective teams
+**Specialties:** AWS infrastructure, high availability, continuous deployment, Terraform, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, leading effective teams, automation
 
 **Preferred Programming Languages:** PHP, Ruby, Go, Python
 
@@ -14,6 +14,12 @@ The chief aim of any web technologist is to make a particular part of the web mo
 **Tools of Choice:** [Vim](https://pascalprecht.github.io/posts/why-i-use-vim), [VS Code](https://code.visualstudio.com/), [Chef](https://chef.io), [Docker](https://www.docker.com/)
 
 # Work History
+
+## President at Silver Gryphon Games
+
+_August 2022 to present_
+
+I am the owner and president of [Silver Gryphon Games](https://silvergryphongames.com), a tabletop role-playing game publishing company.
 
 ## Senior Platform Engineer at Apiture
 
