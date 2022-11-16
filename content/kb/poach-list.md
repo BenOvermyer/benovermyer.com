@@ -3,9 +3,9 @@ title = "Personal Poach List"
 description = "My list of people that I would hire if I could"
 +++
 
-This is my personal poach list of people who, if I had infinite money and they had no other commitments, I would hire in a heartbeat. This has a slant towards DevOps and software development, but I also include people from my previous experience in the tabletop games industry also.
+This is my personal poach list of people who, if I had infinite money and they had no other commitments, I would hire in a heartbeat. This has a slant towards platform engineering and software development, but I also include people from my previous experience in the tabletop games industry also.
 
-## DevOps Engineers
+## DevOps/Platform Engineering/Site Reliability Engineers
 
 - [Alex Lamoureaux](https://www.linkedin.com/in/alexlamoureaux/)
 - [Andrew Krull](https://www.linkedin.com/in/andrewjkrull/)
