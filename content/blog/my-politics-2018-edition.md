@@ -2,15 +2,15 @@
 title = 'My Politics, 2018 Edition'
 date = 2018-07-26
 +++
-I’ve been looking at what’s coming up on the ballot for this midterm election. I decided it might be interesting to blog about where I’m at right now with my political views, since they’re always in flux.
+I've been looking at what's coming up on the ballot for this midterm election. I decided it might be interesting to blog about where I'm at right now with my political views, since they're always in flux.
 
 Before I get to my positions, indulge me in a few considerations.
 
 First, I have been called a liberal, a conservative, a progressive, a fascist, and a socialist. None of these is true, but all of them have a grain of truth.
 
-Second, I’m an American by birth, but have spent a few years living abroad. Specifically, four years in New Zealand. This colors my views a bit.
+Second, I'm an American by birth, but have spent a few years living abroad. Specifically, four years in New Zealand. This colors my views a bit.
 
-Third, I’m contemptuous of the prevailing American culture of Left versus Right, liberal versus conservative. It’s overly reductive and harmful to a broader dialogue about our society. If you don’t think enough about your own identity to consider this, then you need to start.
+Third, I'm contemptuous of the prevailing American culture of Left versus Right, liberal versus conservative. It's overly reductive and harmful to a broader dialogue about our society. If you don't think enough about your own identity to consider this, then you need to start.
 
 Fourth, while I apply labels just as much as the next person, I try to remain cognisant of this fact and avoid dismissing “outsider” views out of hand.
 
@@ -33,7 +33,7 @@ Alright, with those things out of the way, let me get into the meat of it.
 *   No race is inherently better than another.
 *   No sex is inherently better than another.
 *   Empirical evaluation is far superior to logical evaluation.
-*   If you’re not questioning your core beliefs occasionally and sincerely, you are not growing as a person.
+*   If you're not questioning your core beliefs occasionally and sincerely, you are not growing as a person.
 *   Consenting adults can do whatever the **** they want in private.
 *   Business interests by definition must have a narrow scope of interest. They cannot be allowed to set policy for any larger society.
 *   Experts in a particular field are always the best people to suggest policy for a given thing. Their advice should not be ignored.
@@ -42,8 +42,8 @@ Alright, with those things out of the way, let me get into the meat of it.
 *   Equality at birth is a nice ideal, but a false reality. Social circumstances always skew the scale.
 *   Do unto others as you would have done to you.
 *   Thoughtful investigation that is broadly distributed should not be considered wholly false because it contradicts the opinions of people in authority.
-*   Sometimes, it’s necessary to discard something and start from scratch with a new perspective.
-*   Money can’t buy happiness, but it can buy freedom, which can help build happiness up to a point.
+*   Sometimes, it's necessary to discard something and start from scratch with a new perspective.
+*   Money can't buy happiness, but it can buy freedom, which can help build happiness up to a point.
 *   You are ultimately responsible for your own actions.
 *   Rewarding desired behavior is almost always preferable to punishing unwanted behavior.
 *   Those who have lived among a higher diversity of people for a longer period of time are more likely to make leadership decisions that benefit a society.
@@ -54,9 +54,9 @@ Alright, with those things out of the way, let me get into the meat of it.
 *   The ability to adapt quickly is superior to all other abilities.
 *   No one has an unbiased, complete view of history. However, sovereign-mandated versions of history should be accorded more suspicion than those of independent people whose lives have been dedicated to the study of history.
 *   The study of history is one of the most important aspects of ongoing education. People who stopped studying history after it was no longer a required course in school have stunted their ability to judge long-term consequences.
-*   Music is both pointless and vitally important. I don’t know why yet.
-*   Regulation of weapons in and of itself is of limited value, but it’s a conversation worth having often.
-*   Putting one’s nation over the interests of all other nations is dangerously narrow-minded. Any leader that does this is suspect.
-*   Cooperate with others when possible. Listen always. Stand up for yourself always, but don’t sacrifice the majority for your benefit.
+*   Music is both pointless and vitally important. I don't know why yet.
+*   Regulation of weapons in and of itself is of limited value, but it's a conversation worth having often.
+*   Putting one's nation over the interests of all other nations is dangerously narrow-minded. Any leader that does this is suspect.
+*   Cooperate with others when possible. Listen always. Stand up for yourself always, but don't sacrifice the majority for your benefit.
 *   You can be responsible for an area. You can respect the responsibility of others for an area. But if an area is not being used for the longterm benefit of humanity, you have the responsibility to speak up about it.
 *   All things are decided by groups, not by individuals.

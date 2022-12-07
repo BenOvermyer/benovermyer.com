@@ -2,7 +2,7 @@
 title = "On Gryphons and Their Kin"
 date = 2018-11-03
 +++
-As one of the founders of Silver Gryphon Games I have a fondness for gryphons. It seems only natural, then, that I write up a few variations of the standard gryphon (or griffon, griffin, or gryfon, as you like) for OSR uses.
+As one of the founders of [Silver Gryphon Games](https://silvergryphongames.com) I have a fondness for gryphons. It seems only natural, then, that I write up a few variations of the standard gryphon (or griffon, griffin, or gryfon, as you like) for OSR uses.
 
 # Gryphon
 

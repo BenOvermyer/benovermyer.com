@@ -21,4 +21,4 @@ title = "West African Peanut Soup"
 3. Whisk the mixture together until smooth, then pour the peanut mixture back into the soup and mix well.
 4. Stir in the collard greens and season the soup with hot sauce to taste.
 5. Simmer for about 15 more minutes on medium-low heat, stirring often.
-6. Serve over cooked brown rice if you’d like, and top with a sprinkle of chopped peanuts.
+6. Serve over cooked brown rice if you'd like, and top with a sprinkle of chopped peanuts.

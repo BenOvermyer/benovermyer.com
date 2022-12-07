@@ -2,8 +2,7 @@
 title = "Cooking"
 description = "Notes about cooking"
 +++
-This page has various notes on cooking methods and other miscellany. It's meant to help me remember
-things about cooking that I don't do often or want to share with others.
+This page has various notes on cooking methods and other miscellany. It's meant to help me remember things about cooking that I don't do often or want to share with others.
 
 # Scrambling eggs
 
@@ -13,8 +12,7 @@ If you're going to add salt to the eggs before cooking, do it immediately before
 
 # Seafood boils
 
-Fill the pot 3/4 full of water, bring to a boil. Add aromatics, salt, and acid. White wine,
-lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
+Fill the pot 3/4 full of water, bring to a boil. Add aromatics, salt, and acid. White wine, lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
 
 ## Ingredients and their cook times
 
@@ -38,8 +36,7 @@ lemon juice, or orange juice all work. Also add a _ton_ of Old Bay seasoning.
 
 # Vegetarian cooking principles
 
-These are some principles of cooking vegetarian food. Since switching to the Mediterranean diet in an
-effort to be healthier, this has become very important to me.
+These are some principles of cooking vegetarian food. Since switching to the Mediterranean diet in an effort to be healthier, this has become very important to me.
 
 ## Build a balanced meal
 
@@ -89,8 +86,7 @@ These are seasoning blends that are meant to typify a particular region or cultu
 
 # Roles in a restaurant kitchen
 
-The following are traditional roles in a French-style restaurant kitchen. This
-is referred to as the brigade de cuisine.
+The following are traditional roles in a French-style restaurant kitchen. This is referred to as the brigade de cuisine.
 
 - executive chef: the master in charge of everything, usually a managerial role
 - chef de cuisine: the chef in charge of the kitchen

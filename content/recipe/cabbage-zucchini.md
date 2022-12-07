@@ -2,8 +2,7 @@
 title = "Cabbage with Zucchini and Ricotta"
 +++
 
-This dish is _really_ good. I made it first because I needed to use up half a
-cabbage left over from St. Patty's Day.
+This dish is _really_ good. I made it first because I needed to use up half a cabbage left over from St. Patty's Day.
 
 ## Ingredients
 

@@ -21,12 +21,8 @@ title = "Som Tum"
 3. Add the palm sugar (cut into small pieces), maybe 2-3 teaspoons at first. More more to taste later.
 4. Add the peanuts and lightly pound until they are broken into tiny pieces, but not to the point where they form a thick paste.
 5. Add the green beans and crush them with the mortar until they're splitting and lightly bruised.
-6. Add the papaya and tomatoes and pound on them to bruise them. You want to
-   crush the tomatoes so they release their juices and give their flavor
-   and color.
+6. Add the papaya and tomatoes and pound on them to bruise them. You want to crush the tomatoes so they release their juices and give their flavor and color.
 7. Add a couple of teaspoons of fish sauce and a couple of teaspoons of lime juice to the mix.
-8. Have in one hand a large spoon to help flip things over in and scrape down
-   the sides of the mortar while your other hand pounds away with the
-   pestle.
+8. Have in one hand a large spoon to help flip things over in and scrape down the sides of the mortar while your other hand pounds away with the pestle.
 9. Keep pounding and flipping for a few seconds, add more fish sauce, lime juice, or palm sugar as needed.
 10. Dish out and serve immediately.

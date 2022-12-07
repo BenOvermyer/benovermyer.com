@@ -2,19 +2,15 @@
 title = "Geography"
 description = "Notes about geography and related concerns"
 +++
-This page is for information about geography and related concerns. I'm learning this for
-world-building purposes.
+This page is for information about geography and related concerns. I'm learning this for world-building purposes.
 
 # Climates and Biomes
 
-Climates and biomes are not the same thing. A biome is derived from a climate, but a
-climate is based on geographical traits.
+Climates and biomes are not the same thing. A biome is derived from a climate, but a climate is based on geographical traits.
 
 ## Climates
 
-The primary determinants of a climate are sun intensity, hours of daylight, axial tilt, distance
-from the equator, distance and direction to the nearest mountains, distance and direction to the
-nearest ocean, and altitude.
+The primary determinants of a climate are sun intensity, hours of daylight, axial tilt, distance from the equator, distance and direction to the nearest mountains, distance and direction to the nearest ocean, and altitude.
 
 The following are traits of a geographic region that determine its climate:
 

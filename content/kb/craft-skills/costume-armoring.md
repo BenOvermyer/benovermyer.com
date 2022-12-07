@@ -12,8 +12,7 @@ Buy foam floor tiles and use that. It's really cheap.
 
 ## Registration Marks
 
-When marking out a pattern onto foam or whatever material you're using, draw registration marks
-on the material so that it's easier to glue the pieces together.
+When marking out a pattern onto foam or whatever material you're using, draw registration marks on the material so that it's easier to glue the pieces together.
 
 ## Pattern Material
 

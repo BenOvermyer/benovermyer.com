@@ -1,9 +1,7 @@
 +++
 title = "Philly-style Italian hoagie"
 +++
-When I lived in the Philadelphia area, my dad started making Italian hoagies.
-Later, when my parents opened the Scotto's restaurant in New Zealand, this
-was one of its most popular menu items.
+When I lived in the Philadelphia area, my dad started making Italian hoagies. Later, when my parents opened the Scotto's restaurant in New Zealand, this was one of its most popular menu items.
 
 # Ingredients
 

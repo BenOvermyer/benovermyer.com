@@ -8,14 +8,11 @@ This is a list of all the things that I use to be productive day-to-day. It's in
 
 ## Alienware Aurora R11
 
-I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a long time I used Windows, but when I "upgraded"
-to Windows 11, I ran into too many issues and replaced it with Pop_OS! as my sole operating system. I'm loving gaming on Linux
-now that I've figured out how to properly use Proton.
+I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a long time I used Windows, but when I "upgraded" to Windows 11, I ran into too many issues and replaced it with Pop_OS! as my sole operating system. I'm loving gaming on Linux now that I've figured out how to properly use Proton.
 
 ## 2019 MacBook Pro 16"
 
-I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. For a time I used it both for development and for gaming, but I
-missed my favorites too much. Now it's used exclusively for development and for travel.
+I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. For a time I used it both for development and for gaming, but I missed my favorites too much. Now it's used exclusively for development and for travel.
 
 ## Steelseries Apex Pro Keyboard
 
@@ -27,9 +24,7 @@ This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel tha
 
 **Website:** [Dell 32 Curved Gaming Monitor - S3220DGF](https://www.dell.com/en-us/shop/dell-32-curved-gaming-monitor-s3220dgf/apd/210-atyt/monitors-monitor-accessories)
 
-I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much
-better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities.
-I have two of them - one for my Mac, and one for my gaming PC.
+I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities. I have two of them - one for my Mac, and one for my gaming PC.
 
 ## DXRacer King Zero gaming chair
 
@@ -41,10 +36,9 @@ Lately it's been wearing out. It's developed a wobble, and the fake leather is p
 
 # Lifestyle Software
 
-## Firefox and Safari
+## Firefox
 
-I've changed browsers frequently over the years. Right now I'm using Firefox, but I'm also experimenting with Safari
-on my Mac.
+I've changed browsers frequently over the years. Now I seem to have settled on Firefox.
 
 # Design Software
 
@@ -52,22 +46,19 @@ on my Mac.
 
 **Website:** [Affinity Photo](https://affinity.serif.com/photo/)
 
-My replacement for Photoshop. It's pretty good, and while my Photoshop muscle memory doesn't translate
-perfectly, its buy-once model combined with its feature set makes it the better alternative.
+My replacement for Photoshop. It's pretty good, and while my Photoshop muscle memory doesn't translate perfectly, its buy-once model combined with its feature set makes it the better alternative.
 
 ## Affinity Designer
 
 **Website:** [Affinity Designer](https://affinity.serif.com/designer/)
 
-Same story as Photo, but this one replaces Adobe Illustrator. The one difference is that I reach for
-Inkscape when I need to trace raster graphics.
+Same story as Photo, but this one replaces Adobe Illustrator. The one difference is that I reach for Inkscape when I need to trace raster graphics.
 
 ## Affinity Publisher
 
 **Website:** [Affinity Publisher](https://affinity.serif.com/publisher/)
 
-Same story as Photo, but this one replaces Adobe InDesign. It's still new enough to have some issues and
-there are features missing, but it works well enough for laying out books and such.
+Same story as Photo, but this one replaces Adobe InDesign. It's still new enough to have some issues and there are features missing, but it works well enough for laying out books and such.
 
 # Development Software
 
@@ -83,8 +74,7 @@ After using Nova for over a year, I switched back to VSCode as my editor of choi
 
 **Website:** [Namecheap](https://www.namecheap.com/)
 
-I've heard that other domain registrars are better (e.g., [Hover](https://www.hover.com/)), but I host almost all of my domains
-at Namecheap because it works well enough.
+I've heard that other domain registrars are better (e.g., [Hover](https://www.hover.com/)), but I host almost all of my domains at Namecheap because it works well enough.
 
 ## Digital Ocean
 
