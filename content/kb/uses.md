@@ -14,6 +14,12 @@ I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a l
 
 I replaced my old Windows/Linux custom-built PC with this on July 22nd, 2020. For a time I used it both for development and for gaming, but I missed my favorites too much. Now it's used exclusively for development and for travel.
 
+## Logitech MX Keys
+
+**Website:** [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.920-009295.html)
+
+I use this keyboard for my Macbooks. It's great for quickly switching between them.
+
 ## Steelseries Apex Pro Keyboard
 
 **Website:** [Steelseries Apex Pro](https://steelseries.com/gaming-keyboards/apex-pro)
@@ -26,13 +32,11 @@ This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel tha
 
 I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities. I have two of them - one for my Mac, and one for my gaming PC.
 
-## DXRacer King Zero gaming chair
+## Beautyrest Platinum Sofil Bonded Leather Executive Chair
 
-**Website:** [DXRacer King Zero](https://www.dxracer.com/au/en-au/product/1/gaming-chair/king-series/oh-kf00-nr-zero/)
+**Website:** [Beautyrest Platinum Sofil Bonded Leather Executive Chair, Black (49404B)](https://www.staples.com/beautyrest-platinum-sofil-bonded-leather-executive-chair-black-49404b/product_24381184)
 
-After many years of living with a barely-intact office chair I bought for $5 at Goodwill, I bought a DXRacer King Zero gaming chair. It was a night and day experience. So comfortable! Mine is sunburst yellow and black.
-
-Lately it's been wearing out. It's developed a wobble, and the fake leather is perpetually flaking off now. A new chair is on the horizon.
+I replaced my DXRacer King Zero in March of 2022 with this chair. It's cheaper and more comfortable than the DXRacer was. The cats have already made a number of holes in the faux-leather, though.
 
 # Lifestyle Software
 
@@ -42,31 +46,17 @@ I've changed browsers frequently over the years. Now I seem to have settled on F
 
 # Design Software
 
-## Affinity Photo
+## Adobe Suite
 
-**Website:** [Affinity Photo](https://affinity.serif.com/photo/)
-
-My replacement for Photoshop. It's pretty good, and while my Photoshop muscle memory doesn't translate perfectly, its buy-once model combined with its feature set makes it the better alternative.
-
-## Affinity Designer
-
-**Website:** [Affinity Designer](https://affinity.serif.com/designer/)
-
-Same story as Photo, but this one replaces Adobe Illustrator. The one difference is that I reach for Inkscape when I need to trace raster graphics.
-
-## Affinity Publisher
-
-**Website:** [Affinity Publisher](https://affinity.serif.com/publisher/)
-
-Same story as Photo, but this one replaces Adobe InDesign. It's still new enough to have some issues and there are features missing, but it works well enough for laying out books and such.
+I caved and switched back to the Adobe Creative Suite instead of the Affinity suite. While the $60 per month price tag is steep, I needed too many of the features only Adobe's suite has.
 
 # Development Software
 
-## Visual Studio Code
+## Sublime Text
 
-**Website:** [VS Code](https://code.visualstudio.com/)
+**Website:** [Sublime Text](https://www.sublimetext.com/)
 
-After using Nova for over a year, I switched back to VSCode as my editor of choice.
+In November 2022 I finally bought a license for Sublime Text. I've been using it as my daily driver for months now.
 
 # Hosting and Infrastructure Services
 
@@ -76,11 +66,11 @@ After using Nova for over a year, I switched back to VSCode as my editor of choi
 
 I've heard that other domain registrars are better (e.g., [Hover](https://www.hover.com/)), but I host almost all of my domains at Namecheap because it works well enough.
 
-## Digital Ocean
+## Hetzner
 
-**Website:** [Digital Ocean](https://www.digitalocean.com/)
+**Website:** [Hetzner](https://www.hetzner.com/)
 
-When I need more than a static site host, I use Digital Ocean.
+When I need more than a static site host, I use Hetzner. It's cheap and stable.
 
 ## Netlify
 
@@ -92,5 +82,4 @@ Netlify hosts most of my static sites. It's free and works really well.
 
 **Website:** [Cloudflare](https://cloudflare.com)
 
-I use Cloudflare for my DNS management. I don't use it as a CDN really. However, I now use Cloudflare Pages
-to host this site and [Iron Arachne](https://ironarachne.com).
+I use Cloudflare for my DNS management. I don't use it as a CDN anymore, though it works well for that purpose.
