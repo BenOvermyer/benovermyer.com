@@ -39,3 +39,15 @@ For Chef, do the following after the above:
 ```bash
 echo "export SSL_CERT_FILE=/etc/pki/tls/certs/ca-bundle.crt" > /etc/profile.d/add_ssl_cert_file_for_chef.sh
 ```
+
+# Examining incoming HTTP traffic
+
+```
+tcpflow -p -c -i eth0 port 80 | grep -oE '(GET|POST|HEAD) .* HTTP/1.[01]|Host: .*'
+```
+
+# Regex for access logs
+
+```
+(\d*\.\d*\.\d*\.\d*) \- \- \[(.*)\] "(\w*) (.*) HTTP\/\d\.\d" (\d*) (\d*) "(.*)" "(.*)" (\d*\.\d*) (\d*\.\d*)
+```
