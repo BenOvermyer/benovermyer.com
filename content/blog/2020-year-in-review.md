@@ -1,6 +1,7 @@
 +++
-title = "Looking Back on 2020"
+title = "2020 Year in Review"
 date = 2020-12-28
+description = "Looking back on 2020"
 +++
 Last year I didn't write a retrospective. This year I felt it was necessary, given all that's happened.
 
