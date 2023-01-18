@@ -21,11 +21,11 @@ _August 2022 to present_
 
 I am the owner and president of [Silver Gryphon Games](https://silvergryphongames.com), a tabletop role-playing game publishing company.
 
-## Senior Platform Engineer at Apiture
+## Senior Platform Engineer (Tech Lead) at Apiture
 
 _July 2021 to present_
 
-I help the digital banking startup Apiture build a modern platform to make its services highly available and highly performant. Starting out, this means crafting a thoughtful and powerful observability architecture to identify opportunities for improvement.
+I help the digital banking company Apiture build a modern platform to make its services highly available and highly performant. As a tech lead on the Platform Engineering team, I architect systems, mentor junior engineers, build complex components of the platform, and lead a small group of platform engineers.
 
 ## DevOps Consultant at Solution Design Group
 
