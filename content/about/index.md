@@ -8,7 +8,7 @@ You can get in touch with me in a variety of ways. Email is best.
 
 _Email:_ [ben@overmyer.net](mailto:ben@overmyer.net)
 
-_Fediverse:_ [@dungeonHack@fosstodon.org]([https://lore.monster/@ben](https://fosstodon.org/@dungeonHack))
+_Fediverse:_ [@dungeonHack@fosstodon.org](https://fosstodon.org/@dungeonHack)
 
 _LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
