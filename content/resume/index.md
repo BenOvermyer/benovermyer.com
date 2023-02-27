@@ -3,15 +3,13 @@ title = "Resumé"
 description = "Ben Overmyer's resume"
 +++
 
-The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a senior platform engineer and tech lead. I'm responsible for building out performant and highly-available digital infrastructure and guiding others in this discipline. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning and sharing that new knowledge.
+The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For my part, I now act as a senior platform engineer and tech lead. I'm responsible for building out performant and highly-available digital infrastructure and guiding others in this discipline. The challenge of the continually-evolving domain of internet infrastructure drives me to always be learning, testing, and sharing that new knowledge.
 
 **Specialties:** AWS infrastructure, high availability, continuous deployment, Terraform, Ansible, Docker, IT project management, the DevOps and Unix philosophies, knowledge sharing, leading effective teams, automation
 
-**Preferred Programming Languages:** PHP, Ruby, Go, Python
+**Preferred Programming Languages:** Go, Python, Typescript, PHP
 
 **Ancillary Skills:** Team engagement, identifying and instrumenting key application metrics, tailoring communication of important information to different audiences
-
-**Tools of Choice:** [Vim](https://pascalprecht.github.io/posts/why-i-use-vim), [VS Code](https://code.visualstudio.com/), [Chef](https://chef.io), [Docker](https://www.docker.com/)
 
 # Work History
 
@@ -25,7 +23,7 @@ I am the owner and president of [Silver Gryphon Games](https://silvergryphongame
 
 _July 2021 to present_
 
-I help the digital banking company Apiture build a modern platform to make its services highly available and highly performant. As a tech lead on the Platform Engineering team, I architect systems, mentor junior engineers, build complex components of the platform, and lead a small group of platform engineers.
+I help build and design the platform that underlies Apiture's services. I abstract away the AWS and Docker infrastructure so that developers can build for the platform and not need to understand infrastructure themselves. As a tech lead, I lead a team of platform engineers of varying skill levels and personalities towards this end. Often I wear multiple hats - architect, coder, mentor, troubleshooter, sounding board, and others.
 
 ## DevOps Consultant at Solution Design Group
 
