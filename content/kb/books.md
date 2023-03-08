@@ -12,6 +12,8 @@ I started doing this in 2019, so previous years are not included.
 1. _A Little History of Canada_ by H.V. Nelles
 2. _Old Man's War_ by John Scalzi
 3. _Mission of Honor_ by David Weber
+4. _The Ghost Brigades_ by John Scalzi
+5. _The Little Black Book of Workout Motivation_ by Michael Matthews
 
 ## 2022
 
