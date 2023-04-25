@@ -14,6 +14,8 @@ I started doing this in 2019, so previous years are not included.
 3. _Mission of Honor_ by David Weber
 4. _The Ghost Brigades_ by John Scalzi
 5. _The Little Black Book of Workout Motivation_ by Michael Matthews
+6. _A Rising Thunder_ by David Weber
+7. _Shadow of Freedom_ by David Weber
 
 ## 2022
 
