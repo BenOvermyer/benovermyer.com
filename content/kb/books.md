@@ -17,6 +17,7 @@ I started doing this in 2019, so previous years are not included.
 6. _A Rising Thunder_ by David Weber
 7. _Shadow of Freedom_ by David Weber
 8. _Forest Walking: Discovering the Trees and Woodlands of North America_ by Peter Wohlleben and Jane Billinghurst
+9. _Uncompromising Honor_ by David Weber
 
 ## 2022
 
