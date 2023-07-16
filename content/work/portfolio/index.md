@@ -3,26 +3,26 @@ title = "Art Portfolio"
 description = "Ben Overmyer's art portfolio"
 +++
 
-These are examples of my artwork. The first four were done for
-Hero Games for various books. They're all ink drawings.
+These are examples of my artwork. Click on the thumbnail to see the full image.
 
-<img src="bikers.jpg" class="artwork" />
+The first four were done for Hero Games for various books. They're all ink drawings.
 
-<img src="wizard.jpg" class="artwork" />
+{{ thumbnail(path="/work/portfolio/bikers.jpg") }}
 
-<img src="market.jpg" class="artwork" />
+{{ thumbnail(path="/work/portfolio/wizard.jpg") }}
 
-<img src="zombies.jpg" class="artwork" />
+{{ thumbnail(path="/work/portfolio/market.jpg") }}
 
-The next one was done as cover art for a book by Silver Gryphon Games.
-It's a digital painting.
+{{ thumbnail(path="/work/portfolio/zombies.jpg") }}
 
-<img src="darkness.jpg" class="artwork" />
+The next one was done as cover art for a book by Silver Gryphon Games. It's a digital painting.
+
+{{ thumbnail(path="/work/portfolio/darkness.jpg") }}
 
 This next image was a quick personal sketch-painting.
 
-<img src="scin.jpg" class="artwork" />
+{{ thumbnail(path="/work/portfolio/scin.jpg") }}
 
 This image was done for Silver Gryphon Games.
 
-<img src="roma-muertis.jpg" class="artwork" />
+{{ thumbnail(path="/work/portfolio/roma-muertis.jpg") }}

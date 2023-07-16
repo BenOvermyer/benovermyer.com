@@ -1,40 +1,40 @@
 $grey: rgb(171, 94, 62);
 
 html {
-	font-family: system-ui;
-	font-size: unquote("clamp(1em, 0.909em + 0.45vmin, 1.25em)");
+    font-family: system-ui;
+    font-size: unquote("clamp(1em, 0.909em + 0.45vmin, 1.25em)");
     max-width: 70ch;
     padding: unquote("calc(1vmin + .5rem)");
     margin-inline: auto;
 }
 
-body :not(:is(h1,h2,h3,h4,h5,h6)) {
+body :not(:is(h1, h2, h3, h4, h5, h6)) {
     line-height: 1.75;
 }
 
 header {
     text-align: center;
-	h1 {
-		font-size: 3rem;
+    h1 {
+        font-size: 3rem;
         font-variant: small-caps;
         margin-bottom: 0;
-	}
-	p.subtitle {
+    }
+    p.subtitle {
         margin-top: 0;
-		font-style: italic;
-	}
+        font-style: italic;
+    }
 }
 
 footer {
     border-top: 1px solid $grey;
-	font-size: 0.75rem;
+    font-size: 0.75rem;
 }
 
 code {
     background-color: grey;
     color: white;
-	font-family: monospace;
-    font-size: 1.0rem;
+    font-family: monospace;
+    font-size: 1rem;
 }
 
 h1.page-title {
@@ -55,21 +55,21 @@ a:visited {
 }
 
 nav {
-	ul {
-		list-style: none;
-		display: flex;
+    ul {
+        list-style: none;
+        display: flex;
         margin: 0.2rem 0;
         padding: 0;
-		li {
-			display: block;
-			list-style: none;
-			margin: 0 0.4rem;
+        li {
+            display: block;
+            list-style: none;
+            margin: 0 0.4rem;
             font-size: 1.1rem;
             a {
                 text-decoration: none;
             }
-		}
-	}
+        }
+    }
     border-bottom: 1px solid $grey;
 }
 
@@ -81,7 +81,8 @@ img.artwork {
     display: block;
     padding: 1rem;
     margin: 1rem auto;
-    width: 50%; max-width:600px;
+    width: 50%;
+    max-width: 600px;
 }
 
 img.photo {
@@ -89,5 +90,14 @@ img.photo {
     padding: 1rem;
     border: 1px solid #ccc;
     margin: 1rem auto;
-    width: 50%; max-width:600px;
+    max-width: 750px;
+}
+
+img.thumbnail {
+    display: inline-block;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    margin: 0.5rem;
+    height: 150px;
+    width: 150px;
 }

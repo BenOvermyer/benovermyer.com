@@ -6,10 +6,10 @@ description = "Third in a series about a new OSR tabletop RPG"
 
 This is part three in a series of posts about designing a new OSR game. You can find the previous two here:
 
--   [Designing a New OSR Game](@/blog/designing-a-new-osr-game.md)
--   [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2.md)
+-   [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
+-   [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2/index.md)
 
-<img src="Mysteries-logo-small.png" >
+<img src="Mysteries-logo-small.png" alt="An image of the logo for Mysteries of a Broken World" class="photo" />
 
 Since the last post, I've been doing a fair amount of work on the OSR game. Enough that it now has a title: Mysteries of a Broken World. The logo above is the official one for the line.
 
