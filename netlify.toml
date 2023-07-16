@@ -12,4 +12,4 @@ ZOLA_VERSION = "0.17.2"
     X-Frame-Options = "SAMEORIGIN"
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = 0
-    Content-Security-Policy = "style-src 'self'; form-action 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; base-uri 'self'; unsafe-hashes"
+    Content-Security-Policy = "style-src 'unsafe-hashes'; form-action 'self'; script-src 'self'; connect-src 'self'; img-src 'self'; base-uri 'self';"
