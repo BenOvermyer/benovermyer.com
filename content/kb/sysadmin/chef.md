@@ -7,7 +7,7 @@ description = "Notes about Chef"
 
 To reference Chef Infra Client's cache directory, use this:
 
-```
+```ruby
 Chef::Config[:file_cache_path]
 ```
 
@@ -17,7 +17,7 @@ If you're using Chef with cloud infrastructure that doesn't properly clean up ol
 you can run the following occasionally to clear them out:
 
 ```bash
-#!/bin/bash
+#!/usr/bin/env bash
 for node in $(knife search node "ohai_time:[* TO $(date +%s -d '30 days ago')]" -i); do
   yes|knife client delete $node
   yes|knife node delete $node
