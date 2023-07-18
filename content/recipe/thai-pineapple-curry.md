@@ -5,18 +5,18 @@ This would probably be better with shrimp.
 
 # Ingredients
 
--   2 teaspoons canola oil
--   1/4 cup red curry paste (if using concentrated use 1 tablespoon)
--   1 cup light coconut milk
--   3 chicken breasts boneless skinless - sliced thinly
--   3 kaffir lime leaves
--   1/4 cup Thai basil leaves
--   3 tablespoons fish sauce
--   1 tablespoon palm sugar
--   1/2 yellow onion sliced thinly
--   1 red bell pepper sliced thinly
--   1 tablespoon cornstarch mixed with 1 tablespoon water
--   2 cups pineapple chunks
+- 2 teaspoons canola oil
+- 1/4 cup red curry paste (if using concentrated use 1 tablespoon)
+- 1 cup light coconut milk
+- 3 chicken breasts boneless skinless - sliced thinly
+- 3 kaffir lime leaves
+- 1/4 cup Thai basil leaves
+- 3 tablespoons fish sauce
+- 1 tablespoon palm sugar
+- 1/2 yellow onion sliced thinly
+- 1 red bell pepper sliced thinly
+- 1 tablespoon cornstarch mixed with 1 tablespoon water
+- 2 cups pineapple chunks
 
 # Instructions
 

@@ -1,20 +1,21 @@
 +++
 title = "Carrot and Chickpea Salad"
 +++
+
 # Ingredients
 
--   1 pound sliced carrots
--   2 tablespoons olive oil
--   2 teaspoons ground coriander, divided
--   1 teaspoon kosher salt, divided
--   1/4 teaspoon freshly ground black pepper
--   2 (15-ounce) cans chickpeas, drained and rinsed
--   Juice from 1 medium orange (about 1/2 cup)
--   3 cloves garlic, minced
--   1/4 teaspoon red pepper flakes
--   6 ounces arugula
--   1/2 cup [herb tahini dressing](../herb-tahini-dressing)
--   1/2 cup chopped toasted almonds
+- 1 pound sliced carrots
+- 2 tablespoons olive oil
+- 2 teaspoons ground coriander, divided
+- 1 teaspoon kosher salt, divided
+- 1/4 teaspoon freshly ground black pepper
+- 2 (15-ounce) cans chickpeas, drained and rinsed
+- Juice from 1 medium orange (about 1/2 cup)
+- 3 cloves garlic, minced
+- 1/4 teaspoon red pepper flakes
+- 6 ounces arugula
+- 1/2 cup [herb tahini dressing](../herb-tahini-dressing)
+- 1/2 cup chopped toasted almonds
 
 # Instructions
 

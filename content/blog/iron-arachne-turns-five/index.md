@@ -14,12 +14,12 @@ However, the purpose of Iron Arachne has never really been about RPG content gen
 
 With that in mind, here are some of the things I have in various states of completion for Iron Arachne that I might work on in the near future.
 
--   An independent name-generation library to be used by both Iron Arachne and [MUNA](https://muna.ironarachne.com)
--   A character generator for Old School Essentials
--   Name generators independent of character generators
--   An architecture generator for creating architectural styles
--   A language generator
--   A cuisine generator for creating styles of cuisine
--   Adding maps to the region generator
+- An independent name-generation library to be used by both Iron Arachne and [MUNA](https://muna.ironarachne.com)
+- A character generator for Old School Essentials
+- Name generators independent of character generators
+- An architecture generator for creating architectural styles
+- A language generator
+- A cuisine generator for creating styles of cuisine
+- Adding maps to the region generator
 
 With all the work I have on my plate running [Silver Gryphon Games](https://silvergryphongames.com), though, I may not be spending a ton of time on Iron Arachne. At least, not until Aether Second Edition, Aethermancy, and Ingenium Second Edition are released. Then I should be able to focus at least a little more on Iron Arachne.

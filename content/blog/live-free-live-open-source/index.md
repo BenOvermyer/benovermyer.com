@@ -12,11 +12,11 @@ Open source living is using products and services provided in a collaborative, u
 
 Some examples of open source living:
 
-*   living in 1-month, open lease rental apartments
-*   using computers with easily replaceable and customizable innards
-*   having a jam session with a couple local musicians
-*   choosing open-dialogue farm products over supermarket-bought ones
-*   writing a book, then making it available to everyone using Creative Commons license - whether free or for profit
+- living in 1-month, open lease rental apartments
+- using computers with easily replaceable and customizable innards
+- having a jam session with a couple local musicians
+- choosing open-dialogue farm products over supermarket-bought ones
+- writing a book, then making it available to everyone using Creative Commons license - whether free or for profit
 
 …and so on!
 

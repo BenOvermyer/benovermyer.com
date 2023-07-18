@@ -19,15 +19,15 @@ Biggest question: how to make the system aware of a world’s contents? Maybe th
 
 Things to be generated:
 
-* World map
-* Countries
-* Social organizations (guilds, religions, etc.)
-* Characters
-* Races
-* Classes (or subtypes of classes, anyway)
-* Languages?
-* Trade routes
-* Monsters
+- World map
+- Countries
+- Social organizations (guilds, religions, etc.)
+- Characters
+- Races
+- Classes (or subtypes of classes, anyway)
+- Languages?
+- Trade routes
+- Monsters
 
 To give the setting a rich history, it would be necessary to do several iterations over thousands of years of the setting’s past. Anything can change, but not everything would change in each iteration.
 

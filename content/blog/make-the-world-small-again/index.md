@@ -36,9 +36,9 @@ Another thing that's starting to make a comeback is the web directory. Back in t
 
 I run one such web directory. It's called [RPGGen](https://rpggen.dev), and it's meant for discovering websites that provide content generators for tabletop role-playing games. There are many others out there. For example:
 
-* [href.cool](https://href.cool/)
-* [Indieseek](https://indieseek.xyz/)
-* [Fauna Top Sites](http://www.faunatopsites.com/)
+- [href.cool](https://href.cool/)
+- [Indieseek](https://indieseek.xyz/)
+- [Fauna Top Sites](http://www.faunatopsites.com/)
 
 Incidentally, I discovered all three of these through Wiby.
 

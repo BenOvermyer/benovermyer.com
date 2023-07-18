@@ -12,12 +12,12 @@ For loop:
 ```typescript
 // Syntax for iterating over elements in an array:
 for (let i = 0; i < array.length; i++) {
-    // Code block executed for each element
+  // Code block executed for each element
 }
 
 // Syntax for iterating over elements in an iterable object (e.g., array, string):
 for (const item of iterable) {
-    // Code block executed for each item
+  // Code block executed for each item
 }
 ```
 
@@ -26,7 +26,7 @@ While loop:
 ```typescript
 // Syntax for a while loop:
 while (condition) {
-    // Code block executed as long as the condition is true
+  // Code block executed as long as the condition is true
 }
 ```
 
@@ -45,13 +45,13 @@ let variableName = value;
 ```typescript
 // Syntax for defining a function with parameters and return type:
 function functionName(parameter1: dataType, parameter2: dataType): returnType {
-    // Code block defining the function's behavior
-    return result;
+  // Code block defining the function's behavior
+  return result;
 }
 
 // Example:
 function addNumbers(a: number, b: number): number {
-    return a + b;
+  return a + b;
 }
 ```
 
@@ -79,20 +79,20 @@ import fs from "fs";
 
 // Reading from a file (asynchronous):
 fs.readFile("filename.txt", "utf8", (err, data) => {
-    if (err) {
-        // Handle error
-    } else {
-        // Process the data
-    }
+  if (err) {
+    // Handle error
+  } else {
+    // Process the data
+  }
 });
 
 // Writing to a file (asynchronous):
 fs.writeFile("output.txt", "Hello, world!", "utf8", (err) => {
-    if (err) {
-        // Handle error
-    } else {
-        // File written successfully
-    }
+  if (err) {
+    // Handle error
+  } else {
+    // File written successfully
+  }
 });
 ```
 
@@ -102,14 +102,14 @@ fs.writeFile("output.txt", "Hello, world!", "utf8", (err) => {
 import axios from "axios";
 
 async function fetchData() {
-    const url = "https://api.example.com/data";
-    try {
-        const response = await axios.get(url);
-        const data = response.data;
-        // Process the data
-    } catch (error) {
-        // Handle error
-    }
+  const url = "https://api.example.com/data";
+  try {
+    const response = await axios.get(url);
+    const data = response.data;
+    // Process the data
+  } catch (error) {
+    // Handle error
+  }
 }
 ```
 
@@ -139,9 +139,9 @@ console.log(myArray); // Output: [1, 2, 10, 4, 5, 6]
 ```typescript
 // Creating an object:
 const myObject: { [key: string]: any } = {
-    name: "John",
-    age: 30,
-    city: "New York",
+  name: "John",
+  age: 30,
+  city: "New York",
 };
 
 // Accessing elements:

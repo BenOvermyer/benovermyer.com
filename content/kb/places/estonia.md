@@ -22,7 +22,7 @@ The legislative is the Riigikogu, or Parliament. It has 101 seats. As far as I c
 
 **The Estonian Centre Party:** Theoretically left-wing, but supports criminalization of drugs, opposes same-sex unions, and currently allies itself with the EKRE. I'm not sure exactly what they stand for.
 
-**Isamaa:** Christian-democratic, conservative party. Nationalistic. Allied with the EKRE. 
+**Isamaa:** Christian-democratic, conservative party. Nationalistic. Allied with the EKRE.
 
 **Social Democratic Party:** A member of the Party of European Socialists. Left-leaning. Allied with the Estonian Reform Party.
 

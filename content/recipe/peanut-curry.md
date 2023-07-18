@@ -1,19 +1,20 @@
 +++
 title = "Peanut Curry"
 +++
+
 # Ingredients
 
--   1 can Maesri panang curry paste
--   2 cans coconut milk
--   1.5 lbs chicken breast, cut into one-inch chunks
--   1 large green bell pepper, chopped
--   1/3 large white onion, chopped
--   2 tbsp crunchy peanut butter
--   1 cup crushed peanuts
--   1 tbsp olive oil
--   1 tbsp ground kaffir lime leaves
--   6-8 Thai chili peppers, chopped
--   sea salt
+- 1 can Maesri panang curry paste
+- 2 cans coconut milk
+- 1.5 lbs chicken breast, cut into one-inch chunks
+- 1 large green bell pepper, chopped
+- 1/3 large white onion, chopped
+- 2 tbsp crunchy peanut butter
+- 1 cup crushed peanuts
+- 1 tbsp olive oil
+- 1 tbsp ground kaffir lime leaves
+- 6-8 Thai chili peppers, chopped
+- sea salt
 
 # Directions
 

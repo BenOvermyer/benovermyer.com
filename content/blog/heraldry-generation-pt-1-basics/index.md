@@ -18,9 +18,9 @@ The second iteration, then, stripped out that library and went straight for raw 
 
 Heraldry adheres to certain rules. Coats of arms are basically like modern-day road signs; they exist to communicate clearly at a distance. So here are the rules I'm assuming for the generator:
 
-1.  If a charge is a metal, its field may not be primarily a metal, and likewise with colors.
-2.  Only fields and charges common to Continental heraldry in the era between the 10th and 16th centuries will be considered.
-3.  Tinctures will include colors, metals, and furs common for the era. English “stains” like _sanguine_ will not be included.
+1. If a charge is a metal, its field may not be primarily a metal, and likewise with colors.
+2. Only fields and charges common to Continental heraldry in the era between the 10th and 16th centuries will be considered.
+3. Tinctures will include colors, metals, and furs common for the era. English “stains” like _sanguine_ will not be included.
 
 I may modify this list later, but it's my guiding set right now.
 

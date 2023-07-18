@@ -1,6 +1,7 @@
 +++
 title = "Moroccan Cauliflower"
 +++
+
 ## Ingredients
 
 - 1 whole head of cauliflower, cut into florets

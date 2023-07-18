@@ -1,18 +1,19 @@
 +++
 title = "Som Tum"
 +++
+
 # Ingredients
 
--   1 clove garlic
--   1 or 2 red Thai bird's eye chilies
--   2 tablespoons dried shrimp
--   Palm sugar to taste
--   1/4 cup roasted peanuts
--   6 oz green papaya strands
--   6 cherry tomatoes I used grape tomatoes
--   1/3 cup long green beans cut into 1-inch lengths
--   Fresh lime juice to taste
--   Fish sauce to taste
+- 1 clove garlic
+- 1 or 2 red Thai bird's eye chilies
+- 2 tablespoons dried shrimp
+- Palm sugar to taste
+- 1/4 cup roasted peanuts
+- 6 oz green papaya strands
+- 6 cherry tomatoes I used grape tomatoes
+- 1/3 cup long green beans cut into 1-inch lengths
+- Fresh lime juice to taste
+- Fish sauce to taste
 
 # Instructions
 

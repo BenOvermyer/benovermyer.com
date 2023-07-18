@@ -8,9 +8,9 @@ Coming up in February I have a two-week trip to Thailand. I won't be coding duri
 
 Yet, I have been spooling up some projects for Iron Arachne. Here are some of the things I'll be doing this half of the year:
 
-*   Fixing a few bugs with the heraldry generator
-*   Writing a language description generator
-*   Expanding the Æther setting generator (under the Silver Gryphon Games banner)
+- Fixing a few bugs with the heraldry generator
+- Writing a language description generator
+- Expanding the Æther setting generator (under the Silver Gryphon Games banner)
 
 I plan on doing work to make publishing and discovering these generators easier. That means releasing several of them as Docker images on Docker Hub, among other things.
 

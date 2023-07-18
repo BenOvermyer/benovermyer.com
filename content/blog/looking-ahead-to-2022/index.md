@@ -4,7 +4,7 @@ description = "Thoughts, plans, and predictions for 2022"
 date = 2022-01-01
 +++
 
-2022 promises to be a year of big changes. We're moving to North Carolina sometime in the first quarter. I'm planning on leaning hard into biking and beach culture, which should have the side effect of helping me become fit again. I want to try surfing and snorkeling and other such things. 
+2022 promises to be a year of big changes. We're moving to North Carolina sometime in the first quarter. I'm planning on leaning hard into biking and beach culture, which should have the side effect of helping me become fit again. I want to try surfing and snorkeling and other such things.
 
 For Iron Arachne, I plan to work on enhancing existing generators over adding more. In particular, I want to make them more customizable and allow better export options. The culture, heraldry, and region generators will see the bulk of the changes here. I will probably try again to write a map generator to go with the region generator. Though I have yet to understand the math behind it, I keep trying. Eventually I'll get it.
 

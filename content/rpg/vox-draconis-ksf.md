@@ -7,11 +7,11 @@ This is the spiritual successor to _Vox Draconis_, a game I wrote when I was a t
 
 The guiding philosophies behind this game include the following:
 
--   There are no monsters, only perceptions
--   People are collections of past experiences and ancestries, and not cookie-cutter clichés
--   Complex math sucks
--   Choices are awesome
--   Stories give meaning to rules
+- There are no monsters, only perceptions
+- People are collections of past experiences and ancestries, and not cookie-cutter clichés
+- Complex math sucks
+- Choices are awesome
+- Stories give meaning to rules
 
 You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Stone and Fire PDF](https://files.benovermyer.com/rpgs/vox-draconis-ksf.pdf)
 

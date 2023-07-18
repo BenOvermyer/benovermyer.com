@@ -3,7 +3,7 @@ title = "An Eventful Few Months"
 date = 2021-10-27
 +++
 
-It's been an eventful few months. Since my last blog post back in August, I've had  Lasik surgery, had a house deal fall through, discovered a new hobby, rediscovered an old one,  and edged deeper into the Apple ecosystem. That's not even counting all the various developments in my professional life.
+It's been an eventful few months. Since my last blog post back in August, I've had Lasik surgery, had a house deal fall through, discovered a new hobby, rediscovered an old one, and edged deeper into the Apple ecosystem. That's not even counting all the various developments in my professional life.
 
 Lasik was expensive and the procedure was deeply uncomfortable, but worth it. For most of my life I've been near-blind without glasses. For the last month, though, I've had perfect vision. I still catch myself marveling at how awesome it is to have vision like this.
 

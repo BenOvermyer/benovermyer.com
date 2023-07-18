@@ -107,10 +107,10 @@ B.A., History, 2004 - 2007 (Degree Received)
 
 ### Activities and Societies
 
--   Phi Alpha Theta
--   Japanese Animation & Culture Society
--   Medieval Society
--   Students in Free Enterprise
+- Phi Alpha Theta
+- Japanese Animation & Culture Society
+- Medieval Society
+- Students in Free Enterprise
 
 ## Massey University
 
@@ -122,8 +122,8 @@ B.F.A., Digital Media, 2000 - 2002 (Incomplete)
 
 ### Activities and Societies
 
--   Anime & Gaming Organization: Dunedin
--   New Carthage
+- Anime & Gaming Organization: Dunedin
+- New Carthage
 
 ## Drexel University
 
@@ -131,4 +131,4 @@ B.S., Digital Media, 1999 - 2000 (Incomplete)
 
 ### Activities and Societies
 
--   Anime & Gaming Organization
+- Anime & Gaming Organization

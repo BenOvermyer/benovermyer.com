@@ -5,18 +5,18 @@ This was taken from [Food52](https://food52.com/recipes/83166-turmeric-chicken-r
 
 ## Ingredients
 
--   1 1/2 teaspoons ground turmeric
--   1 1/2 teaspoons smoked paprika
--   1/2 teaspoon red chili flakes
--   1 teaspoon kosher salt, plus more to taste
--   3 tablespoons extra-virgin olive oil, divided
--   1 tablespoon unsalted butter
--   1 1/2 pounds chicken thighs cut into bite-sized chunks
--   14 ounces cooked chickpeas (one can)
--   3/4 cup plain full-fat yogurt (regular or Greek)
--   1 lemon, cut in wedges, for serving
--   2 tablespoons finely chopped cilantro, for serving
--   4 pieces warm pita or flatbread, for serving, or 4 handfuls fresh greens and/or leafy herbs
+- 1 1/2 teaspoons ground turmeric
+- 1 1/2 teaspoons smoked paprika
+- 1/2 teaspoon red chili flakes
+- 1 teaspoon kosher salt, plus more to taste
+- 3 tablespoons extra-virgin olive oil, divided
+- 1 tablespoon unsalted butter
+- 1 1/2 pounds chicken thighs cut into bite-sized chunks
+- 14 ounces cooked chickpeas (one can)
+- 3/4 cup plain full-fat yogurt (regular or Greek)
+- 1 lemon, cut in wedges, for serving
+- 2 tablespoons finely chopped cilantro, for serving
+- 4 pieces warm pita or flatbread, for serving, or 4 handfuls fresh greens and/or leafy herbs
 
 ## Instructions
 

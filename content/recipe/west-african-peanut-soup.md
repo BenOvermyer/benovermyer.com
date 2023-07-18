@@ -1,18 +1,19 @@
 +++
 title = "West African Peanut Soup"
 +++
+
 # Ingredients
 
--   6 cups low sodium vegetable broth
--   1 medium red onion, chopped
--   2 tablespoons peeled and minced fresh ginger
--   4 cloves garlic, minced
--   1 teaspoon salt
--   1 bunch collard greens (or kale), ribs removed and leaves chopped into 1-inch strips
--   3/4 cup unsalted peanut butter
--   1/2 cup tomato paste
--   Sriracha
--   1/4 cup roughly chopped peanuts, for garnish
+- 6 cups low sodium vegetable broth
+- 1 medium red onion, chopped
+- 2 tablespoons peeled and minced fresh ginger
+- 4 cloves garlic, minced
+- 1 teaspoon salt
+- 1 bunch collard greens (or kale), ribs removed and leaves chopped into 1-inch strips
+- 3/4 cup unsalted peanut butter
+- 1/2 cup tomato paste
+- Sriracha
+- 1/4 cup roughly chopped peanuts, for garnish
 
 # Instructions
 

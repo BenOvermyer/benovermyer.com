@@ -12,13 +12,13 @@ I've moved away from the “eh, Kevin will deal with it” mindset and towards a
 
 Here are some specific actions I've taken or plan on taking to bring SGG back on track:
 
-*   Get atomic units of work onto our Trello kanban board
-*   Reignite efforts to have frequent, meaningful updates on our blog
-*   Review DriveThruRPG sales figures to plan marketing promotions and product schedules
-*   Get all of our files into one central place so everyone in the company has access to them
-*   Review the legal documents for the company to refresh my memory of the structure and obligations
-*   Review the company's financials to see if a cash injection is needed
-*   Plan out product schedules for the next 18 months
-*   Look at better, less generic WordPress themes for the SGG website
+- Get atomic units of work onto our Trello kanban board
+- Reignite efforts to have frequent, meaningful updates on our blog
+- Review DriveThruRPG sales figures to plan marketing promotions and product schedules
+- Get all of our files into one central place so everyone in the company has access to them
+- Review the legal documents for the company to refresh my memory of the structure and obligations
+- Review the company's financials to see if a cash injection is needed
+- Plan out product schedules for the next 18 months
+- Look at better, less generic WordPress themes for the SGG website
 
 The above is not an exhaustive list, but it's a start.

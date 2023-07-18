@@ -60,4 +60,3 @@ now rivers too, and the glow is less pronounced.
 
 All in all, I think it's a pretty impressive upgrade, though there's still a lot of work
 to be done. At some point I really want to figure out atmospheric scattering.
-

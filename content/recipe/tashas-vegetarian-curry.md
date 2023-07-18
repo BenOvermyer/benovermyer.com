@@ -1,33 +1,34 @@
 +++
 title = "Tasha's Coconut Vegetable Curry"
 +++
+
 # Ingredients
 
--   2 tbsp vegetable oil
--   8 green cardamom pods
--   2 1-inch pieces cinnamon stick
--   2 whole cloves
--   2 onions, thinly sliced
--   kosher salt
--   2 tbsp fresh ginger, grated
--   8 cloves garlic, minced
--   4 tsp ground coriander
--   3 tsp ground cumin
--   2 tsp Kashmiri chili powder OR hot paprika
--   1 tsp ground turmeric
--   2 tbsp fish sauce
--   1 tbsp Thai basil
--   1 tbsp lime juice
--   1 tbsp sherry vinegar
--   1 large can peeled tomatoes
--   2 13.5 oz cans coconut milk
--   1/2 lb. Yukon Gold potatoes
--   1 eggplant, cut into 1-inch chunks
--   2 cups cauliflower florets
--   4 Serrano chile peppers, sliced
--   1 cup halved green beans
--   basmati rice
--   chopped fresh cilantro
+- 2 tbsp vegetable oil
+- 8 green cardamom pods
+- 2 1-inch pieces cinnamon stick
+- 2 whole cloves
+- 2 onions, thinly sliced
+- kosher salt
+- 2 tbsp fresh ginger, grated
+- 8 cloves garlic, minced
+- 4 tsp ground coriander
+- 3 tsp ground cumin
+- 2 tsp Kashmiri chili powder OR hot paprika
+- 1 tsp ground turmeric
+- 2 tbsp fish sauce
+- 1 tbsp Thai basil
+- 1 tbsp lime juice
+- 1 tbsp sherry vinegar
+- 1 large can peeled tomatoes
+- 2 13.5 oz cans coconut milk
+- 1/2 lb. Yukon Gold potatoes
+- 1 eggplant, cut into 1-inch chunks
+- 2 cups cauliflower florets
+- 4 Serrano chile peppers, sliced
+- 1 cup halved green beans
+- basmati rice
+- chopped fresh cilantro
 
 # Instructions
 

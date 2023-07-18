@@ -1,16 +1,17 @@
 +++
 title = "Eggnog"
 +++
+
 # Ingredients
 
--   6 eggs
--   2 + 1/2 cups heavy whipping cream
--   2 cups whole milk
--   1 cup caster sugar
--   1/2 cup brandy
--   1/2 cup dark rum
--   1/2 teaspoon vanilla extract
--   1/2 teaspoon nutmeg, ground or grated (fresh is best)
+- 6 eggs
+- 2 + 1/2 cups heavy whipping cream
+- 2 cups whole milk
+- 1 cup caster sugar
+- 1/2 cup brandy
+- 1/2 cup dark rum
+- 1/2 teaspoon vanilla extract
+- 1/2 teaspoon nutmeg, ground or grated (fresh is best)
 
 # Instructions
 

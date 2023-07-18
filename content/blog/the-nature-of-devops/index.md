@@ -14,9 +14,9 @@ As I see it, you are a “DevOps engineer” if your focus is on improving the d
 
 If I were to describe the various related disciplines, I would do it like this:
 
-*   **System Administrator:** Infrastructure architect and maintainer. Ensures consistency of systems.
-*   **Automation Engineer:** Infrastructure streamliner. Automates frequently reproducible manual processes.
-*   **Site Reliability Engineer:** Application availability maintainer. Ensures availability of applications.
-*   **DevOps Engineer:** Developer user experience designer, application availability maintainer, and infrastructure architect. Does the job of system administrators, automation engineers, and site reliability engineers.
+- **System Administrator:** Infrastructure architect and maintainer. Ensures consistency of systems.
+- **Automation Engineer:** Infrastructure streamliner. Automates frequently reproducible manual processes.
+- **Site Reliability Engineer:** Application availability maintainer. Ensures availability of applications.
+- **DevOps Engineer:** Developer user experience designer, application availability maintainer, and infrastructure architect. Does the job of system administrators, automation engineers, and site reliability engineers.
 
 To put it another way: DevOps engineers are either high-demand generalists with a lot of experience, or miscategorized practitioners of one of the other three roles. There is some crossover between all four regardless, but the focus differs.

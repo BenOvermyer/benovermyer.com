@@ -4,7 +4,7 @@ date = 2007-11-12
 +++
 What follows is a completely unfiltered and unedited post on the subject of the nature of the Internet. This is the first part of an experiment I'm trying on what is popularly called “stream of consciousness” or “free writing.” Perhaps you will find something interesting and comment-worthy; perhaps not. Such is the nature of an experiment.
 
-* * *
+---
 
 A commentary on programming and the web.
 

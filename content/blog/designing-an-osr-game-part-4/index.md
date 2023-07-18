@@ -5,9 +5,9 @@ date = 2018-12-29
 
 Over a month has passed since I last posted about _Mysteries of a Broken World_. Much has changed since the last time I wrote about the game here. The last three posts in this series are below:
 
--   [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
--   [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2/index.md)
--   [Designing an OSR Game Part 3: Names, Backgrounds, and Playtests](@/blog/designing-an-osr-game-part-3/index.md)
+- [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
+- [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2/index.md)
+- [Designing an OSR Game Part 3: Names, Backgrounds, and Playtests](@/blog/designing-an-osr-game-part-3/index.md)
 
 The rules are much more solid now. As I mentioned before, you can view the current state of them here:
 

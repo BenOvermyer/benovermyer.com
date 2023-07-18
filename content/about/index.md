@@ -2,6 +2,7 @@
 title = "About"
 description = "About Ben Overmyer"
 +++
+
 # Contact Information
 
 You can get in touch with me in a variety of ways. Email is best.
@@ -36,10 +37,10 @@ I started my professional career as a developer, not a system administrator. Now
 
 **Myers-Briggs Type:** [ENFP](http://www.humanmetrics.com/personality/enfp)
 
-**Languages Spoken:** 
+**Languages Spoken:**
 
-* English (Native)
-* Japanese (Badly)
-* German (Badly)
-* Spanish (Badly)
-* also learning French, ish
+- English (Native)
+- Japanese (Badly)
+- German (Badly)
+- Spanish (Badly)
+- also learning French, ish

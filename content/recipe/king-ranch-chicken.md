@@ -1,23 +1,24 @@
 +++
 title = "King Ranch Chicken"
 +++
+
 # Ingredients
 
--   6 Tbsp butter
--   1/2 chopped yellow onion
--   3 garlic cloves, minced
--   1 Tbsp chili powder
--   1 Tbsp ground cumin
--   1 tsp kosher salt
--   freshly ground black pepper to taste
--   ¼ cup flour
--   1 (14.5 oz) can chicken broth
--   1 (4 oz) can diced green chilies
--   1 (10 oz) can diced tomatoes, drained
--   1 ½ cups light sour cream
--   3 cups cooked diced chicken
--   5 cups shredded cheese
--   21 corn tortillas, cut into halves
+- 6 Tbsp butter
+- 1/2 chopped yellow onion
+- 3 garlic cloves, minced
+- 1 Tbsp chili powder
+- 1 Tbsp ground cumin
+- 1 tsp kosher salt
+- freshly ground black pepper to taste
+- ¼ cup flour
+- 1 (14.5 oz) can chicken broth
+- 1 (4 oz) can diced green chilies
+- 1 (10 oz) can diced tomatoes, drained
+- 1 ½ cups light sour cream
+- 3 cups cooked diced chicken
+- 5 cups shredded cheese
+- 21 corn tortillas, cut into halves
 
 # Instructions
 

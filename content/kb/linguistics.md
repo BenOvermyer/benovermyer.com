@@ -40,7 +40,7 @@ Otherwise, everything can be represented more-or-less with standard English lett
 
 In morphology, lexeme and word-form are two separate but related concepts that define a "word." As an example:
 
-The lexeme *eat* contains the word-forms *eat*, *eats*, *eaten*, and *ate*. The lexemes *eat* and *eater* are different concepts - one is a verb and the other a noun.
+The lexeme _eat_ contains the word-forms _eat_, _eats_, _eaten_, and _ate_. The lexemes _eat_ and _eater_ are different concepts - one is a verb and the other a noun.
 
 ## Inflection vs. word formation
 

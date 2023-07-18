@@ -7,11 +7,11 @@ date = 2007-12-03
 
 Every day we are inundated with advertisements for Lose Weight Fast diets, exercise regimens, and miracle drugs. Almost all of these products require you to give up a portion of your day to Getting In Shape... or giving up things that you love, like tiramisu. People two hundred years ago didn't worry about such nonsense. People in other developed nations, like England, France, and New Zealand, don't worry about it either. So why are we obsessed with Diets, Exercise, and Drugs? It's all because America has shifted from a society of physical activity to one of mental activity. Now, this is not a bad thing in theory... but in practice, it's the root cause of our national obesity epidemic. So, here's how to get in shape, stay in shape, and actually enjoy it for once. This is targeted primarily towards cubicle zombies, but the philosophy applies to just about everyone. It's pretty easy. The steps are:
 
--   Ramp up the activity
--   Choose to avoid one luxury food a week
--   Make food your fuel, not your crutch
--   Play hard
--   Work with your body AND your mind
+- Ramp up the activity
+- Choose to avoid one luxury food a week
+- Make food your fuel, not your crutch
+- Play hard
+- Work with your body AND your mind
 
 # Ramp up the activity.
 

@@ -6,8 +6,8 @@ description = "Third in a series about a new OSR tabletop RPG"
 
 This is part three in a series of posts about designing a new OSR game. You can find the previous two here:
 
--   [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
--   [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2/index.md)
+- [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
+- [Designing an OSR Game Part 2: Freeholds and Fatality](@/blog/designing-an-osr-game-part-2/index.md)
 
 <img src="Mysteries-logo-small.png" alt="An image of the logo for Mysteries of a Broken World" class="photo" />
 
@@ -27,8 +27,8 @@ The method of rolling ability scores is firmly in the game now. They are as foll
 
 1. Roll 3d6 for each ability, in order.
 2. You may:
-    1. Swap two numbers once, OR
-    2. Re-roll all six numbers once
+   1. Swap two numbers once, OR
+   2. Re-roll all six numbers once
 
 This gives what I feel is an appropriate amount of randomness, while also offering a way out for awful sets.
 

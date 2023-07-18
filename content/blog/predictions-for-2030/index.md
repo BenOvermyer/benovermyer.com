@@ -48,6 +48,3 @@ with ten predictions for 2030. This is an extrapolation of that.
 9. My political views change as a result of world events.
 
 10. I buy a house.
-
-
-

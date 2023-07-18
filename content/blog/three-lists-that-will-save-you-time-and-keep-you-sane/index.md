@@ -14,24 +14,24 @@ To that end, here's a few lists of things to think about when you plan for the f
 
 One day every week (Sunday works for me), write down a list of three goals you want to accomplish over the next week. These goals don't have to be work-related; rather, they should be things that you really want to do. For example, my weekly list might read:
 
-*   Ride 5 miles on my bike (Biking)
-*   Draw 5 new illustrations for my game (Art)
-*   Complete a perfect back-spin kick (Taekwon-do)
+- Ride 5 miles on my bike (Biking)
+- Draw 5 new illustrations for my game (Art)
+- Complete a perfect back-spin kick (Taekwon-do)
 
 # Needs
 
 Your second priority (never, ever your first) should be to make a list of three goals you need to accomplish over the next week. This list is of things that need to get done, but that you don't necessarily enjoy. For example:
 
-*   Pay gas bill (Bills)
-*   Shovel sidewalk (Chores)
-*   Turn in P3 report (Work)
+- Pay gas bill (Bills)
+- Shovel sidewalk (Chores)
+- Turn in P3 report (Work)
 
 # Shoulds
 
 Finally, make a list of three goals to meet for the next week that you should accomplish. These can be just about anything. For me, the list might look like this:
 
-*   Find a good local dietician (Health)
-*   Finish my current novel (Reading)
-*   Spend half an hour learning about leadership (Education)
+- Find a good local dietician (Health)
+- Finish my current novel (Reading)
+- Spend half an hour learning about leadership (Education)
 
 Keep in mind that all of these things should only make up a PART of your time. The rest can and should be fluid, allowing for sudden shifts in schedule and just plain old relaxation. Personally, I try and incorporate some daily rituals into my life, but that's just what works for me. Experiment to see the best solution for you.

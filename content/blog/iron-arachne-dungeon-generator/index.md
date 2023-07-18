@@ -40,40 +40,40 @@ They can be used in any system that uses characters.
 I plan on adding all of the common "monster" species in the near future. This includes, but is not limited to,
 the following:
 
--   Bugbears
--   Centaurs
--   Dark elves
--   Deep dwarves (duergar)
--   Deep gnomes
--   Dragons (this one's difficult)
--   Dryads
--   Fairies
--   Firbolgs
--   Gnolls
--   Gorgons
--   Half-celestials (aasimar)
--   Half-elementals (genasi)
--   Hobgoblins
--   Kobolds
--   Lizardfolk
--   Mind flayers
--   Minotaurs
--   Nymphs
--   Ogres
--   Pixies
--   Satyrs
--   Sea elves
--   Serpentfolk (based on Yuan-ti)
--   Troglodytes
+- Bugbears
+- Centaurs
+- Dark elves
+- Deep dwarves (duergar)
+- Deep gnomes
+- Dragons (this one's difficult)
+- Dryads
+- Fairies
+- Firbolgs
+- Gnolls
+- Gorgons
+- Half-celestials (aasimar)
+- Half-elementals (genasi)
+- Hobgoblins
+- Kobolds
+- Lizardfolk
+- Mind flayers
+- Minotaurs
+- Nymphs
+- Ogres
+- Pixies
+- Satyrs
+- Sea elves
+- Serpentfolk (based on Yuan-ti)
+- Troglodytes
 
 In addition, there are currently a few "templates" that can be applied to both creatures and characters.
 Right now the list only consists of zombies, vampires, and skeletons. However, I plan on adding the following:
 
--   Ghost
--   Lich
--   Werebear
--   Weretiger
--   Werewolf
+- Ghost
+- Lich
+- Werebear
+- Weretiger
+- Werewolf
 
 Also, the list of creatures is going to expand too. Eventually there will be a great many monsters from
 a great many sources.

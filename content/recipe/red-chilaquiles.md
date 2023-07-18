@@ -1,31 +1,32 @@
 +++
 title = "Red Chilaquiles"
 +++
+
 # Ingredients
 
 ## Red Sauce
 
--   3 tablespoons flour
--   1 tablespoon chili powder
--   1 teaspoon cumin
--   ½ teaspoon garlic powder
--   ¼ teaspoon dried oregano
--   ¼ teaspoon sea salt, to taste
--   a pinch of cinnamon
--   3 tablespoons extra-virgin olive oil
--   2 tablespoons tomato paste
--   2 cups vegetable broth
--   2 tablespoons chopped fresh cilantro, plus additional for garnish
--   1 teaspoon apple cider vinegar
+- 3 tablespoons flour
+- 1 tablespoon chili powder
+- 1 teaspoon cumin
+- ½ teaspoon garlic powder
+- ¼ teaspoon dried oregano
+- ¼ teaspoon sea salt, to taste
+- a pinch of cinnamon
+- 3 tablespoons extra-virgin olive oil
+- 2 tablespoons tomato paste
+- 2 cups vegetable broth
+- 2 tablespoons chopped fresh cilantro, plus additional for garnish
+- 1 teaspoon apple cider vinegar
 
 ## Everything Else
 
--   5 big handfuls corn tortilla chips
--   ⅓ cup crumbled cotija
--   1 small handful chopped green onion
--   1 ripe avocado, thinly sliced
--   4 fried eggs
--   1 small lime, cut into wedges
+- 5 big handfuls corn tortilla chips
+- ⅓ cup crumbled cotija
+- 1 small handful chopped green onion
+- 1 ripe avocado, thinly sliced
+- 4 fried eggs
+- 1 small lime, cut into wedges
 
 # Instructions
 

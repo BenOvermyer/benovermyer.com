@@ -5,7 +5,7 @@ date = 2018-11-09
 
 This is part two of a series on a new Old School Renaissance tabletop role-playing game that I'm designing. You can read part one over here.
 
--   [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
+- [Designing a New OSR Game](@/blog/designing-a-new-osr-game/index.md)
 
 # Freeholds: Backdrop For Adventure
 

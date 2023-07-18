@@ -9,12 +9,12 @@ The recipe for the gravy is as follows.
 
 # Ingredients
 
--   2 lb. sage ground sausage
--   5 cups whole milk
--   8 tbsp butter
--   ¾ cup flour
--   a generous amount of black pepper
--   a less generous amount of salt
+- 2 lb. sage ground sausage
+- 5 cups whole milk
+- 8 tbsp butter
+- ¾ cup flour
+- a generous amount of black pepper
+- a less generous amount of salt
 
 # Instructions
 

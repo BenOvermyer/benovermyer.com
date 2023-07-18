@@ -80,9 +80,9 @@ This is by far my longest year-in-review post I've ever made. A ton happened in 
 
 Here's a list of all the year-in-review posts I've made. I have the strange sense that I've written more of these, but they're either lost to time, or in physical journals. I might have to try and find them if that's the case.
 
--   [2021](@/blog/2021-year-in-review/index.md)
--   [2020](@/blog/2020-year-in-review/index.md)
--   [2018](@/blog/2018-year-in-review/index.md)
--   [2016](@/blog/looking-back-on-2016-and-forward-to-2017/index.md)
--   [2015](@/blog/2015-year-in-review/index.md)
--   [2013](@/blog/2013-year-in-review/index.md)
+- [2021](@/blog/2021-year-in-review/index.md)
+- [2020](@/blog/2020-year-in-review/index.md)
+- [2018](@/blog/2018-year-in-review/index.md)
+- [2016](@/blog/looking-back-on-2016-and-forward-to-2017/index.md)
+- [2015](@/blog/2015-year-in-review/index.md)
+- [2013](@/blog/2013-year-in-review/index.md)

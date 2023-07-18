@@ -6,12 +6,12 @@ My employer is hosting an internal Node.js hackathon. I'm organizing it, but I'l
 
 # Things that I'll need to account for:
 
-1.  User authentication. I think I'll skip this entirely for the Hackathon, and just let users post anonymously.
-2.  Retrieving meta information. I'll need to automatically populate a datastore with information on other pages. Since I only need to worry about pages that have discussion on them, this can happen when the first comment is submitted for a given URL.
-3.  A rapid datastore. Commenting systems generate a lot of content very quickly, and speed is more important than integrity.
-4.  A real-time widget. The front end for this needs to be real-time, but gracefully so. Websockets are necessary.
-5.  Standard interactions. The widget needs to account for what are now standard interactions for commenting - replying to a previous comment, flagging a post as spam, upvoting, and downvoting.
-6.  A moderation back end. An admin interface, initially accessible without authentication, needs to let admins review posts held for moderation… and approve or deny them in real time. It also needs to let admins know if a particular page is missing meta tags. Again, websockets are necessary. Planned Components
+1. User authentication. I think I'll skip this entirely for the Hackathon, and just let users post anonymously.
+2. Retrieving meta information. I'll need to automatically populate a datastore with information on other pages. Since I only need to worry about pages that have discussion on them, this can happen when the first comment is submitted for a given URL.
+3. A rapid datastore. Commenting systems generate a lot of content very quickly, and speed is more important than integrity.
+4. A real-time widget. The front end for this needs to be real-time, but gracefully so. Websockets are necessary.
+5. Standard interactions. The widget needs to account for what are now standard interactions for commenting - replying to a previous comment, flagging a post as spam, upvoting, and downvoting.
+6. A moderation back end. An admin interface, initially accessible without authentication, needs to let admins review posts held for moderation… and approve or deny them in real time. It also needs to let admins know if a particular page is missing meta tags. Again, websockets are necessary. Planned Components
 
 # Datastore
 

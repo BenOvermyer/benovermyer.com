@@ -10,10 +10,10 @@ For this reason, every time I see someone who proudly declares that they belong 
 
 Here are a few action items for you to help improve the political climate of our country:
 
-*   Print and distribute flyers promoting nonpartisan discussion of an issue important to you.
-*   Start a discussion club at your local coffee house.
-*   Unregister yourself as a member of the political party you presently belong to.
-*   Pick one hot issue and start a blog about it. Discuss all possible repercussions it could have.
-*   Invite your family and friends to switch parties for a single month and give themselves wholeheartedly to the opposing lines of thought. Don't vote during this experiment though!
-*   Read one of Benjamin Franklin's works. There are many, and your local library will have at least one.
-*   Start a newsletter for your town that promotes nonpartisan exploration of issues.
+- Print and distribute flyers promoting nonpartisan discussion of an issue important to you.
+- Start a discussion club at your local coffee house.
+- Unregister yourself as a member of the political party you presently belong to.
+- Pick one hot issue and start a blog about it. Discuss all possible repercussions it could have.
+- Invite your family and friends to switch parties for a single month and give themselves wholeheartedly to the opposing lines of thought. Don't vote during this experiment though!
+- Read one of Benjamin Franklin's works. There are many, and your local library will have at least one.
+- Start a newsletter for your town that promotes nonpartisan exploration of issues.

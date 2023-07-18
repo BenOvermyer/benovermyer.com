@@ -1,19 +1,20 @@
 +++
 title = "Channa Masala"
 +++
+
 # Ingredients
 
--   1 tablespoon olive oil
--   1 large onion, chopped
--   3 garlic cloves, minced
--   two 16-ounce cans chickpeas, drained and rinsed
--   2 teaspoons garam masala
--   1/2 teaspoon turmeric
--   2 teaspoons grated fresh or jarred ginger
--   2 large tomatoes, diced
--   1 tablespoon lemon juice
--   1/4 cup minced fresh cilantro, or to taste
--   salt to taste
+- 1 tablespoon olive oil
+- 1 large onion, chopped
+- 3 garlic cloves, minced
+- two 16-ounce cans chickpeas, drained and rinsed
+- 2 teaspoons garam masala
+- 1/2 teaspoon turmeric
+- 2 teaspoons grated fresh or jarred ginger
+- 2 large tomatoes, diced
+- 1 tablespoon lemon juice
+- 1/4 cup minced fresh cilantro, or to taste
+- salt to taste
 
 # Instructions
 

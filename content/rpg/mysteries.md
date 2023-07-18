@@ -9,4 +9,4 @@ It's meant to be an OSR-inspired game set in a post-apocalyptic fantasy world. A
 
 Last updated: July 28th, 2022
 
--   [Mysteries of a Broken World](https://files.benovermyer.com/rpgs/mysteries-of-a-broken-world.pdf)
+- [Mysteries of a Broken World](https://files.benovermyer.com/rpgs/mysteries-of-a-broken-world.pdf)
