@@ -3,6 +3,8 @@ title = "Hrenovuha, the horseradish liquor"
 date = "2021-05-26"
 +++
 
+{{ dress_image(path="blog/hrenovuha/hrenovuha.jpg", alt="A photo of hrenovuha", caption="Hrenovuha, horseradish liquor") }}
+
 A few months ago I watched an episode of The Booze Traveller set in Siberia. The show's
 about a guy from Boston travelling the world and experiencing local, well, booze. In
 Siberia, he encountered something called _hrenovuha_, a liquor made from distilling horseradish.

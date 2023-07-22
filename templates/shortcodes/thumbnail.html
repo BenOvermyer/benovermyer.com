@@ -1,2 +1,2 @@
-{% set image = resize_image(path=path, width=150, height=150, op="fill") %}
+{% set image = resize_image(path=path, width=64, height=64, op="fill") %}
 <a href="{{ path }}"><img src="{{ image.url }}" {% if alt %}alt="{{ alt }}"{% endif %} class="thumbnail" /></a>

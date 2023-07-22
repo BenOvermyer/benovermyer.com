@@ -95,9 +95,26 @@ img.photo {
 
 img.thumbnail {
     display: inline-block;
-    padding: 0.5rem;
-    border: 1px solid #ccc;
-    margin: 0.5rem;
-    height: 150px;
-    width: 150px;
+    padding: 0.125rem;
+    border: 1px solid #eee;
+    margin: 0.125rem;
+    height: 64px;
+    width: 64px;
+}
+
+div.dress-image {
+    display: block;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 750px;
+    img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    div.caption {
+        font-size: 0.75rem;
+        font-style: italic;
+        text-align: center;
+    }
 }
