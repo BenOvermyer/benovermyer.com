@@ -20,6 +20,7 @@ I started doing this in 2019, so previous years are not included.
 9. _Uncompromising Honor_ by David Weber
 10. _Leviathan Wakes_ by James S.A. Corey
 11. _Kaiju Preservation Society_ by John Scalzi
+12. _The Fifth Season_ by N.K. Jemisin
 
 ## 2022
 
