@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Heraldry Generation Pt. 3: Animal Charges and Windows Builds by Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Heraldry Generation Pt. 3: Animal Charges and Windows Builds by Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Heraldry Generation Pt. 3: Animal Charges and Windows Builds
+</h1>
+<p class="blog-date">May  5, 2018</p>
+<div class="blog-content">
+<p>Since the last entry, I've made several changes to both the program logic and its features.</p>
+<p>The main change to the logic is in how charges are rendered. Instead of all of the SVG rendering code being in one file, now the more complex charges each have their own file. This was necessary, since the lines of text required for each complex charge (e.g., animals) is enormous. SVG files lay out pathways as a series of points, and with the large number of points involved in these shapes, the line count gets huge.</p>
+<p>The main feature update is that now I've added a handful of animal charges. I got the first four (dragon passant, fox passant, gryphon passant, and eagle displayed) from <a href="https://github.com/victorwestmann/Heraldry">an open source repository by Victor Westmann</a>. The fifth, the lion rampant, is from a vector stock set that I purchased from VectorStock and converted to SVG myself. This last one was an experiment to see if I could do translations myself. Future images will likely come from public domain images, since I don't fully trust the wording of the license VectorStock granted me.</p>
+<p>Here are some examples of the new charges:</p>
+<p><img src="/heraldry-pt-3/fox-device.svg" alt="Per bend sable and vert, a fox passant Or" /> <img src="/heraldry-pt-3/eagle-device.svg" alt="Per bend sinister purpure and sable, a eagle displayed argent" /> <img src="/heraldry-pt-3/gryphon-device.svg" alt="Per bend sinister argent and Or, a gryphon passant azure" /> <img src="/heraldry-pt-3/dragon-device.svg" alt="Per pale purpure and vert, a dragon passant argent" /> <img src="/heraldry-pt-3/lion-device.svg" alt="Per bend sinister gules and sable, a lion rampant Or" /></p>
+<p>Finally, the last update is that I'm now building macOS and Windows executables for the heraldry generator. You can find them here:</p>
+<p><a href="https://github.com/ironarachne/heraldry/releases">Heraldry Releases</a></p>
+
+</div>
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

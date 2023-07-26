@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="Notes on writing PHP">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="PHP from Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="Notes on writing PHP">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>PHP from Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	PHP
+</h1>
+
+<p><a href="https://www.php.net/docs.php">Official Documentation for PHP</a></p>
+<h2 id="loops">Loops</h2>
+<p>For loops:</p>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for iterating over a range of numbers:
+</span><span>for ($i = 0; $i &lt; 5; $i++) {
+</span><span>    // Code block executed for each iteration
+</span><span>}
+</span><span>
+</span><span>// Syntax for iterating over elements in an array or iterable:
+</span><span>for ($i = 0; $i &lt; count($array); $i++) {
+</span><span>    $item = $array[$i];
+</span><span>    // Code block executed for each element
+</span><span>}
+</span></code></pre>
+<p>While loops:</p>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for a while loop:
+</span><span>while ($condition) {
+</span><span>    // Code block executed as long as the condition is true
+</span><span>}
+</span></code></pre>
+<p>Foreach loops:</p>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for iterating over elements in an array with foreach:
+</span><span>foreach ($array as $item) {
+</span><span>    // Code block executed for each element
+</span><span>}
+</span></code></pre>
+<h2 id="variable-assignment">Variable Assignment</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for variable assignment:
+</span><span>$variableName = $value;
+</span></code></pre>
+<h2 id="functions">Functions</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for defining a function:
+</span><span>function functionName($parameter1, $parameter2) {
+</span><span>    // Code block defining the function&#39;s behavior
+</span><span>    return $result;
+</span><span>}
+</span></code></pre>
+<h2 id="string-interpolation">String Interpolation</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for string interpolation:
+</span><span>$variable = &#39;world&#39;;
+</span><span>$message = &quot;Hello, $variable!&quot;;
+</span><span>echo $message;  // Output: Hello, world!
+</span></code></pre>
+<h2 id="multiline-strings">Multiline Strings</h2>
+<p>Heredoc:</p>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for heredoc multiline strings:
+</span><span>$multilineString = &lt;&lt;&lt;</span><span style="color:#bf616a;">EOL
+</span><span style="color:#d08770;">This is a multiline string.
+</span><span style="color:#d08770;">It can span multiple lines.
+</span><span style="color:#d08770;">EOL;
+</span></code></pre>
+<p>Nowdoc, which doesn't interpolate variables:</p>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for nowdoc multiline strings:
+</span><span>$nowdocString = &lt;&lt;&lt;&#39;EOL&#39;
+</span><span>This is a nowdoc multiline string.
+</span><span>Variables are not interpolated here: $variable
+</span><span>EOL;
+</span></code></pre>
+<h2 id="file-i-o">File I/O</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Reading from a file:
+</span><span>$filename = &#39;filename.txt&#39;;
+</span><span>$content = file_get_contents($filename);
+</span><span>
+</span><span>// Writing to a file:
+</span><span>$outputFilename = &#39;output.txt&#39;;
+</span><span>$data = &#39;Hello, world!&#39;;
+</span><span>file_put_contents($outputFilename, $data);
+</span></code></pre>
+<h3 id="http-requests">HTTP Requests</h3>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Syntax for making an HTTP GET request:
+</span><span>$url = &#39;https://api.example.com/data&#39;;
+</span><span>$response = file_get_contents($url);
+</span><span>// Process the response data
+</span></code></pre>
+<h2 id="arrays">Arrays</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Creating an array:
+</span><span>$myArray = [1, 2, 3, 4, 5];
+</span><span>
+</span><span>// Accessing elements:
+</span><span>echo $myArray[0];  // Output: 1
+</span><span>
+</span><span>// Slicing:
+</span><span>print_r(array_slice($myArray, 1, 3));  // Output: Array ( [0] =&gt; 2 [1] =&gt; 3 [2] =&gt; 4 )
+</span><span>
+</span><span>// Modifying elements:
+</span><span>$myArray[2] = 10;
+</span><span>print_r($myArray);  // Output: Array ( [0] =&gt; 1 [1] =&gt; 2 [2] =&gt; 10 [3] =&gt; 4 [4] =&gt; 5 )
+</span><span>
+</span><span>// Appending elements:
+</span><span>$myArray[] = 6;
+</span><span>print_r($myArray);  // Output: Array ( [0] =&gt; 1 [1] =&gt; 2 [2] =&gt; 10 [3] =&gt; 4 [4] =&gt; 5 [5] =&gt; 6 )
+</span></code></pre>
+<h2 id="associative-arrays-dictionaries">Associative Arrays (Dictionaries)</h2>
+<pre data-lang="php" style="background-color:#2b303b;color:#c0c5ce;" class="language-php "><code class="language-php" data-lang="php"><span>// Creating an associative array:
+</span><span>$myAssocArray = array(
+</span><span>    &#39;name&#39; =&gt; &#39;John&#39;,
+</span><span>    &#39;age&#39; =&gt; 30,
+</span><span>    &#39;city&#39; =&gt; &#39;New York&#39;,
+</span><span>);
+</span><span>
+</span><span>// Accessing elements:
+</span><span>echo $myAssocArray[&#39;name&#39;];  // Output: John
+</span><span>
+</span><span>// Modifying elements:
+</span><span>$myAssocArray[&#39;age&#39;] = 35;
+</span><span>print_r($myAssocArray);  // Output: Array ( [name] =&gt; John [age] =&gt; 35 [city] =&gt; New York )
+</span><span>
+</span><span>// Adding new key-value pairs:
+</span><span>$myAssocArray[&#39;occupation&#39;] = &#39;Engineer&#39;;
+</span><span>print_r($myAssocArray);  // Output: Array ( [name] =&gt; John [age] =&gt; 35 [city] =&gt; New York [occupation] =&gt; Engineer )
+</span></code></pre>
+
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

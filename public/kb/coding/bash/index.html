@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="Notes on writing Bash">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Bash from Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="Notes on writing Bash">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Bash from Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Bash
+</h1>
+
+<p><a href="https://www.gnu.org/software/bash/manual/">Official Documentation for Bash</a></p>
+<h2 id="loops">Loops</h2>
+<p>For loops:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for iterating over a range of numbers:
+</span><span style="color:#b48ead;">for </span><span>((i = </span><span style="color:#d08770;">0</span><span>; i &lt; </span><span style="color:#d08770;">5</span><span>; i++)); </span><span style="color:#b48ead;">do
+</span><span>    </span><span style="color:#65737e;"># Code block executed for each iteration
+</span><span style="color:#b48ead;">done
+</span><span>
+</span><span style="color:#65737e;"># Syntax for iterating over elements in an array:
+</span><span style="color:#bf616a;">array</span><span>=(&quot;</span><span style="color:#a3be8c;">apple</span><span>&quot; &quot;</span><span style="color:#a3be8c;">banana</span><span>&quot; &quot;</span><span style="color:#a3be8c;">cherry</span><span>&quot;)
+</span><span style="color:#b48ead;">for</span><span> item </span><span style="color:#b48ead;">in </span><span>&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">array[@]</span><span style="color:#a3be8c;">}</span><span>&quot;; </span><span style="color:#b48ead;">do
+</span><span>    </span><span style="color:#65737e;"># Code block executed for each element
+</span><span style="color:#b48ead;">done
+</span></code></pre>
+<p>While loops:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for a while loop:
+</span><span style="color:#bf616a;">counter</span><span>=</span><span style="color:#a3be8c;">0
+</span><span style="color:#b48ead;">while </span><span style="color:#96b5b4;">[ </span><span>$</span><span style="color:#bf616a;">counter -lt</span><span> 5 </span><span style="color:#96b5b4;">]</span><span>; </span><span style="color:#b48ead;">do
+</span><span>    </span><span style="color:#65737e;"># Code block executed as long as the condition is true
+</span><span>    ((counter++))
+</span><span style="color:#b48ead;">done
+</span></code></pre>
+<h2 id="variable-assignment">Variable Assignment</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for variable assignment:
+</span><span style="color:#bf616a;">variableName</span><span>=</span><span style="color:#a3be8c;">value
+</span></code></pre>
+<h2 id="functions">Functions</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for defining a function:
+</span><span style="color:#8fa1b3;">functionName</span><span>() {
+</span><span>    </span><span style="color:#65737e;"># Code block defining the function&#39;s behavior
+</span><span>    </span><span style="color:#65737e;"># $1, $2, etc. represent function arguments
+</span><span>    </span><span style="color:#b48ead;">return </span><span>$</span><span style="color:#bf616a;">result
+</span><span>}
+</span></code></pre>
+<h2 id="string-interpolation">String Interpolation</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for string interpolation:
+</span><span style="color:#bf616a;">variable</span><span>=&quot;</span><span style="color:#a3be8c;">world</span><span>&quot;
+</span><span style="color:#bf616a;">message</span><span>=&quot;</span><span style="color:#a3be8c;">Hello, </span><span>$</span><span style="color:#bf616a;">variable</span><span style="color:#a3be8c;">!</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">message</span><span>&quot;  </span><span style="color:#65737e;"># Output: Hello, world!
+</span></code></pre>
+<h2 id="multiline-strings">Multiline Strings</h2>
+<p>Using escape characters:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for multiline strings using escape characters:
+</span><span style="color:#bf616a;">multilineString</span><span>=&quot;</span><span style="color:#a3be8c;">This is a multiline string. </span><span style="color:#96b5b4;">\
+</span><span style="color:#a3be8c;">It can span multiple lines.</span><span>&quot;
+</span></code></pre>
+<p>Using heredoc:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for multiline strings using a here document:
+</span><span style="color:#bf616a;">cat </span><span>&lt;&lt;</span><span style="color:#b48ead;">EOL
+</span><span style="color:#a3be8c;">This is a multiline string.
+</span><span style="color:#a3be8c;">It can span multiple lines.
+</span><span style="color:#b48ead;">EOL
+</span></code></pre>
+<h2 id="file-i-o">File I/O</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Reading from a file:
+</span><span style="color:#bf616a;">filename</span><span>=&quot;</span><span style="color:#a3be8c;">filename.txt</span><span>&quot;
+</span><span style="color:#bf616a;">content</span><span>=$</span><span style="color:#a3be8c;">(</span><span>&lt;&quot;$</span><span style="color:#bf616a;">filename</span><span>&quot;</span><span style="color:#a3be8c;">)
+</span><span>
+</span><span style="color:#65737e;"># Writing to a file:
+</span><span style="color:#bf616a;">outputFilename</span><span>=&quot;</span><span style="color:#a3be8c;">output.txt</span><span>&quot;
+</span><span style="color:#bf616a;">data</span><span>=&quot;</span><span style="color:#a3be8c;">Hello, world!</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">data</span><span>&quot; &gt; &quot;$</span><span style="color:#bf616a;">outputFilename</span><span>&quot;
+</span></code></pre>
+<h2 id="http-requests">HTTP Requests</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Syntax for making an HTTP GET request with curl:
+</span><span style="color:#bf616a;">url</span><span>=&quot;</span><span style="color:#a3be8c;">https://api.example.com/data</span><span>&quot;
+</span><span style="color:#bf616a;">response</span><span>=$</span><span style="color:#a3be8c;">(</span><span style="color:#bf616a;">curl -s </span><span>&quot;$</span><span style="color:#bf616a;">url</span><span>&quot;</span><span style="color:#a3be8c;">)
+</span><span style="color:#65737e;"># Process the response data
+</span></code></pre>
+<h2 id="faking-arrays-in-bash">Faking Arrays in Bash</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Creating an array-like list using a space-separated string:
+</span><span style="color:#bf616a;">myArray</span><span>=&quot;</span><span style="color:#a3be8c;">1 2 3 4 5</span><span>&quot;
+</span><span>
+</span><span style="color:#65737e;"># Accessing elements:
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">myArray[</span><span style="color:#d08770;">0</span><span style="color:#bf616a;">]</span><span style="color:#a3be8c;">}</span><span>&quot;  </span><span style="color:#65737e;"># Output: 1
+</span><span>
+</span><span style="color:#65737e;"># Slicing (requires splitting the string):
+</span><span style="color:#bf616a;">slicedArray</span><span>=($</span><span style="color:#bf616a;">myArray</span><span>)
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">slicedArray[@]</span><span>:</span><span style="color:#d08770;">1</span><span>:</span><span style="color:#d08770;">3</span><span style="color:#a3be8c;">}</span><span>&quot;  </span><span style="color:#65737e;"># Output: 2 3 4
+</span><span>
+</span><span style="color:#65737e;"># Modifying elements (requires updating the string):
+</span><span style="color:#bf616a;">myArray</span><span>=&quot;</span><span style="color:#a3be8c;">1 2 10 4 5</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">myArray</span><span>&quot;  </span><span style="color:#65737e;"># Output: 1 2 10 4 5
+</span><span>
+</span><span style="color:#65737e;"># Appending elements (requires concatenating the string):
+</span><span style="color:#bf616a;">myArray</span><span>+=&quot;</span><span style="color:#a3be8c;"> 6</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">myArray</span><span>&quot;  </span><span style="color:#65737e;"># Output: 1 2 10 4 5 6
+</span></code></pre>
+<h2 id="dictionaries">Dictionaries</h2>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># Creating an associative array using space-separated key-value pairs:
+</span><span style="color:#bf616a;">myAssocArray</span><span>=&quot;</span><span style="color:#a3be8c;">name=John age=30 city=New York</span><span>&quot;
+</span><span>
+</span><span style="color:#65737e;"># Accessing elements (requires parsing the key-value pairs):
+</span><span style="color:#b48ead;">for</span><span> item </span><span style="color:#b48ead;">in </span><span>$</span><span style="color:#bf616a;">myAssocArray</span><span>; </span><span style="color:#b48ead;">do
+</span><span>    </span><span style="color:#bf616a;">key</span><span>=&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">item</span><span>%</span><span style="color:#a3be8c;">=</span><span>*</span><span style="color:#a3be8c;">}</span><span>&quot;
+</span><span>    </span><span style="color:#bf616a;">value</span><span>=&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">item</span><span>#*</span><span style="color:#a3be8c;">=}</span><span>&quot;
+</span><span>    </span><span style="color:#b48ead;">if </span><span style="color:#96b5b4;">[[ </span><span>&quot;$</span><span style="color:#bf616a;">key</span><span>&quot; == &quot;</span><span style="color:#a3be8c;">name</span><span>&quot; </span><span style="color:#96b5b4;">]]</span><span>; </span><span style="color:#b48ead;">then
+</span><span>        </span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">value</span><span>&quot;  </span><span style="color:#65737e;"># Output: John
+</span><span>    </span><span style="color:#b48ead;">fi
+</span><span style="color:#b48ead;">done
+</span><span>
+</span><span style="color:#65737e;"># Modifying elements (requires updating the key-value pairs):
+</span><span style="color:#bf616a;">myAssocArray</span><span>=&quot;</span><span style="color:#a3be8c;">name=John age=35 city=New York</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">myAssocArray</span><span>&quot;  </span><span style="color:#65737e;"># Output: name=John age=35 city=New York
+</span><span>
+</span><span style="color:#65737e;"># Adding new key-value pairs (requires appending to the string):
+</span><span style="color:#bf616a;">myAssocArray</span><span>+=&quot;</span><span style="color:#a3be8c;"> occupation=Engineer</span><span>&quot;
+</span><span style="color:#96b5b4;">echo </span><span>&quot;$</span><span style="color:#bf616a;">myAssocArray</span><span>&quot;  </span><span style="color:#65737e;"># Output: name=John age=35 city=New York occupation=Engineer
+</span></code></pre>
+
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="A look at what&#x27;s new in Iron Arachne as of May, 2019">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Updates to Iron Arachne: The World API and more by Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="A look at what&#x27;s new in Iron Arachne as of May, 2019">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Updates to Iron Arachne: The World API and more by Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Updates to Iron Arachne: The World API and more
+</h1>
+<p class="blog-date">May 12, 2019</p>
+<div class="blog-content">
+<p>It's been awhile since I blogged about <a href="https://ironarachne.com">Iron Arachne</a>. Much has changed since then.</p>
+<p>The various disparate APIs have been collapsed into a single &quot;<a href="https://github.com/ironarachne/world">World API</a>.&quot; This makes it much easier to change, which means I can iterate faster and release more frequently. Also, the front-facing website is no longer a static JavaScript-powered site, but rather a full Laravel application. This lets me do a few clever things which I'll get into later.</p>
+<p>The culture generator has added appearance generation. Skin colors, hair colors, face shapes, and so forth add to the depth of the output.</p>
+<p>The region generator has dramatically improved economic traits. The trade goods are derived from the skill of the local artisans, the local agriculture, and the local available raw materials now. They also take into account the culture of the town.</p>
+<p>Deities created by the pantheon generator now adhere to the culture the religion is from. Also, there are subtle improvements to how deities' domains are generated. No longer will multiple gods have the same domain.</p>
+<p>The heraldry generator has had a few tweaks, too, though no new fields or charges have been added. Because the app was rewritten in Laravel, I now make use of caching via Redis to deliver consistent images and blazons. For example, here's one I quite like:</p>
+<p><img src="https://www.benovermyer.com/blog/updates-to-iron-arachne-the-world-api-and-more/eagles-head-erased.svg" alt="" /></p>
+<blockquote>
+<p>Per saltire azure and argent, a lion's head erased Or</p>
+</blockquote>
+<p>Some of the groundwork has been laid for organizing regions into countries. This is a step into a more difficult part of the world generator, since now I need to take into account location relative to other locations. Inevitably, I'll need to create a map generator. But that's a story for another day.</p>
+
+</div>
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

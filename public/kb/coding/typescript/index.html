@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="Notes on writing TypeScript">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="TypeScript from Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="Notes on writing TypeScript">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>TypeScript from Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	TypeScript
+</h1>
+
+<p><a href="https://www.typescriptlang.org/docs/">Official Documentation for TypeScript</a></p>
+<h2 id="loops">Loops</h2>
+<p>For loop:</p>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Syntax for iterating over elements in an array:
+</span><span style="color:#b48ead;">for </span><span>(</span><span style="color:#b48ead;">let </span><span style="color:#bf616a;">i </span><span>= </span><span style="color:#d08770;">0</span><span>; </span><span style="color:#bf616a;">i </span><span>&lt; </span><span style="color:#bf616a;">array</span><span>.length; </span><span style="color:#bf616a;">i</span><span>++) {
+</span><span>  </span><span style="color:#65737e;">// Code block executed for each element
+</span><span>}
+</span><span>
+</span><span style="color:#65737e;">// Syntax for iterating over elements in an iterable object (e.g., array, string):
+</span><span style="color:#b48ead;">for </span><span>(</span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">item </span><span>of </span><span style="color:#bf616a;">iterable</span><span>) {
+</span><span>  </span><span style="color:#65737e;">// Code block executed for each item
+</span><span>}
+</span></code></pre>
+<p>While loop:</p>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Syntax for a while loop:
+</span><span style="color:#b48ead;">while </span><span>(</span><span style="color:#bf616a;">condition</span><span>) {
+</span><span>  </span><span style="color:#65737e;">// Code block executed as long as the condition is true
+</span><span>}
+</span></code></pre>
+<h2 id="variable-assignment">Variable Assignment</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Syntax for variable assignment (explicit type):
+</span><span style="color:#b48ead;">let </span><span style="color:#bf616a;">variableName</span><span>: dataType = </span><span style="color:#bf616a;">value</span><span>;
+</span><span>
+</span><span style="color:#65737e;">// Syntax for variable assignment (type inference):
+</span><span style="color:#b48ead;">let </span><span style="color:#bf616a;">variableName </span><span>= </span><span style="color:#bf616a;">value</span><span>;
+</span></code></pre>
+<h2 id="functions">Functions</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Syntax for defining a function with parameters and return type:
+</span><span style="color:#b48ead;">function </span><span style="color:#8fa1b3;">functionName</span><span>(</span><span style="color:#bf616a;">parameter1</span><span>: dataType, </span><span style="color:#bf616a;">parameter2</span><span>: dataType): returnType {
+</span><span>  </span><span style="color:#65737e;">// Code block defining the function&#39;s behavior
+</span><span>  </span><span style="color:#b48ead;">return </span><span style="color:#bf616a;">result</span><span>;
+</span><span>}
+</span><span>
+</span><span style="color:#65737e;">// Example:
+</span><span style="color:#b48ead;">function </span><span style="color:#8fa1b3;">addNumbers</span><span>(</span><span style="color:#bf616a;">a</span><span>: number, </span><span style="color:#bf616a;">b</span><span>: number): number {
+</span><span>  </span><span style="color:#b48ead;">return </span><span style="color:#bf616a;">a </span><span>+ </span><span style="color:#bf616a;">b</span><span>;
+</span><span>}
+</span></code></pre>
+<h2 id="string-interpolation">String Interpolation</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#b48ead;">const </span><span style="color:#bf616a;">variable </span><span>= &quot;</span><span style="color:#a3be8c;">world</span><span>&quot;;
+</span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">message </span><span>= `</span><span style="color:#a3be8c;">Hello, ${</span><span style="color:#bf616a;">variable</span><span style="color:#a3be8c;">}!</span><span>`;
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">message</span><span>); </span><span style="color:#65737e;">// Output: Hello, world!
+</span></code></pre>
+<h2 id="multiline-strings">Multiline Strings</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#b48ead;">const </span><span style="color:#bf616a;">multilineString </span><span>= `
+</span><span style="color:#a3be8c;">This is a multiline string.
+</span><span style="color:#a3be8c;">It can span multiple lines.
+</span><span>`;
+</span></code></pre>
+<h2 id="file-i-o">File I/O</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#b48ead;">import </span><span style="color:#bf616a;">fs </span><span style="color:#b48ead;">from </span><span>&quot;</span><span style="color:#a3be8c;">fs</span><span>&quot;;
+</span><span>
+</span><span style="color:#65737e;">// Reading from a file (asynchronous):
+</span><span style="color:#bf616a;">fs</span><span>.</span><span style="color:#8fa1b3;">readFile</span><span>(&quot;</span><span style="color:#a3be8c;">filename.txt</span><span>&quot;, &quot;</span><span style="color:#a3be8c;">utf8</span><span>&quot;, (</span><span style="color:#bf616a;">err</span><span>, </span><span style="color:#bf616a;">data</span><span>) </span><span style="color:#b48ead;">=&gt; </span><span>{
+</span><span>  </span><span style="color:#b48ead;">if </span><span>(</span><span style="color:#bf616a;">err</span><span>) {
+</span><span>    </span><span style="color:#65737e;">// Handle error
+</span><span>  } </span><span style="color:#b48ead;">else </span><span>{
+</span><span>    </span><span style="color:#65737e;">// Process the data
+</span><span>  }
+</span><span>});
+</span><span>
+</span><span style="color:#65737e;">// Writing to a file (asynchronous):
+</span><span style="color:#bf616a;">fs</span><span>.</span><span style="color:#8fa1b3;">writeFile</span><span>(&quot;</span><span style="color:#a3be8c;">output.txt</span><span>&quot;, &quot;</span><span style="color:#a3be8c;">Hello, world!</span><span>&quot;, &quot;</span><span style="color:#a3be8c;">utf8</span><span>&quot;, (</span><span style="color:#bf616a;">err</span><span>) </span><span style="color:#b48ead;">=&gt; </span><span>{
+</span><span>  </span><span style="color:#b48ead;">if </span><span>(</span><span style="color:#bf616a;">err</span><span>) {
+</span><span>    </span><span style="color:#65737e;">// Handle error
+</span><span>  } </span><span style="color:#b48ead;">else </span><span>{
+</span><span>    </span><span style="color:#65737e;">// File written successfully
+</span><span>  }
+</span><span>});
+</span></code></pre>
+<h2 id="http-requests">HTTP Requests</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#b48ead;">import </span><span style="color:#bf616a;">axios </span><span style="color:#b48ead;">from </span><span>&quot;</span><span style="color:#a3be8c;">axios</span><span>&quot;;
+</span><span>
+</span><span style="color:#b48ead;">async function </span><span style="color:#8fa1b3;">fetchData</span><span>() {
+</span><span>  </span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">url </span><span>= &quot;</span><span style="color:#a3be8c;">https://api.example.com/data</span><span>&quot;;
+</span><span>  </span><span style="color:#b48ead;">try </span><span>{
+</span><span>    </span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">response </span><span>= </span><span style="color:#b48ead;">await </span><span style="color:#bf616a;">axios</span><span>.</span><span style="color:#96b5b4;">get</span><span>(</span><span style="color:#bf616a;">url</span><span>);
+</span><span>    </span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">data </span><span>= </span><span style="color:#bf616a;">response</span><span>.data;
+</span><span>    </span><span style="color:#65737e;">// Process the data
+</span><span>  } </span><span style="color:#b48ead;">catch </span><span>(</span><span style="color:#bf616a;">error</span><span>) {
+</span><span>    </span><span style="color:#65737e;">// Handle error
+</span><span>  }
+</span><span>}
+</span></code></pre>
+<h2 id="arrays">Arrays</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Creating an array:
+</span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">myArray</span><span>: number[] = [</span><span style="color:#d08770;">1</span><span>, </span><span style="color:#d08770;">2</span><span>, </span><span style="color:#d08770;">3</span><span>, </span><span style="color:#d08770;">4</span><span>, </span><span style="color:#d08770;">5</span><span>];
+</span><span>
+</span><span style="color:#65737e;">// Accessing elements:
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myArray</span><span>[</span><span style="color:#d08770;">0</span><span>]); </span><span style="color:#65737e;">// Output: 1
+</span><span>
+</span><span style="color:#65737e;">// Slicing:
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myArray</span><span>.</span><span style="color:#96b5b4;">slice</span><span>(</span><span style="color:#d08770;">1</span><span>, </span><span style="color:#d08770;">4</span><span>)); </span><span style="color:#65737e;">// Output: [2, 3, 4]
+</span><span>
+</span><span style="color:#65737e;">// Modifying elements:
+</span><span style="color:#bf616a;">myArray</span><span>[</span><span style="color:#d08770;">2</span><span>] = </span><span style="color:#d08770;">10</span><span>;
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myArray</span><span>); </span><span style="color:#65737e;">// Output: [1, 2, 10, 4, 5]
+</span><span>
+</span><span style="color:#65737e;">// Appending elements:
+</span><span style="color:#bf616a;">myArray</span><span>.</span><span style="color:#96b5b4;">push</span><span>(</span><span style="color:#d08770;">6</span><span>);
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myArray</span><span>); </span><span style="color:#65737e;">// Output: [1, 2, 10, 4, 5, 6]
+</span></code></pre>
+<h2 id="objects">Objects</h2>
+<pre data-lang="typescript" style="background-color:#2b303b;color:#c0c5ce;" class="language-typescript "><code class="language-typescript" data-lang="typescript"><span style="color:#65737e;">// Creating an object:
+</span><span style="color:#b48ead;">const </span><span style="color:#bf616a;">myObject</span><span>: { [</span><span style="color:#bf616a;">key</span><span>: string]: any } = {
+</span><span>  name: &quot;</span><span style="color:#a3be8c;">John</span><span>&quot;,
+</span><span>  age: </span><span style="color:#d08770;">30</span><span>,
+</span><span>  city: &quot;</span><span style="color:#a3be8c;">New York</span><span>&quot;,
+</span><span>};
+</span><span>
+</span><span style="color:#65737e;">// Accessing elements:
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myObject</span><span>[&quot;</span><span style="color:#a3be8c;">name</span><span>&quot;]); </span><span style="color:#65737e;">// Output: John
+</span><span>
+</span><span style="color:#65737e;">// Modifying elements:
+</span><span style="color:#bf616a;">myObject</span><span>[&quot;</span><span style="color:#a3be8c;">age</span><span>&quot;] = </span><span style="color:#d08770;">35</span><span>;
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myObject</span><span>); </span><span style="color:#65737e;">// Output: { name: &#39;John&#39;, age: 35, city: &#39;New York&#39; }
+</span><span>
+</span><span style="color:#65737e;">// Adding new key-value pairs:
+</span><span style="color:#bf616a;">myObject</span><span>[&quot;</span><span style="color:#a3be8c;">occupation</span><span>&quot;] = &quot;</span><span style="color:#a3be8c;">Engineer</span><span>&quot;;
+</span><span style="color:#ebcb8b;">console</span><span>.</span><span style="color:#96b5b4;">log</span><span>(</span><span style="color:#bf616a;">myObject</span><span>); </span><span style="color:#65737e;">// Output: { name: &#39;John&#39;, age: 35, city: &#39;New York&#39;, occupation: &#39;Engineer&#39; }
+</span></code></pre>
+
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

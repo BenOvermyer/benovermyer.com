@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="Notes on writing Perl">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Perl from Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="Notes on writing Perl">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Perl from Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Perl
+</h1>
+
+<p><a href="https://perldoc.perl.org/">Official Documentation for Perl</a></p>
+<h2 id="loops">Loops</h2>
+<p>For loops:</p>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for iterating over a range of numbers:
+</span><span style="color:#b48ead;">for </span><span>(</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">i </span><span>= </span><span style="color:#d08770;">0</span><span>; $</span><span style="color:#bf616a;">i </span><span>&lt; </span><span style="color:#d08770;">5</span><span>; $</span><span style="color:#bf616a;">i</span><span>++) {
+</span><span>    </span><span style="color:#65737e;"># Code block executed for each iteration
+</span><span>}
+</span><span>
+</span><span style="color:#65737e;"># Syntax for iterating over elements in an array or list:
+</span><span style="color:#b48ead;">my </span><span>@</span><span style="color:#bf616a;">array </span><span>= (</span><span style="color:#d08770;">1</span><span>, </span><span style="color:#d08770;">2</span><span>, </span><span style="color:#d08770;">3</span><span>, </span><span style="color:#d08770;">4</span><span>, </span><span style="color:#d08770;">5</span><span>);
+</span><span style="color:#b48ead;">foreach my </span><span>$</span><span style="color:#bf616a;">item </span><span>(@</span><span style="color:#bf616a;">array</span><span>) {
+</span><span>    </span><span style="color:#65737e;"># Code block executed for each element
+</span><span>}
+</span></code></pre>
+<p>While loops:</p>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for a while loop:
+</span><span style="color:#b48ead;">while </span><span>($</span><span style="color:#bf616a;">condition</span><span>) {
+</span><span>    </span><span style="color:#65737e;"># Code block executed as long as the condition is true
+</span><span>}
+</span></code></pre>
+<h2 id="variable-assignment">Variable Assignment</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for variable assignment:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">variableName </span><span>= $</span><span style="color:#bf616a;">value</span><span>;
+</span></code></pre>
+<h2 id="functions">Functions</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for defining a subroutine:
+</span><span style="color:#b48ead;">sub </span><span style="color:#8fa1b3;">subroutineName </span><span>{
+</span><span>    </span><span style="color:#65737e;"># Code block defining the subroutine&#39;s behavior
+</span><span>    </span><span style="color:#b48ead;">return </span><span>$</span><span style="color:#bf616a;">result</span><span>;
+</span><span>}
+</span></code></pre>
+<h2 id="string-interpolation">String Interpolation</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for string interpolation:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">variable </span><span>= &#39;</span><span style="color:#a3be8c;">world</span><span>&#39;;
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">message </span><span>= &quot;</span><span style="color:#a3be8c;">Hello, </span><span>$</span><span style="color:#bf616a;">variable</span><span style="color:#a3be8c;">!</span><span>&quot;;
+</span><span style="color:#96b5b4;">print </span><span>$</span><span style="color:#bf616a;">message</span><span>;  </span><span style="color:#65737e;"># Output: Hello, world!
+</span></code></pre>
+<h2 id="multiline-strings">Multiline Strings</h2>
+<p>Heredoc:</p>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Syntax for heredoc multiline strings:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">multilineString </span><span>= &lt;&lt;</span><span style="color:#bf616a;">EOL</span><span>;
+</span><span style="color:#a3be8c;">This is a multiline string.
+</span><span style="color:#a3be8c;">It can span multiple lines.
+</span><span style="color:#bf616a;">EOL
+</span></code></pre>
+<p>Simple concatenation:</p>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Using simple concatenation for multiline strings:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">multilineString </span><span>= &quot;</span><span style="color:#a3be8c;">This is a multiline string. </span><span>&quot; .
+</span><span>                      &quot;</span><span style="color:#a3be8c;">It can span multiple lines.</span><span>&quot;;
+</span></code></pre>
+<h2 id="file-i-o">File I/O</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Reading from a file:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">filename </span><span>= &#39;</span><span style="color:#a3be8c;">filename.txt</span><span>&#39;;
+</span><span style="color:#96b5b4;">open</span><span>(</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">file</span><span>, &#39;</span><span style="color:#a3be8c;">&lt;</span><span>&#39;, $</span><span style="color:#bf616a;">filename</span><span>) or </span><span style="color:#b48ead;">die </span><span>&quot;</span><span style="color:#a3be8c;">Could not open file: </span><span>$</span><span style="color:#bf616a;">!</span><span>&quot;;
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">content </span><span>= </span><span style="color:#b48ead;">do </span><span>{ </span><span style="color:#b48ead;">local </span><span>$</span><span style="color:#bf616a;">/</span><span>; &lt;$</span><span style="color:#bf616a;">file</span><span>&gt; };
+</span><span style="color:#96b5b4;">close</span><span>($</span><span style="color:#bf616a;">file</span><span>);
+</span><span>
+</span><span style="color:#65737e;"># Writing to a file:
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">outputFilename </span><span>= &#39;</span><span style="color:#a3be8c;">output.txt</span><span>&#39;;
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">data </span><span>= &#39;</span><span style="color:#a3be8c;">Hello, world!</span><span>&#39;;
+</span><span style="color:#96b5b4;">open</span><span>(</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">outputFile</span><span>, &#39;</span><span style="color:#a3be8c;">&gt;</span><span>&#39;, $</span><span style="color:#bf616a;">outputFilename</span><span>) or </span><span style="color:#b48ead;">die </span><span>&quot;</span><span style="color:#a3be8c;">Could not open file: </span><span>$</span><span style="color:#bf616a;">!</span><span>&quot;;
+</span><span style="color:#96b5b4;">print </span><span>$</span><span style="color:#bf616a;">outputFile </span><span>$</span><span style="color:#bf616a;">data</span><span>;
+</span><span style="color:#96b5b4;">close</span><span>($</span><span style="color:#bf616a;">outputFile</span><span>);
+</span></code></pre>
+<h2 id="http-requests">HTTP Requests</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#b48ead;">use </span><span>LWP::UserAgent;
+</span><span>
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">url </span><span>= &#39;</span><span style="color:#a3be8c;">https://api.example.com/data</span><span>&#39;;
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">ua </span><span>= </span><span style="color:#bf616a;">LWP</span><span>::</span><span style="color:#bf616a;">UserAgent</span><span>-&gt;</span><span style="color:#bf616a;">new</span><span>;
+</span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">response </span><span>= $</span><span style="color:#bf616a;">ua</span><span>-&gt;</span><span style="color:#bf616a;">get</span><span>($</span><span style="color:#bf616a;">url</span><span>);
+</span><span>
+</span><span style="color:#b48ead;">if </span><span>($</span><span style="color:#bf616a;">response</span><span>-&gt;</span><span style="color:#bf616a;">is_success</span><span>) {
+</span><span>    </span><span style="color:#b48ead;">my </span><span>$</span><span style="color:#bf616a;">data </span><span>= $</span><span style="color:#bf616a;">response</span><span>-&gt;</span><span style="color:#bf616a;">decoded_content</span><span>;
+</span><span>    </span><span style="color:#65737e;"># Process the data
+</span><span>} </span><span style="color:#b48ead;">else </span><span>{
+</span><span>    </span><span style="color:#b48ead;">die </span><span>&quot;</span><span style="color:#a3be8c;">Error while making the request: </span><span>&quot; . $</span><span style="color:#bf616a;">response</span><span>-&gt;</span><span style="color:#bf616a;">status_line</span><span>;
+</span><span>}
+</span></code></pre>
+<h2 id="arrays">Arrays</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Creating an array:
+</span><span style="color:#b48ead;">my </span><span>@</span><span style="color:#bf616a;">myArray </span><span>= (</span><span style="color:#d08770;">1</span><span>, </span><span style="color:#d08770;">2</span><span>, </span><span style="color:#d08770;">3</span><span>, </span><span style="color:#d08770;">4</span><span>, </span><span style="color:#d08770;">5</span><span>);
+</span><span>
+</span><span style="color:#65737e;"># Accessing elements:
+</span><span style="color:#96b5b4;">print </span><span>$</span><span style="color:#bf616a;">myArray</span><span>[</span><span style="color:#d08770;">0</span><span>];  </span><span style="color:#65737e;"># Output: 1
+</span><span>
+</span><span style="color:#65737e;"># Slicing:
+</span><span style="color:#96b5b4;">print </span><span>@</span><span style="color:#bf616a;">myArray</span><span>[</span><span style="color:#d08770;">1</span><span>..</span><span style="color:#d08770;">3</span><span>];  </span><span style="color:#65737e;"># Output: 234
+</span><span>
+</span><span style="color:#65737e;"># Modifying elements:
+</span><span>$</span><span style="color:#bf616a;">myArray</span><span>[</span><span style="color:#d08770;">2</span><span>] = </span><span style="color:#d08770;">10</span><span>;
+</span><span style="color:#96b5b4;">print </span><span>@</span><span style="color:#bf616a;">myArray</span><span>;  </span><span style="color:#65737e;"># Output: 121045
+</span><span>
+</span><span style="color:#65737e;"># Appending elements:
+</span><span style="color:#96b5b4;">push </span><span>@</span><span style="color:#bf616a;">myArray</span><span>, </span><span style="color:#d08770;">6</span><span>;
+</span><span style="color:#96b5b4;">print </span><span>@</span><span style="color:#bf616a;">myArray</span><span>;  </span><span style="color:#65737e;"># Output: 1210456
+</span></code></pre>
+<h2 id="hashes-dictionaries">Hashes (Dictionaries)</h2>
+<pre data-lang="perl" style="background-color:#2b303b;color:#c0c5ce;" class="language-perl "><code class="language-perl" data-lang="perl"><span style="color:#65737e;"># Creating a hash:
+</span><span style="color:#b48ead;">my </span><span>%</span><span style="color:#bf616a;">myHash </span><span>= (
+</span><span>    &#39;</span><span style="color:#a3be8c;">name</span><span>&#39; =&gt; &#39;</span><span style="color:#a3be8c;">John</span><span>&#39;,
+</span><span>    &#39;</span><span style="color:#a3be8c;">age</span><span>&#39; =&gt; </span><span style="color:#d08770;">30</span><span>,
+</span><span>    &#39;</span><span style="color:#a3be8c;">city</span><span>&#39; =&gt; &#39;</span><span style="color:#a3be8c;">New York</span><span>&#39;,
+</span><span>);
+</span><span>
+</span><span style="color:#65737e;"># Accessing elements:
+</span><span style="color:#96b5b4;">print </span><span>$</span><span style="color:#bf616a;">myHash</span><span>{&#39;</span><span style="color:#a3be8c;">name</span><span>&#39;};  </span><span style="color:#65737e;"># Output: John
+</span><span>
+</span><span style="color:#65737e;"># Modifying elements:
+</span><span>$</span><span style="color:#bf616a;">myHash</span><span>{&#39;</span><span style="color:#a3be8c;">age</span><span>&#39;} = </span><span style="color:#d08770;">35</span><span>;
+</span><span style="color:#96b5b4;">print </span><span>%</span><span style="color:#bf616a;">myHash</span><span>;  </span><span style="color:#65737e;"># Output: nameJohnage35cityNew York
+</span><span>
+</span><span style="color:#65737e;"># Adding new key-value pairs:
+</span><span>$</span><span style="color:#bf616a;">myHash</span><span>{&#39;</span><span style="color:#a3be8c;">occupation</span><span>&#39;} = &#39;</span><span style="color:#a3be8c;">Engineer</span><span>&#39;;
+</span><span style="color:#96b5b4;">print </span><span>%</span><span style="color:#bf616a;">myHash</span><span>;  </span><span style="color:#65737e;"># Output: nameJohnage35cityNew YorkoccupationEngineer
+</span></code></pre>
+
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

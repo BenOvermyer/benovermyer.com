@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="Iron Arachne relies heavily on its random word generation module. Now it&#x27;s changing.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Word generation in Iron Arachne by Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="Iron Arachne relies heavily on its random word generation module. Now it&#x27;s changing.">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Word generation in Iron Arachne by Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Word generation in Iron Arachne
+</h1>
+<p class="blog-date">July 19, 2022</p>
+<div class="blog-content">
+<p>When I first rewrote Iron Arachne as a static JavaScript website, I quickly hacked together several name generators using different methods. Most assembled pieces from several different chunks into a single word.</p>
+<p>That quickly became insufficient. The results were predictable and small in number. After awhile, I wrote a simple module called &quot;invented&quot; which was meant to create words for invented languages, or conlangs. It wasn't a full language generator like previous iterations of Iron Arachne had. That still doesn't exist for the JavaScript version. However, it did have a simple pattern matching algorithm; if you passed it an array of strings, it would pick a random item from that array, and then go through that string character-by-character. Each character was a symbol representing a category of sounds - phonemes - that it would then pick from at random and return that. Most characters were lowercase letters. If a character was uppercase or not a letter, it would be returned unmodified - so a pattern like <code>KONG</code> would always return &quot;kong&quot; and not something with random phonemes.</p>
+<p>The result was an invented word generator that worked well enough. I started using it in almost every part of Iron Arachne that needed made-up words.</p>
+<p>Recently, though, things changed just a little bit. I was running out of letters of the alphabet to use as symbols representing phoneme categories. I was using two of them - <code>u</code> and <code>d</code> - to represent a doubled vowel and consonant, respectively. I decided to reclaim those letters for other things. To do so, I needed to figure out how to change the system so I could still generate doubled letters but not linearly add new symbols for them.</p>
+<p>The solution was to add the first modifier symbol to the invented library. Instead of being a simple iterative lookup, the generate function would now store the last generated phoneme, and if the next symbol was a <code>+</code> it would return that last phoneme instead of looking up a different one.</p>
+<p>That, in turn, made me think about a common scenario where I wanted to have a particular type of word use a random list of sounds instead of one of the pre-existing categories of phonemes. How would I do that, though? My existing module only checked each character in turn. Rather than try and continue down that route, I decided it was finally time to build an actual parser.</p>
+<p>I'd never written a parser before. Not even in CS, way back in high school and college. I pivoted to a history degree before taking the otherwise-inevitable compilers class. Lexers and parsers were something I used, not something I wrote. Even now, I'm cheating a bit and using regular expressions to handle most of the heavy lifting.</p>
+<p>The idea is that I'll be able to write patterns like this:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>(K,G)LvNGON
+</span></code></pre>
+<p>And the generator will spit out words like this:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>Klangon
+</span><span>Glingon
+</span><span>Glengon
+</span><span>Klungon
+</span></code></pre>
+<p>So anytime the parser encounters a series of characters in parenthesis, it returns a random unmodified item from that list instead of a random phoneme from a lookup table. I want the system to be flexible enough that I can add additional workflows later. Perhaps I might want to add a way to return a random phoneme that rhymes with a pattern, for example.</p>
+<p>I haven't completed the new parser as I'm writing this. However, I imagine it'll be done sometime in the next few weeks.</p>
+
+</div>
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>

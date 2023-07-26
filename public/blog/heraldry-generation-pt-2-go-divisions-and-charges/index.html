@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="no-referrer">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+    
+    <meta property="og:site_name" content="Ben Overmyer">
+    <meta property="og:title" content="Heraldry Generation Pt. 2: Go, Divisions, and Charges by Ben Overmyer">
+    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website" />
+    
+    <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
+    
+        <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
+    
+    <meta name="application-name" content="&nbsp;" />
+	<title>Heraldry Generation Pt. 2: Go, Divisions, and Charges by Ben Overmyer</title>
+	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
+    
+</head>
+
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/recipe">Recipes</a></li>
+			<li><a href="/resume">Resumé</a></li>
+			<li><a href="/work">Works</a></li>
+            <li><a href="/rpg">RPGs</a></li>
+			<li><a href="/links">Links</a></li>
+		</ul>
+	</nav>
+	<section>
+		
+<h1 class="page-title">
+	Heraldry Generation Pt. 2: Go, Divisions, and Charges
+</h1>
+<p class="blog-date">March 21, 2018</p>
+<div class="blog-content">
+<p>This iteration had some dramatic changes. Specifically, I rewrote the entire program in Go. That part actually didn't take as much time as I'd thought. The resulting program is a bit messy, though, and I'll talk about that in a minute. First, let me tell you about the heraldry changes.</p>
+<p>After having just the fess and pale divisions in the last iteration, I added the remainder of the basic ones: bend, bend sinister, saltire, quarterly, and chevron.</p>
+<p>I also added the most basic of charges - those geometric shapes called “ordinaries.” Not all of the common ordinaries are in there yet, and some of them look a little askew. Since I manually created them through trial and error rather than through calculation, there are a number of problems that I'll need to sort out.</p>
+<p>For example, here're a couple charges from the current iteration. Notice how they're a little off?</p>
+<p><img src="/heraldry-pt-2/askew-saltire.svg" alt="This saltire's a little askew" /> <img src="/heraldry-pt-2/askew-pall.svg" alt="This pall is definitely not right" /></p>
+<p>The other issue is that many of the designs that pop out of the generator don't look very visually appealing. A possible future iteration will be to add some kind of logic to fix that.</p>
+<p>With all of that said, it produces some pretty decent results. Here are some of them:</p>
+<p><img src="/heraldry-pt-2/bright-chevron.svg" alt="This chevron is energetic" /> <img src="/heraldry-pt-2/nice-bordure.svg" alt="A bordure to approve of" /> <img src="/heraldry-pt-2/pile-charge.svg" alt="The contrast here is interesting" /></p>
+<p>OK, so now, let's talk about Go.</p>
+<p>I had always intended to rewrite the program in Go; I was using PHP as a rapid prototyping language. However, I hit a wall not too far into development. The SVG library I was using ended up not supporting a number of features of SVG that I needed. I was able to work around it by stripping out that library and dealing with the raw XML of SVG, but this was somewhat cumbersome.</p>
+<p>Then I discovered the excellent SVG Go package called, appropriately enough, SVGo. It had several of the things I needed. So, I just pulled the trigger and spent a morning rewriting the entire codebase.</p>
+<p>The result is a much faster program that's easy to write code for.</p>
+<p>It's not without its problems, though.</p>
+<p>All of the code is in one giant file. Visualization definitions are inline and contained in large <code>switch</code> or <code>if</code> blocks. There are no unit tests (which has bit me a couple times already).</p>
+<p>Now that I'm going to be adding more complex charges (like animals), I can't keep putting all of that in the same file. That's something I hope to address in the next iteration.</p>
+
+</div>
+
+	</section>
+	<footer>
+		<p>This site is made with <a href="https://getzola.org">Zola</a>, my favorite static site generator. All content is copyright &copy; 2023 Ben Overmyer, all rights reserved.</p>
+	</footer>
+</body>
+
+</html>
