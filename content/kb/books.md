@@ -21,6 +21,7 @@ I started doing this in 2019, so previous years are not included.
 10. _Leviathan Wakes_ by James S.A. Corey
 11. _Kaiju Preservation Society_ by John Scalzi
 12. _The Fifth Season_ by N.K. Jemisin
+13. _The Collapsing Empire_ by John Scalzi
 
 ## 2022
 
