@@ -22,6 +22,7 @@ I started doing this in 2019, so previous years are not included.
 11. _Kaiju Preservation Society_ by John Scalzi
 12. _The Fifth Season_ by N.K. Jemisin
 13. _The Collapsing Empire_ by John Scalzi
+14. _The Obelisk Gate_ by N.K. Jemisin
 
 ## 2022
 
