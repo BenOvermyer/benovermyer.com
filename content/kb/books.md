@@ -23,6 +23,7 @@ I started doing this in 2019, so previous years are not included.
 12. _The Fifth Season_ by N.K. Jemisin
 13. _The Collapsing Empire_ by John Scalzi
 14. _The Obelisk Gate_ by N.K. Jemisin
+15. _The Black Gryphon_ by Mercedes Lackey and Larry Dixon
 
 ## 2022
 
