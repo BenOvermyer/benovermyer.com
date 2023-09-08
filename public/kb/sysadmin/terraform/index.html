@@ -5,13 +5,13 @@
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="referrer" content="no-referrer">
-    <meta name="description" content="">
+    <meta name="description" content="Notes about Terraform">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
     
     <meta property="og:site_name" content="Ben Overmyer">
-    <meta property="og:title" content="Ben Overmyer's Knowledge Base">
+    <meta property="og:title" content="Terraform from Ben Overmyer">
     <meta property="og:url" content="https://www.benovermyer.com/">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Notes about Terraform">
     <meta property="og:type" content="website" />
     
     <link rel="icon" type="image/svg+xml" href="https://www.benovermyer.com/favicon.svg">
@@ -19,7 +19,7 @@
         <link rel="alternate" type="application/atom+xml" title="Atom" href="https://www.benovermyer.com/atom.xml">
     
     <meta name="application-name" content="&nbsp;" />
-	<title>Ben Overmyer's Knowledge Base</title>
+	<title>Terraform from Ben Overmyer</title>
 	<link rel="stylesheet" type="text/css" href="https://www.benovermyer.com/main.css" />
     
 </head>
@@ -40,30 +40,17 @@
 	<section>
 		
 <h1 class="page-title">
-	System administration
+	Terraform
 </h1>
 
-<p>This page acts as a kind of notebook. Anything I want to remember for later, I might put here.</p>
+<h1 id="upgrading-ancient-providers">Upgrading ancient providers</h1>
+<p>Terraform code from before 0.13 used a different provider reference method. If you get errors like &quot;Invalid legacy provider address&quot; you can run the following to fix the state:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#bf616a;">terraform</span><span> state replace-provider \
+</span><span style="color:#bf616a;">-auto-approve </span><span>\
+</span><span>&quot;</span><span style="color:#a3be8c;">registry.terraform.io/-/aws</span><span>&quot; \
+</span><span>&quot;</span><span style="color:#a3be8c;">hashicorp/aws</span><span>&quot;
+</span></code></pre>
 
-
-
-<h2>Pages</h2>
-
-<ul>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/chef/">Chef</a></li>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/docker/">Docker</a></li>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/linux/">Linux</a></li>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/remotegit/">Remote git repositories</a></li>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/sre-book/">Site Reliability Engineering book notes</a></li>
-	
-	<li><a href="https://www.benovermyer.com/kb/sysadmin/terraform/">Terraform</a></li>
-	
-</ul>
 
 	</section>
 	<footer>
