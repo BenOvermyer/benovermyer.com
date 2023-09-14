@@ -26,6 +26,7 @@ I started doing this in 2019, so previous years are not included.
 15. _The Black Gryphon_ by Mercedes Lackey and Larry Dixon
 16. _The White Gryphon_ by Mercedes Lackey
 17. _The Stone Sky_ by N.K. Jemisin
+18. _The Silver Gryphon_ by Mercedes Lackey
 
 ## 2022
 
