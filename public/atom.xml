@@ -4,8 +4,24 @@
     <link href="https://www.benovermyer.com/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://www.benovermyer.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-07-22T00:00:00+00:00</updated>
+    <updated>2023-09-18T00:00:00+00:00</updated>
     <id>https://www.benovermyer.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Currently</title>
+        <published>2023-09-18T00:00:00+00:00</published>
+        <updated>2023-09-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.benovermyer.com/blog/currently/" type="text/html"/>
+        <id>https://www.benovermyer.com/blog/currently/</id>
+        
+        <content type="html">&lt;p&gt;Last night I was poking around at the &lt;a href=&quot;https:&#x2F;&#x2F;indieweb.org&#x2F;Homebrew_Website_Club&quot;&gt;Homebrew Website Club&lt;&#x2F;a&gt; and
+discovered a site with a &amp;quot;&#x2F;currently&amp;quot; page. It&#x27;s just a little status update along the lines of the old
+Livejournal tags. I thought this was clever, so I added something like it to my own site.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Old sites and art galleries</title>
         <published>2023-07-22T00:00:00+00:00</published>
