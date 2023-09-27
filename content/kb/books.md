@@ -28,6 +28,8 @@ I started doing this in 2019, so previous years are not included.
 17. _The Stone Sky_ by N.K. Jemisin
 18. _The Silver Gryphon_ by Mercedes Lackey
 19. _Magic's Pawn_ by Mercedes Lackey
+20. _Magic's Promise_ by Mercedes Lackey
+21. _Magic's Price_ by Mercedes Lackey
 
 ## 2022
 
