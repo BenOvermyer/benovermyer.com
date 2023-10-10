@@ -30,6 +30,7 @@ I started doing this in 2019, so previous years are not included.
 19. _Magic's Pawn_ by Mercedes Lackey
 20. _Magic's Promise_ by Mercedes Lackey
 21. _Magic's Price_ by Mercedes Lackey
+22. _Shadow and Bone_ by Leigh Bardugo
 
 ## 2022
 
