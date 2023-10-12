@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-09-18 06:25
+**Last Updated:** 2023-10-12 08:14
 
-**Listening To:** What Was I Made For? - Billie Eilish
+**Listening To:** Clarity - Zedd
 
-**Drinking:** C4 Mango Foxtrot
+**Drinking:** Monster Peachy Keen
 
-**Thinking About:** The indieweb
+**Thinking About:** How I completely failed all of my "looking forward to 2023" goals, oops
