@@ -32,6 +32,8 @@ I started doing this in 2019, so previous years are not included.
 21. _Magic's Price_ by Mercedes Lackey
 22. _Shadow and Bone_ by Leigh Bardugo
 23. _Oathbound_ by Mercedes Lackey
+24. _Oathbreakers_ by Mercedes Lackey
+25. _Oathblood_ by Mercedes Lackey
 
 ## 2022
 
