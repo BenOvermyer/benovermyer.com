@@ -34,6 +34,7 @@ I started doing this in 2019, so previous years are not included.
 23. _Oathbound_ by Mercedes Lackey
 24. _Oathbreakers_ by Mercedes Lackey
 25. _Oathblood_ by Mercedes Lackey
+26. _Be Useful: Seven Tools for Life_ by Arnold Schwarzenegger
 
 ## 2022
 
