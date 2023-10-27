@@ -8,7 +8,7 @@ This may have once been called a "web directory." What follows is a set of links
 # My Sites
 
 - [Iron Arachne](https://ironarachne.com/) - my primary hobby project.
-- [Tilde Town](https://tilde.town/~sithlord/) - my "tilde" website, `~sithlord`, where I post random experiments and toys.
+- [Tilde Town](https://tilde.town/~sithlord/) - my "tilde" website, ~sithlord, where I post random experiments and toys.
 - [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - a web directory I maintain for TTRPG content generators.
 - [dungeonHack](gemini://dungeonhack.net/) - my gemlog about gaming. If you don't have a Gemini browser yet, I recommend [Lagrange](https://github.com/skyjake/lagrange).
 

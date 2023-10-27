@@ -4,8 +4,49 @@
     <link href="https://www.benovermyer.com/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://www.benovermyer.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-18T00:00:00+00:00</updated>
+    <updated>2023-10-27T00:00:00+00:00</updated>
     <id>https://www.benovermyer.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>State of my projects for October 2023</title>
+        <published>2023-10-27T00:00:00+00:00</published>
+        <updated>2023-10-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.benovermyer.com/blog/state-of-my-projects-for-october-2023/" type="text/html"/>
+        <id>https://www.benovermyer.com/blog/state-of-my-projects-for-october-2023/</id>
+        
+        <content type="html">&lt;p&gt;I have a lot of irons in the fire. Here&#x27;s where everything I&#x27;m working on this year is at.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Ingenium Second Edition:&lt;&#x2F;strong&gt; The playtest book is out. The cover art is done, and I&#x27;ve started
+collecting more interior art. Sarah will be editing it in the not-too-distant future. I don&#x27;t
+think this will be published until next year.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Aether Second Edition:&lt;&#x2F;strong&gt; The playtest book for this is also out. Editing is in progress. It needs
+both cover art and interior art. I might hire a friend of mine who worked on the Nostalgix TCG
+to do graphic design and layout for it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Aethermancy:&lt;&#x2F;strong&gt; Kevin is still working on the manuscript for this one. Of all the Silver Gryphon
+Games projects, this is the one that I wanted to get out the door in 2023, but now I have doubts
+about that happening. At least all the artwork is done, and the editing is mostly done, except
+for the chapters Kevin is still writing.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Vox Draconis: Kingdoms of Stone and Fire:&lt;&#x2F;strong&gt; This guy&#x27;s been on hold almost the entire year.
+I&#x27;ve been focusing my RPG-writing efforts on Silver Gryphon projects.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Mysteries of a Broken World:&lt;&#x2F;strong&gt; Like Vox Draconis, this game has taken a back seat to SGG products.
+I won&#x27;t be working on it this year.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;AmigaSource:&lt;&#x2F;strong&gt; This one&#x27;s new. The current maintainer reached out to me asking for assistance in
+improving the site. I&#x27;m in the process of rewriting the site mostly from scratch, but keeping
+the NCSA Mosaic-friendly HTML.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Tayledras Fan Site:&lt;&#x2F;strong&gt; This is another new project this year. I originally planned to just
+resurrect my old Tayledras Fan Club website, but after nixing all of the &amp;quot;club&amp;quot; content,
+it was pretty bare bones. So I&#x27;m going to make it a knowledge base for the fictional
+Tayledras culture as presented in the Valdemar novels by Mercedes Lackey. However, I won&#x27;t
+begin to write the content for the site until I&#x27;ve finished reading every novel that the
+Tayledras appear in. At time of writing, I&#x27;m working on Arrows of the Queen.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Iron Arachne:&lt;&#x2F;strong&gt; This year I started breaking pieces of the site out into their own NPM
+packages. Some of them are seeing use by other people now. I&#x27;m going to expand on this concept
+as I have time. Someone reached out to me asking if I could turn the dungeon generation and
+star system generation modules into NPM packages.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Currently</title>
         <published>2023-09-18T00:00:00+00:00</published>

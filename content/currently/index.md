@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-10-12 08:14
+**Last Updated:** 2023-10-27 06:34
 
-**Listening To:** Clarity - Zedd
+**Listening To:** Across the Void - Guillaume David
 
-**Drinking:** Monster Peachy Keen
+**Drinking:** Rockstar Recovery Orangeade
 
-**Thinking About:** How I completely failed all of my "looking forward to 2023" goals, oops
+**Thinking About:** Wellness challenges for November
