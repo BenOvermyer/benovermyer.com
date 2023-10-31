@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-10-27 06:34
+**Last Updated:** 2023-10-31 06:52
 
-**Listening To:** Across the Void - Guillaume David
+**Listening To:** Will and Elizabeth - Klaus Badelt
 
-**Drinking:** Rockstar Recovery Orangeade
+**Drinking:** Starbucks Pumpkin Cream Cold Brew
 
-**Thinking About:** Wellness challenges for November
+**Thinking About:** Old school web site organization patterns
