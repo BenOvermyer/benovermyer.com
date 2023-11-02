@@ -36,6 +36,7 @@ I started doing this in 2019, so previous years are not included.
 25. _Oathblood_ by Mercedes Lackey
 26. _Be Useful: Seven Tools for Life_ by Arnold Schwarzenegger
 27. _Arrows of the Queen_ by Mercedes Lackey
+28. _Civility: George Washington's 110 Rules for Today_ by Steven Michael Selzer
 
 ## 2022
 
