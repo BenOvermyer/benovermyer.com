@@ -4,8 +4,21 @@
     <link href="https://www.benovermyer.com/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://www.benovermyer.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-10-31T00:00:00+00:00</updated>
+    <updated>2023-11-05T00:00:00+00:00</updated>
     <id>https://www.benovermyer.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>First week of wellness challenge</title>
+        <published>2023-11-05T00:00:00+00:00</published>
+        <updated>2023-11-05T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://www.benovermyer.com/blog/first-week-of-wellness-challenge/" type="text/html"/>
+        <id>https://www.benovermyer.com/blog/first-week-of-wellness-challenge/</id>
+        
+        <content type="html"></content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Wellness challenge for November 2023</title>
         <published>2023-10-31T00:00:00+00:00</published>
