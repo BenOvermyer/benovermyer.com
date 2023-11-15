@@ -39,6 +39,7 @@ I started doing this in 2019, so previous years are not included.
 28. _Civility: George Washington's 110 Rules for Today_ by Steven Michael Selzer
 29. _Arrow's Flight_ by Mercedes Lackey
 30. _Arrow's Fall_ by Mercedes Lackey
+31. _By the Sword_ by Mercedes Lackey
 
 ## 2022
 
