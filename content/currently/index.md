@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-10-31 06:52
+**Last Updated:** 2023-11-17 06:31
 
-**Listening To:** Will and Elizabeth - Klaus Badelt
+**Listening To:** Beyond (Drumless Edition) - Daft Punk
 
-**Drinking:** Starbucks Pumpkin Cream Cold Brew
+**Drinking:** Monster Rehab Yellow
 
-**Thinking About:** Old school web site organization patterns
+**Thinking About:** Protein
