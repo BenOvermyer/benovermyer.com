@@ -14,10 +14,6 @@ jobs:
           tool: zola@0.17.2
       - run: zola build
       - run: tar -zcvf benovermyer.com.tar.gz public
-      - run: |
-          curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-          unzip awscliv2.zip
-          sudo ./aws/install
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
