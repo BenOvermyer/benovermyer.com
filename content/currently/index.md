@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-11-17 06:31
+**Last Updated:** 2023-11-18 12:53
 
-**Listening To:** Beyond (Drumless Edition) - Daft Punk
+**Listening To:** WoW Dreamflight soundtrack
 
-**Drinking:** Monster Rehab Yellow
+**Drinking:** Ghost Sour Pink Lemonade
 
-**Thinking About:** Protein
+**Thinking About:** Pax Dei and gaming communities
