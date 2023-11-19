@@ -36,6 +36,7 @@ This may have once been called a "web directory." What follows is a set of links
 - [Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/) — a dark fantasy RPG with gorgeous production values
 - [Shadow of the Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/) — a really dark fantasy RPG with tons of content
 - [Uncharted Worlds](https://uncharted-worlds.com/) — a freeform space opera RPG
+- [TTRPG Resources List](https://starshinescribbles.com/ttrpg-resources-masterpost/) - resources useful in creating things for TTRPGs
 
 # World Creation
 
@@ -54,3 +55,12 @@ This may have once been called a "web directory." What follows is a set of links
 - [Seventh Sanctum](https://www.seventhsanctum.com/)
 - [Springhole Worldbuilding Generators](http://www.springhole.net/writing_roleplaying_randomators/worldbuilding.htm)
 - [WorldMaster](http://www.wintertreeredux.com/index.shtml) — one of the (maybe THE) first programmatic generators out there
+
+# Music
+
+- [Chiptune](https://chiptune.app/) - an online player and library for MOD and MIDI and other old music files
+- [Rekt Network](https://rekt.network/) - an online electronic music station
+
+# Other Small Personal Sites
+
+- [Hundred Rabbits](https://100r.co/site/home.html) - Sailing artist engineer explorer types
