@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-11-18 12:53
+**Last Updated:** 2023-11-19 05:29
 
-**Listening To:** WoW Dreamflight soundtrack
+**Listening To:** Thunderstruck - 2CELLOS
 
-**Drinking:** Ghost Sour Pink Lemonade
+**Drinking:** Ghost Swedish Fish
 
-**Thinking About:** Pax Dei and gaming communities
+**Thinking About:** Prioritization
