@@ -2,10 +2,10 @@
 title = "Currently"
 +++
 
-**Last Updated:** 2023-11-19 05:29
+**Last Updated:** 2023-11-21 07:20
 
-**Listening To:** Thunderstruck - 2CELLOS
+**Listening To:** Atmospheric Entry - Thomas Frank
 
-**Drinking:** Ghost Swedish Fish
+**Drinking:** Monster Ultra Fiesta Mango
 
-**Thinking About:** Prioritization
+**Thinking About:** The nature of Twitter as thinking-out-loud tool, and other such tools
