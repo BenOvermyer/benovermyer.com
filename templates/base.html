@@ -10,7 +10,7 @@
     
     <meta property="og:site_name" content="Ben Overmyer">
     <meta property="og:title" content="{% block socialmediatitle %}{% endblock %}">
-    <meta property="og:url" content="https://www.benovermyer.com/">
+    <meta property="og:url" content="{% if page.permalink %}{{ page.permalink | safe }}{% else %}https://www.benovermyer.com/{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{% endif %}">
     <meta property="og:type" content="website" />
     
@@ -41,7 +41,6 @@
             <li><a href="/rpg">RPGs</a></li>
 			<li><a href="/links">Links</a></li>
             <li><a href="/kb">KB</a></li>
-            <li><a href="/currently">Currently</a></li>
 		</ul>
 	</nav>
 	<section>
