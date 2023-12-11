@@ -1,6 +1,6 @@
 +++
 title = 'What do I do?'
-date = 2008-04-24
+date = 2008-04-25
 +++
 Today's post is inspired by a challenge from IttyBiz. The author, Naomi Dunford, reflected on how many readers aren't aware - through no fault of their own - of what we blog writers actually do for a living. So, the challenge was to answer five questions to introduce ourselves (again) to our readers:
 

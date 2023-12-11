@@ -3,9 +3,9 @@ title = 'The art of eating M&Ms'
 date = 2008-03-13
 +++
 
-<img src="./mnms.jpg" alt="A bag of M&M candies" class="photo" />
+<img src="mnms.jpg" alt="A bag of M &amp; M candies" class="photo" />
 
-When you rip open a bag of M&Ms, how do you eat ‘em? Pop one at a time, rapid-fire? Pour handfuls into your waiting maw? Or do you slide a single one into your mouth, suck on it for awhile, then finally swallow and consider, possibly, having another?
+When you rip open a bag of M&Ms, how do you eat 'em? Pop one at a time, rapid-fire? Pour handfuls into your waiting maw? Or do you slide a single one into your mouth, suck on it for awhile, then finally swallow and consider, possibly, having another?
 
 The way you answer that question could have remarkable ramifications for how you approach life in general. Are you the type of person who consumes new experiences at a phenomenal rate? Do you let everything go by in a rush as you focus on something else? Or, perhaps, do you savor each experience one at a time?
 
