@@ -1,6 +1,11 @@
 # The URL the site will be built for
 base_url = "https://www.benovermyer.com"
 
+# Feed settings
+title = "Ben Overmyer's Site"
+description = "The personal website and blog of Ben Overmyer"
+default_language = "en"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
