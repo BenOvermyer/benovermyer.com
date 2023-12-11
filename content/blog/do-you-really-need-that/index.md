@@ -1,6 +1,6 @@
 +++
 title = 'Do you really need that?'
-date = 2008-04-15
+date = 2008-04-16
 +++
 
 <img src="./girlsshopping.jpg" alt="A photo of women shopping" class="photo" />
