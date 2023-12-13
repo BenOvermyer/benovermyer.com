@@ -42,6 +42,7 @@ I started doing this in 2019, so previous years are not included.
 31. _By the Sword_ by Mercedes Lackey
 32. _Winds of Fate_ by Mercedes Lackey
 33. _Winds of Change_ by Mercedes Lackey
+34. _Winds of Fury_ by Mercedes Lackey
 
 ## 2022
 
