@@ -10,6 +10,7 @@ I started doing this in 2019, so previous years are not included.
 ## 2024
 
 1. _Storm Warning_ by Mercedes Lackey
+2. _Storm Rising_ by Mercedes Lackey
 
 ## 2023
 
