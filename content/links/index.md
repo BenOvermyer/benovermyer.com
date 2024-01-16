@@ -57,6 +57,11 @@ This may have once been called a "web directory." What follows is a set of links
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Iosevka](https://typeof.net/Iosevka/)
 
+## Weight Training
+
+- [Exercise Science blog posts at NASM](https://blog.nasm.org/tag/exercise-science) - explanations of the biometrics and biomechanics of exercise
+- [Start from Scratch workout](https://www.muscleandstrength.com/workouts/start-from-scratch-beginner-workout) - the beginner's workout that I started training with
+
 ## World Creation
 
 - [Tabletop Role-Playing Game Generators](https://www.rpggen.dev) — a link directory for generator tools for RPGs
