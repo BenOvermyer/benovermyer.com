@@ -6,6 +6,12 @@ description = "Notes about boolean algebra"
 render_math = true
 +++
 
+# Annulment Law
+
+A term "AND"-ed with 0 is always 0.
+
+A term "OR"-ed with 1 is always 1.
+
 # De Morgan's Laws
 
 1. The negation of a disjunction is the conjunction of the negations
@@ -28,3 +34,7 @@ $$ \\neg(P \\vee Q) \\Leftrightarrow (\\neg P) \\wedge (\\neg Q) $$
 and
 
 $$ \\neg(P \\wedge Q) \\Leftrightarrow (\\neg P) \\vee (\\neg Q) $$
+
+# Identity Law
+
+A term "OR"-ed with 0 or "AND"-ed with 1 will always equal that term.

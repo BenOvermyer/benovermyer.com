@@ -8,7 +8,9 @@ This is a list of all the things that I use to be productive day-to-day. It's in
 
 ## Alienware Aurora R11
 
-I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a long time I used Windows, but when I "upgraded" to Windows 11, I ran into too many issues and replaced it with Pop_OS! as my sole operating system. I'm loving gaming on Linux now that I've figured out how to properly use Proton.
+I bought a dedicated gaming PC after I missed gaming too much on my Mac. For a long time I used Windows, but when I "upgraded" to Windows 11, I ran into too many issues and replaced it with Pop_OS! as my sole operating system. However, while most games ran fine in Proton, I ran into a few that had severe problems. One of them would automatically ban your user account if it detected you were using Linux.
+
+So, now I'm on Windows 10.
 
 ## 2019 MacBook Pro 16"
 
@@ -30,7 +32,7 @@ This keyboard has a beautiful aesthetic, sturdy construction, and a typefeel tha
 
 **Website:** [Dell 32 Curved Gaming Monitor - S3220DGF](https://www.dell.com/en-us/shop/dell-32-curved-gaming-monitor-s3220dgf/apd/210-atyt/monitors-monitor-accessories)
 
-I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities. I have two of them - one for my Mac, and one for my gaming PC.
+I replaced my old ultrawidescreen monitor with this. It has a more common aspect ratio, a more stable stand, and much better refresh rate. Besides that, it also "announces" itself properly, meaning that macOS actually recognizes its capabilities. I have three of them - one for my Mac, one for my work Mac, and one for my gaming PC.
 
 ## Beautyrest Platinum Sofil Bonded Leather Executive Chair
 
@@ -44,11 +46,16 @@ I replaced my DXRacer King Zero in March of 2022 with this chair. It's cheaper a
 
 I've changed browsers frequently over the years. Now I seem to have settled on Firefox.
 
+## Spotify
+
+I use Spotify for streaming music and building playlists. If I can't find it on Spotify, I usually need to turn
+to self-hosting on Jellyfin.
+
 # Design Software
 
-## Adobe Suite
+## Affinity Suite
 
-I caved and switched back to the Adobe Creative Suite instead of the Affinity suite. While the $60 per month price tag is steep, I needed too many of the features only Adobe's suite has.
+I switched back to Affinity after not using Adobe for months. The Adobe early termination fee reinforced why I don't want to use Adobe software.
 
 # Development Software
 
@@ -57,6 +64,12 @@ I caved and switched back to the Adobe Creative Suite instead of the Affinity su
 **Website:** [Sublime Text](https://www.sublimetext.com/)
 
 In November 2022 I finally bought a license for Sublime Text. I've been using it as my daily driver for months now.
+
+## VSCode
+
+**Website:** [VSCode](https://code.visualstudio.com/)
+
+I still use VSCode for a lot of things. While Sublime Text is faster and cleaner, VSCode has more features.
 
 # Hosting and Infrastructure Services
 
@@ -70,16 +83,16 @@ I've heard that other domain registrars are better (e.g., [Hover](https://www.ho
 
 **Website:** [Hetzner](https://www.hetzner.com/)
 
-When I need more than a static site host, I use Hetzner. It's cheap and stable.
-
-## Netlify
-
-**Website:** [Netlify](https://www.netlify.com/)
-
-Netlify hosts most of my static sites. It's free and works really well.
+I use a Hetzner VPS for most of my hosting these days.
 
 ## Cloudflare
 
 **Website:** [Cloudflare](https://cloudflare.com)
 
 I use Cloudflare for my DNS management. I don't use it as a CDN anymore, though it works well for that purpose.
+
+# Search Engine
+
+**Website:** [Kagi](https://kagi.com)
+
+I use (and pay for) Kagi.

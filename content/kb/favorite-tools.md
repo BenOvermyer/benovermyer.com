@@ -20,5 +20,8 @@ These are things that I have found useful or interesting, or spend a large amoun
 
 # Self-Hosted Applications
 
+- [IT-Tools](https://github.com/CorentinTh/it-tools): A collection of small utilities all in one app. Very handy.
+- [Jellyfin](https://jellyfin.org/): A media player; I use it for streaming MP3s.
 - [Miniflux](https://miniflux.app/): RSS reader, very lightweight.
+- [Paperless](https://docs.paperless-ngx.com/): A document organizer.
 - [WriteFreely](https://writefreely.org/): Federated blog software. Written in Go.
