@@ -2,7 +2,7 @@
 title = 'Conquering 2013: Goals for the Year'
 date = 2013-01-05
 +++
-I'm joining the vast numbers of bloggers who are publicly declaring their goals for the new year right now. Scott Dinsmore of Live Your Legend fame has challenged people to, well, Live Your Legend in 2013, and offers a [Goal Setting & Action Workbook](http://liveyourlegend.net/free-2013-goal-setting-guide/) to help achieve that. I took four hours this morning to fill it out and plan my goals for the year, and this blog post summarizes the results of that. Two of my six big goals for the year have to do with gaming, but the rest are personal goals. I'll share all of them with you after the jump.
+I'm joining the vast numbers of bloggers who are publicly declaring their goals for the new year right now. Scott Dinsmore of Live Your Legend fame has challenged people to, well, Live Your Legend in 2013, and offers a [Goal Setting & Action Workbook](https://web.archive.org/web/20221002031539/http://liveyourlegend.net/free-2013-goal-setting-guide/) to help achieve that. I took four hours this morning to fill it out and plan my goals for the year, and this blog post summarizes the results of that. Two of my six big goals for the year have to do with gaming, but the rest are personal goals. I'll share all of them with you after the jump.
 
 # Goal #1) Release a Computer Game
 

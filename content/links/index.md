@@ -44,7 +44,7 @@ This may have once been called a "web directory." What follows is a set of links
 
 ## Tabletop Role-Playing Games
 
-- [Forbidden Lands](https://frialigan.se/en/games/forbidden-lands/) — a dark fantasy RPG with gorgeous production values
+- [Forbidden Lands](https://freeleaguepublishing.com/games/forbidden-lands/) — a dark fantasy RPG with gorgeous production values
 - [Shadow of the Demon Lord](https://schwalbentertainment.com/shadow-of-the-demon-lord/) — a really dark fantasy RPG with tons of content
 - [Uncharted Worlds](https://uncharted-worlds.com/) — a freeform space opera RPG
 - [TTRPG Resources List](https://starshinescribbles.com/ttrpg-resources-masterpost/) - resources useful in creating things for TTRPGs

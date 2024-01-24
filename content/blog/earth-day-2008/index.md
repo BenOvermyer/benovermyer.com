@@ -16,4 +16,4 @@ Today is Earth Day. To celebrate, today I'm going to post a short list of some g
 
 [GreenTechnoLog](http://www.greentechnolog.com/) - One of the better green tech blogs I've found. Multiple good articles with great information! Dumb Little Man has [an excellent post on reducing your carbon footprint](http://www.dumblittleman.com/2008/02/turn-green-heres-15-ways-reduce-your.html). I can't recommend this blog enough, and it turns out he had a perfect post for this topic!
 
-[GreatGreenGadgets](http://greatgreengadgets.com/gadgets/2007/12/17/carnival-of-the-green-108th-edition/) has a blog post about…well, a whole lot of green gadgets, tricks, and websites. Lots. Check it out!
+[GreatGreenGadgets](https://web.archive.org/web/20080225113116/http://greatgreengadgets.com/gadgets/2007/12/17/carnival-of-the-green-108th-edition/) has a blog post about... well, a whole lot of green gadgets, tricks, and websites. Lots. Check it out!
