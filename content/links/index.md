@@ -66,7 +66,6 @@ This may have once been called a "web directory." What follows is a set of links
 
 - [Tabletop Role-Playing Game Generators](https://www.rpggen.dev) — a link directory for generator tools for RPGs
 - [Eigengrau's Generator](https://eigengrausgenerator.com) — one of my favorite generators
-- [& Magazine map generation tools](http://wizardawn.and-mag.com/tool_world.php)
 - [Chaotic Shiny](http://chaoticshiny.com/) — a TON of tools, many of which covers areas the others don't (e.g., culture generator)
 - [d20 SRD World Generator](http://www.d20srd.org/fantasy/world/)
 - [Dave's Mapper](http://davesmapper.com/)
@@ -74,7 +73,6 @@ This may have once been called a "web directory." What follows is a set of links
 - [Fantasy Name Generators](http://www.fantasynamegenerators.com/) (also check out the [Planet Description Generator](http://www.fantasynamegenerators.com/planet-descriptions.php) on the same site)
 - [Hexographer](http://www.hexographer.com/) — a hex-based map tool
 - [Last Gasp Generators](https://www.lastgaspgrimoire.com/generators/)
-- [Planet Designer](http://www.transhuman.talktalk.net/iw/Geosync.htm) — calculate realistic stats for a planet
 - [Procedural Name Generator](http://www.samcodes.co.uk/project/markov-namegen/)
 - [Seventh Sanctum](https://www.seventhsanctum.com/)
 - [Springhole Worldbuilding Generators](http://www.springhole.net/writing_roleplaying_randomators/worldbuilding.htm)
