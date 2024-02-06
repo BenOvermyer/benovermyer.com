@@ -11,6 +11,8 @@ I started doing this in 2019, so previous years are not included.
 
 1. _Storm Warning_ by Mercedes Lackey
 2. _Storm Rising_ by Mercedes Lackey
+3. _Storm Breaking_ by Mercedes Lackey
+4. _God is Dead, Long Live the Gods: A Case for Polytheism_ by Gus DiZerega
 
 ## 2023
 
