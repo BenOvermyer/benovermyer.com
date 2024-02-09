@@ -94,3 +94,55 @@ On Monday, do workout 1. On Wednesday, do workout 2. On Friday, do workout 3.
 9. Barbell curls, 3 sets, 12 reps
 10. Incline curls, 2 sets, 12 reps
 11. Concentration curls, 2 sets, 12 reps
+
+## Phase 3: Conclusion of Beginner's Program
+
+**Source:** [Muscle and Strength](https://www.muscleandstrength.com/workouts/start-from-scratch-phase-3)
+
+**Duration:** 6 weeks
+
+Use the same MWF split for this phase.
+
+### Workout 1
+
+1. Incline Bench Press; 3 sets; 15/12/10
+2. Dumbbell Bench Press; 3 sets; 15/12/10
+3. Dumbbell Fly; 3 sets; 15/12/10
+4. Dips; 3 sets; 10-12
+5. Pull Downs; 3 sets; 15/12/10
+6. Pullovers; 3 sets; 10-12
+7. Bent Over Rows; 3 sets; 15/12/10
+8. Rear Delt Lateral Raise; 3 sets; 10-12
+9. Dumbbell Shrugs; 2 sets; 12-15
+10. Hanging Leg Raises; 3 sets; 15/12/10
+11. Ab Crunch; 3 sets; 15/12/10
+12. Plank; 2 sets; 60 seconds
+
+### Workout 2
+
+1. Squats; 3 sets; 15/12/10
+2. Sissy Squats; 3 sets; 10-12
+3. Leg Extensions; 3 sets; 10-12
+4. Reverse Lunges; 3 sets; 10-12
+5. Stiff-Legged Deadlift; 3 sets; 15/12/10
+6. Leg Curls; 3 sets; 10-12
+7. Leg Press Calf Raise; 3 sets; 15
+8. Standing Calf Raise; 3 sets; 12-15
+9. Seated Calf Raise; 3 sets; 12-15
+
+### Workout 3
+
+1. Shoulder Presses; 3 sets; 15/12/10
+2. Upright Row; 3 sets; 10-12
+3. Lateral Raises; 3 sets; 12-15
+4. Bent Over Lateral Raise; 3 sets; 10-12
+5. Close Grip Bench Press; 3 sets; 15/12/10
+6. Overhead Extensions; 3 sets; 10-12
+7. Rope Pushdown; 3 sets; 10-12
+8. EZ Bar Curls; 3 sets; 15/12/10
+9. Incline Curls; 3 sets; 10-12
+10. Spider Curls; 3 sets; 10-12
+11. Hammer Curls; 3 sets; 10-12
+12. Wrist Curls; 2 sets; 10-12
+13. Reverse Wrist Curls; 2 sets; 10-12
+
