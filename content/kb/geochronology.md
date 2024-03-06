@@ -7,6 +7,7 @@ I took notes on the following because I was curious about the terms Jurassic and
 # Terms and Acronyms
 
 **mya:** acronym for "million years ago"
+
 **Ma:** abbreviation for megaannum, a unit representing one million years
 
 # Types of time spans
