@@ -13,6 +13,9 @@ I started doing this in 2019, so previous years are not included.
 2. _Storm Rising_ by Mercedes Lackey
 3. _Storm Breaking_ by Mercedes Lackey
 4. _God is Dead, Long Live the Gods: A Case for Polytheism_ by Gus DiZerega
+5. _Owlsight_ by Mercedes Lackey
+6. _Owlflight_ by Mercedes Lackey
+7. _Owlknight_ by Merecedes Lackey
 
 ## 2023
 
