@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "cp node_modules/katex/dist/katex.min.* static/js/"
+  },
   "dependencies": {
     "katex": "^0.16.10"
   }
