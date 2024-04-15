@@ -15,7 +15,9 @@ I started doing this in 2019, so previous years are not included.
 4. _God is Dead, Long Live the Gods: A Case for Polytheism_ by Gus DiZerega
 5. _Owlsight_ by Mercedes Lackey
 6. _Owlflight_ by Mercedes Lackey
-7. _Owlknight_ by Merecedes Lackey
+7. _Owlknight_ by Mercedes Lackey
+8. _Conan_ by Michael A. Stackpole
+9. _Ásatrú for Beginners_ by Mathias Nordvig, Ph.D.
 
 ## 2023
 
