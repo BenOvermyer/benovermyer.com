@@ -18,6 +18,7 @@ I started doing this in 2019, so previous years are not included.
 7. _Owlknight_ by Mercedes Lackey
 8. _Conan_ by Michael A. Stackpole
 9. _Ásatrú for Beginners_ by Mathias Nordvig, Ph.D.
+10. _Dune_ by Frank Herbert
 
 ## 2023
 
