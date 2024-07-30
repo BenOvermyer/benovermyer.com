@@ -20,6 +20,7 @@ I started doing this in 2019, so previous years are not included.
 9. _Ásatrú for Beginners_ by Mathias Nordvig, Ph.D.
 10. _Dune_ by Frank Herbert
 11. _The Rising Storm_ by Cavan Scott
+12. _Exile's Honor_ by Mercedes Lackey
 
 ## 2023
 
