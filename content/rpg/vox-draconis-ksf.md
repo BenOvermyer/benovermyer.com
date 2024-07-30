@@ -12,7 +12,8 @@ The guiding philosophies behind this game include the following:
 - Complex math sucks
 - Choices are awesome
 - Stories give meaning to rules
+- "Nothing happens" feels awful
 
 You can download the work-in-progress rules here: [Vox Draconis: Kingdoms of Stone and Fire PDF](https://files.benovermyer.com/rpgs/vox-draconis-ksf.pdf)
 
-This document is updated periodically as I work on it more. It was last updated September 11, 2022.
+This document is updated periodically as I work on it more. It was last updated July 30, 2024.
