@@ -21,6 +21,7 @@ I started doing this in 2019, so previous years are not included.
 10. _Dune_ by Frank Herbert
 11. _The Rising Storm_ by Cavan Scott
 12. _Exile's Honor_ by Mercedes Lackey
+13. _Exile's Valor_ by Mercedes Lackey
 
 ## 2023
 
