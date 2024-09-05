@@ -22,6 +22,7 @@ I started doing this in 2019, so previous years are not included.
 11. _The Rising Storm_ by Cavan Scott
 12. _Exile's Honor_ by Mercedes Lackey
 13. _Exile's Valor_ by Mercedes Lackey
+14. _Round We Dance_ by Mark Green
 
 ## 2023
 
