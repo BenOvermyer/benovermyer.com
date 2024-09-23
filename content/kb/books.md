@@ -24,6 +24,7 @@ I started doing this in 2019, so previous years are not included.
 13. _Exile's Valor_ by Mercedes Lackey
 14. _Round We Dance_ by Mark Green
 15. _Atheopaganism_ by Mark Green
+16. _Dune: Messiah_ by Frank Herbert
 
 ## 2023
 
