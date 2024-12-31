@@ -1,0 +1,7 @@
+[project]
+name = "benovermyer-com"
+version = "0.1.0"
+description = "My personal website and its associated tools."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
