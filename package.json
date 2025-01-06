@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "katex": "^0.16.10"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
   }
 }
