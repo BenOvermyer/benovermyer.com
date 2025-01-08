@@ -8,9 +8,15 @@ Sometimes someone will tell me about a movie I need to see. Usually, my response
 
 This is the main list. If I get recommendations, or see a movie I want to watch, it goes here.
 
+- Anna
+- Bringing Up Baby
 - High&Low
-- The Liberator
 - Iron Mask
+- Kung Fu Panda 4
+- The Bricklayer
+- The China Syndrome
+- The Hill
+- The Liberator
 
 # Swashbuckling Movies
 
