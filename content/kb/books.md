@@ -7,6 +7,10 @@ I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wik
 
 I started doing this in 2019, so previous years are not included.
 
+## 2025
+
+1. _Closer to Home_ by Mercedes Lackey
+
 ## 2024
 
 1. _Storm Warning_ by Mercedes Lackey
