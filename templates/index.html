@@ -1,33 +1,36 @@
 {% extends "base.html" %}
 
-{% block socialmediatitle %}Ben Overmyer, Full-Stack Developer and Game Designer{% endblock %}
-{% block title %}Ben Overmyer, Full-Stack Developer and Game Designer{% endblock %}
+{% block socialmediatitle %}Ben Overmyer, Full-Stack Developer{% endblock %}
+{% block title %}Ben Overmyer, Full-Stack Developer{% endblock %}
 
 {% block content %}
 
 <header>
     <h1>Ben Overmyer</h1>    
-	<p class="subtitle">Full-Stack Developer and Game Designer</p>
+	<p class="subtitle">Full-Stack Developer, DevOps Specialist</p>
     
-    <img src="/ben-2023.jpg" alt="Photo of Ben" class="photo" />
+    <picture>
+        <source srcset="/ben-2023.webp" type="image/webp">
+        <source srcset="/ben-2023.jpg" type="image/jpeg">
+        <img src="/ben-2023.jpg" alt="Photo of Ben" width="428" height="428" class="photo" />
+    </picture>
 </header>
 
 <p>
-	Hi, I'm Ben. I do web things and make games.
+	Hi, I'm Ben. I do web things.
 </p>
 <p>
 	By day, I apply my skills as a developer to build web applications, monitor them, set up web infrastructure, and automate things.
+    I'm particularly good at domains in what is popularly called "DevOps" or "SRE". I most often work with Python and JavaScript.
 </p>
 <p>
-	In my free time I work on procedural content generation tools for
+	In my free time I sometimes work on procedural content generation tools for
 	tabletop role-playing games. You can see my latest works in this area at
 	<a href="https://ironarachne.com">Iron Arachne</a>.
 </p>
 <p>
-	I'm also one of the owners of tabletop role-playing game company <a href="https://silvergryphongames.com">Silver Gryphon Games</a>.
-</p>
-<p>
-	You can find me on the Fediverse at <a rel="me" href="https://fosstodon.org/@dungeonHack">@dungeonHack@fosstodon.org</a>.
+	You can find me on the Fediverse at <a rel="me" href="https://fosstodon.org/@dungeonHack">@dungeonHack@fosstodon.org</a>, though I
+    don't use social media much anymore.
 </p>
 
 <h2>Most Recent Blog Posts</h2>
@@ -50,13 +53,13 @@
     <li><a href="kb/favorite-tools">Favorite tools</a></li>
     <li><a href="kb/movies">Movies</a> - movies that I want to see, or particular lists of movies</li>
     <li><a href="kb/people">People of interest</a></li>
-    <li><a href="kb/poach-list">Personal poach list</a></li>
     <li><a href="kb/uses">Uses</a> - the tools and things I use most</li>
 </ul>
 
 <h2>Knowledge Base</h2>
 
-The following are links to topics of my knowledge base.
+The following are a few links to topics of my <a href="/kb">knowledge base</a>. These
+are subjects I find interesting and have written notes about.
 
 <ul>
     <li><a href="kb/boolean-algebra">Boolean algebra</a></li>

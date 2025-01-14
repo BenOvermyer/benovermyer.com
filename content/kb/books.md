@@ -3,7 +3,7 @@ title = "Books I've Read"
 description = "A list of all the books I've read"
 +++
 
-I was inspired to do this by [this "Library" page](http://tilde.town/~dustin/wiki/library). This is a list of all books I've read.
+I was inspired to do this by [this "Library" page](https://web.archive.org/web/20240723040119/https://0xdstn.site/wiki/library). This is a list of all books I've read.
 
 I started doing this in 2019, so previous years are not included.
 
