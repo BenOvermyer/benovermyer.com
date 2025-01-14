@@ -5,9 +5,9 @@ description = "Ben Overmyer's resume"
 
 The chief aim of any web technologist is to make a particular part of the web more awesome for people. Or at least, it should be. The web was built for people. For the past several years I have worked as a devops engineer. Now I'm going back to my roots as a full-stack developer.
 
-**Specialties:** Infrastructure, back-end development (esp. Go), front-end development (esp. Svelte+TypeScript), performance, observability
+**Specialties:** Infrastructure (esp. with Terraform), back-end development (esp. Go), front-end development (esp. Svelte+TypeScript), performance, observability
 
-**Preferred Programming Languages:** TypeScript, Go, PHP, Python
+**Preferred Programming Languages:** TypeScript, Python, Go, PHP
 
 **Ancillary Skills:** Team leadership, mentoring, architectural design, tailoring communication of important information to different audiences
 
@@ -15,11 +15,11 @@ The chief aim of any web technologist is to make a particular part of the web mo
 
 This work history only includes my professional career and does not include my role at [Silver Gryphon Games](https://silvergryphongames.com).
 
-## Senior Platform Engineer (Tech Lead) at Apiture
+## Senior Platform Engineer at Apiture
 
 _July 2021 to present_
 
-I help build and design the platform that underlies Apiture's services. I abstract away the AWS and Docker infrastructure so app developers can build for the platform and not need to understand infrastructure themselves. As a tech lead, I lead a team of platform engineers of varying skill levels and personalities towards this end. Often I wear multiple hats - architect, coder, mentor, troubleshooter, sounding board, and others.
+I help build and design the platform and infrastructure that underlie Apiture's services. I abstract away the AWS and Docker infrastructure so app developers can build for the platform and not need to understand infrastructure themselves. Often I wear multiple hats - architect, coder, mentor, troubleshooter, sounding board, and others.
 
 ## DevOps Consultant at Solution Design Group
 
