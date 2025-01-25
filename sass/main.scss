@@ -1,7 +1,21 @@
-$grey: rgb(171, 94, 62);
+$grey: rgb(180, 180, 180);
+$primary: rgb(155, 99, 0);
+$secondary: rgb(100, 60, 30);
+$tertiary: rgb(71, 44, 22);
+$highlight: rgb(255, 200, 50);
+$background: rgb(80, 80, 40);
+$paper: rgb(255, 255, 245);
+
+@font-face {
+    font-family: "griffos";
+    src: url("GriffosFont-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
 
 html {
-    font-family: system-ui;
+    background-color: $paper;
+    font-family: "griffos", serif;
     font-size: unquote("clamp(1em, 0.909em + 0.45vmin, 1.25em)");
     max-width: 70ch;
     padding: unquote("calc(1vmin + .5rem)");
@@ -12,9 +26,25 @@ body :not(:is(h1, h2, h3, h4, h5, h6)) {
     line-height: 1.75;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    font-weight: 300;
+}
+
+h2,
+h3,
+h4 {
+    border-bottom: 1px solid $background;
+}
+
 header {
     text-align: center;
     h1 {
+        background: linear-gradient(15deg, $background, rgb(255, 200, 0));
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
         font-size: 3rem;
         font-variant: small-caps;
         margin-bottom: 0;
@@ -26,8 +56,9 @@ header {
 }
 
 footer {
+    color: $background;
     border-top: 1px solid $grey;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
 }
 
 code {
@@ -38,20 +69,21 @@ code {
 }
 
 h1.page-title {
+    color: $tertiary;
     font-size: 2rem;
-    line-height: 2;
+    line-height: 2rem;
 }
 
 a {
-    color: rgb(155, 90, 17);
-}
-
-a:hover {
-    color: rgb(255, 169, 0);
+    color: $primary;
 }
 
 a:visited {
-    color: rgb(100, 60, 30);
+    color: $secondary;
+}
+
+a:hover {
+    color: $highlight;
 }
 
 nav {
@@ -64,10 +96,20 @@ nav {
         li {
             display: block;
             list-style: none;
-            margin: 0 0.4rem;
+            margin: 0.1rem;
             font-size: 1.1rem;
             a {
+                color: $primary;
+                font-weight: 300;
+                margin: 0.5rem;
                 text-decoration: none;
+                text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.15);
+            }
+            a:visited {
+                color: $secondary;
+            }
+            a:hover {
+                color: rgb(0, 0, 0);
             }
         }
     }
@@ -75,7 +117,7 @@ nav {
 }
 
 p.blog-date {
-    font-weight: 700;
+    border-bottom: 1px solid $grey;
 }
 
 img.artwork {

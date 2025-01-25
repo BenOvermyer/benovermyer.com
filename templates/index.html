@@ -6,9 +6,9 @@
 {% block content %}
 
 <header>
-    <h1>Ben Overmyer</h1>    
+    <h1>Ben Overmyer</h1>
 	<p class="subtitle">Full-Stack Developer, DevOps Specialist</p>
-    
+
     <picture>
         <source srcset="/ben-2023.webp" type="image/webp">
         <source srcset="/ben-2023.jpg" type="image/jpeg">
@@ -17,7 +17,7 @@
 </header>
 
 <p>
-	Hi, I'm Ben. I do web things.
+	Hi, I'm Ben. I make web things.
 </p>
 <p>
 	By day, I apply my skills as a developer to build web applications, monitor them, set up web infrastructure, and automate things.
@@ -37,13 +37,21 @@
 
 {% set blog_posts = get_section(path="blog/_index.md")
     | get(key="pages")
-    | slice(end=5) 
+    | slice(end=5)
 %}
 
 <ul>
 {% for post in blog_posts %}
     <li>{{ post.date | date(format="%B %e, %Y") }}: <a href="{{ post.permalink }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
+
+<h2>Selected Blog Posts</h2>
+
+<ul>
+    <li><a href="/blog/upgrading-the-star-and-planet-generators-on-iron-arachne/">Upgrading the star and planet generators on Iron Arachne</a></li>
+    <li><a href="/blog/old-school-baroque/">Old School Baroque</a></li>
+    <li><a href="/blog/word-generation-in-ironarachne/">Word generation in Iron Arachne</a></li>
 </ul>
 
 <h2>My stuff</h2>
