@@ -10,6 +10,8 @@ I started doing this in 2019, so previous years are not included.
 ## 2025
 
 1. _Closer to Home_ by Mercedes Lackey
+2. _Dogs for Dummies_ by Gina Spadafori
+3. _Starter Villain_ by John Scalzi
 
 ## 2024
 
@@ -35,7 +37,7 @@ I started doing this in 2019, so previous years are not included.
 20. _Atomic Habits_ by James Clear
 21. _Redoubt_ by Mercedes Lackey
 22. _Bastion_ by Mercedes Lackey
-23. _Our Little Farm_ by Peter Wohllenben
+23. _Our Little Farm_ by Peter Wohlleben
 
 ## 2023
 
