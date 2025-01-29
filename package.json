@@ -1,11 +1,11 @@
 {
-  "scripts": {
-    "build": "cp node_modules/katex/dist/katex.min.* static/js/"
-  },
-  "dependencies": {
-    "katex": "^0.16.10"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4"
-  }
+    "scripts": {
+        "build": "cp node_modules/katex/dist/katex.min.* static/js/"
+    },
+    "dependencies": {
+        "katex": "^0.16.21"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "^1.9.4"
+    }
 }
