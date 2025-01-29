@@ -134,6 +134,7 @@ img.photo {
     border: 1px solid #ccc;
     margin: 1rem auto;
     max-width: 90%;
+    object-fit: cover;
 }
 
 img.thumbnail {
