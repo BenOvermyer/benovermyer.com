@@ -12,6 +12,7 @@ I started doing this in 2019, so previous years are not included.
 1. _Closer to Home_ by Mercedes Lackey
 2. _Dogs for Dummies_ by Gina Spadafori
 3. _Starter Villain_ by John Scalzi
+4. _The Golden Thread: How Fabric Changed History_ by Kassia St. Clair
 
 ## 2024
 
