@@ -18,6 +18,17 @@ This list is books that I want to read. Some are recommendations from others and
 - Beyond; Mercedes Lackey
 - Into the West; Mercedes Lackey
 - Valdemar; Mercedes Lackey
+- Always Coming Home; Ursula K. Le Guin
+- The Dispossessed; Ursula K. Le Guin
+- Ecotopia; Ernest Callenbach
+- Pacific Edge; Kim Stanley Robinson
+- The Fifth Sacred Thing; Starhawk
+- Solarpunk: Ecological and Fantastic Stories in a Sustainable World 
+- Wings of Renewal: A Solarpunk Dragons Anthology
+- Sunvault: Stories of Solarpunk and Eco-Speculation
+- Glass and Gardens
+- A Psalm for the Wild-Built; Becky Chambers
+- A Prayer for the Crown-Shy; Becky Chambers
 
 ## Nonfiction
 
