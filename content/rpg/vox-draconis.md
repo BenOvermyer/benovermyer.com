@@ -7,5 +7,5 @@ Vox Draconis was the first RPG I wrote that ended up online. It was a blatant ri
 
 I later wrote a supplement for it called Timescape which added time travel and a description of different time periods for the base game's setting.
 
-- [Vox Draconis](https://files.benovermyer.com/rpgs/voxdraconis.pdf) (1997)
-- [Vox Draconis: Timescape](https://files.benovermyer.com/rpgs/timescape.pdf) (1997)
+- [Vox Draconis](https://www.benovermyer.com/downloads/voxdraconis.pdf) (1997)
+- [Vox Draconis: Timescape](https://www.benovermyer.com/downloads/timescape.pdf) (1997)

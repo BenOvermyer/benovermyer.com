@@ -7,4 +7,4 @@ This is by far the worst RPG I've ever written. It's based on Star Wars and very
 
 There are many awful assumptions I made about the Star Wars setting back then, and the strong attention to "Dark Lords of the Sith" is embarassing.
 
-Download [Stellar Warfare](https://files.benovermyer.com/rpgs/stellar-warfare.pdf)
+Download [Stellar Warfare](https://www.benovermyer.com/downloads/stellar-warfare.pdf)
