@@ -15,6 +15,8 @@ I started doing this in 2019, so previous years are not included.
 4. _The Golden Thread: How Fabric Changed History_ by Kassia St. Clair
 5. _How to Read Nonfiction Like a Professor_ by Thomas C. Foster
 6. _Dungeon Crawler Carl_ by Matt Dinniman
+7. _Carl's Doomsday Scenario_ by Matt Dinniman
+8. _The Dungeon Anarchist's Cookbook_ by Matt Dinniman
 
 ## 2024
 
