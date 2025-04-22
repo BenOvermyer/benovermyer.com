@@ -25,13 +25,13 @@ I started my professional career as a developer, not a system administrator. Now
 
 # Personal Specifics
 
-**Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. From an American standpoint, I'm an extreme progressive.
+**Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. I believe in supporting equality, diversity, and the betterment of humanity. This is done through organization.
 
 **Guiding Philosophies:** Stoicism, pragmatism, empiricism, and a dash of existential nihilism to put things into perspective
 
 **Causes I Care About:** Gender equality, freedom of expression and identity, [basic human rights](http://www.un.org/en/universal-declaration-human-rights/), universal education, universal health care
 
-**Hobbies:** Cooking, gaming, reading, coding tools for and designing tabletop RPGs, writing, making themed music playlists
+**Hobbies:** Cooking, gaming, reading, coding tools for and designing tabletop RPGs, writing, making themed music playlists, playing guitar
 
 **Theme Song:** "Everybody Wants to Rule the World" by Tears for Fears
 
