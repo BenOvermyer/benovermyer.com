@@ -9,7 +9,7 @@ You can get in touch with me in a variety of ways. Email is best.
 
 _Email:_ [ben@overmyer.net](mailto:ben@overmyer.net)
 
-_Fediverse:_ [@dungeonHack@fosstodon.org](https://fosstodon.org/@dungeonHack)
+_Fediverse:_ [@skysong@floss.social](https://floss.social/@skysong)
 
 _LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
@@ -17,7 +17,7 @@ _LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
 I'm a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Since its inception, it has changed the world. It's my job and my passion to make it better.
 
-I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Currently I live in Wilmington, North Carolina, but that will change in a year or two.
+I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Currently I live in Wilmington, North Carolina, but that will change soon.
 
 My particular focus in the professional world is automation, observability, and systems architecture. Complex systems and their interactions are amazing things.
 
