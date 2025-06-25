@@ -22,6 +22,14 @@ git reset --soft `git merge-base master HEAD`
 git commit -m 'One big commit'
 ```
 
+## Cleaning old branches locally
+
+This will get rid of branches that have been merged that aren't master, main, or develop.
+
+```bash
+git branch --merged | egrep -v "(^ \* |master|main|develop)" | xargs git branch -D
+```
+
 ## Setting up a remote git repository
 
 This is how to set up a remote git repository (a mirror) simply via ssh.
