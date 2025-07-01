@@ -39,6 +39,14 @@ h4 {
     border-bottom: 1px solid $background;
 }
 
+h1::first-letter {
+    color: darkred;
+}
+
+h2::first-letter {
+    color: darkred;
+}
+
 header {
     text-align: center;
     h1 {
