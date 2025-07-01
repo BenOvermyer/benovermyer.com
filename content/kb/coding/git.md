@@ -71,6 +71,33 @@ git cherry-pick feature~1
 git cherry-pick feature
 ```
 
+### Fetching all paths changed since another branch
+
+Let's say you want to get the paths of all files changed in your branch compared to the target branch.
+
+```bash
+git diff --name-only master
+```
+
+### Squashing all commits in a branch into one
+
+Let's say you have a branch off of master, and you want to squash all the commits into one before pushing to the remote.
+
+Run the following (after checking out your branch locally):
+
+```bash
+git reset --soft `git merge-base master HEAD`
+git commit -m 'One big commit'
+```
+
+### Cleaning old branches locally
+
+This will get rid of branches that have been merged that aren't master, main, or develop.
+
+```bash
+git branch --merged | egrep -v "(^ \* |master|main|develop)" | xargs git branch -D
+```
+
 ### Undoing a commit
 
 If we need to undo a commit, we can use `git reset` to move the HEAD pointer to a previous commit. There are three options for resetting:
