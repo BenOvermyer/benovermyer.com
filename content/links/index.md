@@ -57,6 +57,10 @@ This may have once been called a "web directory." What follows is a set of links
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Iosevka](https://typeof.net/Iosevka/)
 
+## Video Games
+
+- [The Two Towers MUD](https://t2tmud.org/) - a Lord of the Rings MUD that I may have played a couple decades ago
+
 ## Weight Training
 
 - [Exercise Science blog posts at NASM](https://blog.nasm.org/tag/exercise-science) - explanations of the biometrics and biomechanics of exercise
