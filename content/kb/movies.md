@@ -17,6 +17,7 @@ This is the main list. If I get recommendations, or see a movie I want to watch,
 - The China Syndrome
 - The Hill
 - The Liberator
+- Superman
 
 # Swashbuckling Movies
 
