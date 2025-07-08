@@ -53,12 +53,15 @@ header {
         background: linear-gradient(15deg, $background, rgb(255, 200, 0));
         -webkit-text-fill-color: transparent;
         background-clip: text;
+        text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.15);
         font-size: 3rem;
         font-variant: small-caps;
         margin-bottom: 0;
     }
     p.subtitle {
+        color: $secondary;
         margin-top: 0;
+        font-size: 1.1rem;
         font-style: italic;
     }
 }
