@@ -3,27 +3,27 @@ title = "About"
 description = "About Ben Overmyer"
 +++
 
-# Contact Information
+## Contact Information
 
 You can get in touch with me in a variety of ways. Email is best.
 
-_Email:_ [ben@overmyer.net](mailto:ben@overmyer.net)
+**Email:** [ben@overmyer.net](mailto:ben@overmyer.net)
 
-_Fediverse:_ [@skysong@floss.social](https://floss.social/@skysong)
+**Mastodon:** [@skysong@floss.social](https://floss.social/@skysong)
 
-_LinkedIn:_ [benovermyer](https://www.linkedin.com/in/benovermyer/)
+**LinkedIn:** [benovermyer](https://www.linkedin.com/in/benovermyer/)
 
-# Professional Background
+## Professional Background
 
 I'm a software engineer who loves the web. Not just web technology, mind you; the very idea of the web. Since its inception, it has changed the world. It's my job and my passion to make it better.
 
-I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Currently I live in Wilmington, North Carolina, but that will change soon.
+I've travelled the world, lived abroad, and usually only ever lived in one place for a couple years at a time. Currently I live in St. John's, Newfoundland.
 
 My particular focus in the professional world is automation, observability, and systems architecture. Complex systems and their interactions are amazing things.
 
 I started my professional career as a developer, not a system administrator. Now I'm an engineer specializing in platforms. I love driving innovation, understanding of systems, and reliability. It's a fascinating domain.
 
-# Personal Specifics
+## Personal Specifics
 
 **Politics:** Politics goes [well beyond labels](http://www.the-american-interest.com/2016/02/17/the-seven-habits-of-highly-depolarizing-people/) for the discerning fan of democracy and the human condition. I believe in supporting equality, diversity, and the betterment of humanity. This is done through organization.
 
@@ -39,13 +39,12 @@ I started my professional career as a developer, not a system administrator. Now
 
 **Languages Spoken:**
 
-- English (Native)
-- Japanese (Badly)
-- German (Badly)
-- Spanish (Badly)
-- also learning French, ish
+- English (Native Fluency)
+- Japanese (Rudimentary)
+- German (Basic Conversational)
+- Spanish (Basic Conversational)
 
-# Organizations
+## Organizations
 
 This is a list of organizations I belong to, whether personal or professional.
 
