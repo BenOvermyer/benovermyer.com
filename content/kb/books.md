@@ -21,6 +21,8 @@ I started doing this in 2019, so previous years are not included.
 10. _The Butcher's Masquerade_ by Matt Dinniman
 11. _The Eye of the Bedlam Bride_ by Matt Dinniman
 12. _Wicca: A Guide for the Solitary Practitioner_ by Scott Cunningham
+13. _The Ancient Art of Thinking For Yourself_ by Robin Reames
+14. _Children of Dune_ by Frank Herbert
 
 ## 2024
 
