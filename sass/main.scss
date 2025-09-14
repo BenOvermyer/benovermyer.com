@@ -35,7 +35,13 @@ div.banner {
     height: 13vh;
     z-index: -1;
     background: $paper-dark;
-    mask: conic-gradient(from -45deg at bottom,#0000,#000 1deg 89deg,#0000 90deg) 50%/80px 100%;
+    mask: conic-gradient(
+            from -45deg at bottom,
+            #0000,
+            #000 1deg 89deg,
+            #0000 90deg
+        )
+        50%/80px 100%;
 }
 
 @media (max-width: 600px) {
@@ -59,6 +65,18 @@ h4 {
     font-weight: 300;
 }
 
+h1 {
+    font-size: 2.6rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
 h1:not(:is(header h1))::first-letter {
     color: $accent-color;
     font-size: 2.6rem;
@@ -71,15 +89,15 @@ h2::first-letter {
 }
 
 h2::after {
-  content: "";
-  display: block;
-  width: 12rem;
-  height: 2px;
-  margin: 0.3rem auto 0;
-  background: $accent-color;
-  border-radius: 1px;
-  opacity: 0.4;
-  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+    content: "";
+    display: block;
+    width: 12rem;
+    height: 2px;
+    margin: 0.3rem auto 0;
+    background: $accent-color;
+    border-radius: 1px;
+    opacity: 0.4;
+    clip-path: polygon(50% 0, 100% 100%, 0 100%);
 }
 
 header {
@@ -172,38 +190,38 @@ nav {
 }
 
 ul li:not(:is(nav li)) {
-  list-style: none;
-  position: relative;
-  padding-left: 1.25em;
+    list-style: none;
+    position: relative;
+    padding-left: 1.25em;
 }
 
 ul li:not(:is(nav li))::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.6em;
-  width: 0.45em;
-  height: 0.45em;
-  background: $accent-color;
-  border-radius: 50%;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.6em;
+    width: 0.45em;
+    height: 0.45em;
+    background: $accent-color;
+    border-radius: 50%;
 }
 
 .blog-date {
-  display: inline-block; /* shrink-wrap the background */
-  padding: 0.2em 0.6em;
-  color: $paper; /* text color contrasting the accent */
-  background: linear-gradient(
-    35deg,
-    $accent-color 0%,
-    $accent-color 10%,
-    $paper 80%,
-    $paper 100%
-  );
-  font-weight: 600;
-  font-size: 0.9em;
-  width: 100%;
-  /* Optional for smooth edges */
-  box-decoration-break: clone; 
+    display: inline-block; /* shrink-wrap the background */
+    padding: 0.2em 0.6em;
+    color: $paper; /* text color contrasting the accent */
+    background: linear-gradient(
+        35deg,
+        $accent-color 0%,
+        $accent-color 10%,
+        $paper 80%,
+        $paper 100%
+    );
+    font-weight: 600;
+    font-size: 0.9em;
+    width: 100%;
+    /* Optional for smooth edges */
+    box-decoration-break: clone;
 }
 
 img.artwork {
@@ -252,25 +270,26 @@ div.dress-image {
 }
 
 .spot-leaf {
-  position: relative;
-  margin-left: 0.5rem;
-  width: 2rem;
-  height: 2rem;
-  display: inline-block;
-  content: "";
-  position: absolute;
-  background: $accent-color;
-  clip-path: polygon(
-    0% 27%, 
-    35% 40%, 
-    50% 0%, 
-    65% 40%, 
-    100% 27%, 
-    71% 58%, 
-    76% 75%, 
-    60% 65%, 
-    50% 90%, 
-    40% 65%, 
-    24% 75%, 
-    29% 58%);
+    position: relative;
+    margin-left: 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    display: inline-block;
+    content: "";
+    position: absolute;
+    background: $accent-color;
+    clip-path: polygon(
+        0% 27%,
+        35% 40%,
+        50% 0%,
+        65% 40%,
+        100% 27%,
+        71% 58%,
+        76% 75%,
+        60% 65%,
+        50% 90%,
+        40% 65%,
+        24% 75%,
+        29% 58%
+    );
 }
