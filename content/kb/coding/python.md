@@ -122,3 +122,36 @@ print(my_dict)  # Output: {'name': 'John', 'age': 35, 'city': 'New York'}
 my_dict['occupation'] = 'Engineer'
 print(my_dict)  # Output: {'name': 'John', 'age': 35, 'city': 'New York', 'occupation': 'Engineer'}
 ```
+
+## Tuples
+
+These are immutable. They're good for things like coordinates.
+
+```python
+# Creating a tuple:
+my_tuple = (1, 2, 3)
+
+# Accessing elements:
+print(my_tuple[0])  # Output: 1
+
+# Attempting to modify elements (will raise an error):
+# my_tuple[1] = 10  # TypeError: 'tuple' object does not support item assignment
+
+# Attempting to append elements (will raise an error):
+# my_tuple.append(4)  # AttributeError: 'tuple' object has no attribute 'append'
+```
+
+## List Comprehensions
+
+These are fun ways to create lists based on existing lists.
+
+```python
+# Creating a list comprehension
+old_list = [1, 2, 3]
+new_list = [x * 2 for x in old_list]
+print(new_list)  # Output: [2, 4, 6]
+
+# Creating a list comprehension with conditionals
+even_numbers = [x for x in range(10) if x % 2 == 0]
+print(even_numbers)  # Output: [0, 2, 4, 6, 8]
+```
