@@ -155,3 +155,23 @@ print(new_list)  # Output: [2, 4, 6]
 even_numbers = [x for x in range(10) if x % 2 == 0]
 print(even_numbers)  # Output: [0, 2, 4, 6, 8]
 ```
+
+## N Arguments
+
+When passing multiple arguments to a function, you can use `args` and `kwargs` to pass an indeterminate number.
+
+For example:
+
+```python
+# Example of using args
+def use_positional(*args):
+    print(f"Positional arguments: {args}")
+
+# Output of use_positional(1, 2, 3): "Positional arguments: (1, 2, 3)"
+
+# Example of using kwargs
+def use_keyword(**kwargs):
+    print(f"Keyword arguments: {kwargs})
+
+# Output of use_keyword(name="Bob", age=30): "Keyword arguments: {'name': 'Bob', 'age': 30}"
+```
