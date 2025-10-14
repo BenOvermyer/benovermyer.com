@@ -24,6 +24,7 @@ I started doing this in 2019, so previous years are not included.
 13. _The Ancient Art of Thinking For Yourself_ by Robin Reames
 14. _Children of Dune_ by Frank Herbert
 15. _The Outcast Mage_ by Annabel Campbell
+16. _God Emperor of Dune_ by Frank Herbert
 
 ## 2024
 
