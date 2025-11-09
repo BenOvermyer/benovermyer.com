@@ -3,7 +3,7 @@ title = "Game Design"
 description = "Notes about game design"
 +++
 
-> A game is a series of interesting choices. — _Sid Meier_
+> A game is a series of interesting choices. <span class="quote-author">Sid Meier</span>
 
 To avoid overloading a player with options, present at most 5 options for any given choice, and no more than 5 choices in a row.
 

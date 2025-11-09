@@ -126,6 +126,24 @@ footer {
     font-size: 0.8rem;
 }
 
+blockquote {
+    background: $paper-dark;
+    color: $secondary;
+    padding: 1rem;
+
+    span.quote-author {
+        display: block;
+        font-size: 0.75rem;
+        font-style: italic;
+        width: 90%;
+        text-align: right;
+    }
+
+    span.quote-author::before {
+        content: ": "
+    }
+}
+
 code {
     color: white;
     font-family: monospace;
