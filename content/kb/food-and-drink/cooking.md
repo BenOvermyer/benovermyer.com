@@ -117,3 +117,19 @@ After this, there's a few others.
 - kitchen porter: cleaners, peelers of potatoes, etc.
 - escuelerie: dishwasher
 - aboyeur: servers/waiters
+
+# Common Mistakes Home Chefs Make
+
+Sharpen your knives. By all the gods, sharpen your knives. Daily.
+
+## In Baking
+
+1a) believing the baking times on the recipe. Every oven is different, every time you use that oven is different, etc. Timers are useful for reminding you that you have something in the oven, but beyond that you have to know what done looks/feels like. Probe thermometers are your friend.
+
+1b) believing your oven is the temperature it says it is. It probably isn't. It certainly isn't that temperature everywhere.
+
+1c) Trusting the recipe. Sometimes recipes are wrong about things, even from otherwise solid bakers. Baking intuition takes time to develop, but if something seems wrong, it very well might be. It's okay to throw in an extra handful of flour or a couple tablespoons of water if it seems like you need it.
+
+2) Underkneading and overworking. Can you overknead the bread dough? Probably not. You will melt your muscles or your mixer before that happens. But after the bulk ferment and now it's time to shape? People screw things up here all the time. Do not make it into a shape that you don't want it to stay. Don't make the dough into a ball and then try to roll it out into a pretzel or a baguette. Only touch the dough to make clear, specific progress towards the shape you want.
+
+3) Underbaking things. Home bakers (and particularly Americans) are so terrified of overbaking things that they wildly, tragically underbake them. Some things (brownies, snicker doodles) are best if you just barely bake them, but a lot of things (particularly breads, viennoiserie, some cookies, etc) need to get properly, richly browned. Color is flavor! Raw flour doesn't taste good! Gelatinize your starches, caramelize some sugars, and crisp up that crust, people!s
