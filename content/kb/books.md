@@ -25,6 +25,7 @@ I started doing this in 2019, so previous years are not included.
 14. _Children of Dune_ by Frank Herbert
 15. _The Outcast Mage_ by Annabel Campbell
 16. _God Emperor of Dune_ by Frank Herbert
+17. _Heretics of Dune_ by Frank Herbert
 
 ## 2024
 
