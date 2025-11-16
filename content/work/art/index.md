@@ -120,3 +120,7 @@ This is some of my art. Click on the thumbnail to see the full image.
 ## 2000
 
 {{ thumbnail(path="/work/art/amok71.jpg") }}
+
+## 1999
+
+{{ thumbnail(path="/work/art/still-life.jpg") }}
