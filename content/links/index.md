@@ -14,6 +14,10 @@ This may have once been called a "web directory." What follows is a set of links
 
 # Other Sites, by Category
 
+## Cool Things
+
+- [Neal.fun](https://neal.fun) - lots of interactive experiences that are informative and delightful
+
 ## Fan Sites
 
 - [AmigaSource](https://www.amigasource.com) - a web directory for the Amiga
