@@ -27,6 +27,7 @@ I started doing this in 2019, so previous years are not included.
 16. _God Emperor of Dune_ by Frank Herbert
 17. _Heretics of Dune_ by Frank Herbert
 18. _Chapterhouse: Dune_ by Frank Herbert
+19. _How to Write a Lot_ by Paul J. Silvia, PhD
 
 ## 2024
 
