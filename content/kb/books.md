@@ -28,6 +28,7 @@ I started doing this in 2019, so previous years are not included.
 17. _Heretics of Dune_ by Frank Herbert
 18. _Chapterhouse: Dune_ by Frank Herbert
 19. _How to Write a Lot_ by Paul J. Silvia, PhD
+20. _Compendium of Acrylic Painting Techniques_ by Gill Barron
 
 ## 2024
 
