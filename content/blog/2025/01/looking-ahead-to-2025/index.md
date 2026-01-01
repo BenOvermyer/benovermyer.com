@@ -1,7 +1,7 @@
 +++
 title = "Looking Ahead to 2025"
 date = 2025-01-01
-description = "Looking ahead at what's to come in 2024"
+description = "Looking ahead at what's to come in 2025"
 +++
 
 This is going to be a year of big changes.
