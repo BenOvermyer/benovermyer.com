@@ -44,7 +44,7 @@ While I've been working on this, I also rewrote a couple other generators or oth
 In 2025, I made an effort to migrate away from US-based services. Here's a list of all the changes I made.
 
 - Cloudflare DNS to [Bunny](https://bunny.net) DNS
-- Google Drive, iCloud, and Sync to [Filen](https://filen.io)
+- Google Drive, iCloud, and Sync to [Filen](https://filen.io/r/b3a36ab4aa9333a3e84d902956a3a8a5)
 - AWS to Scaleway
 - Crunchyroll, Hulu, Disney+, Paramount+, and Max just got dropped altogether
 - Replaced Firefox with Vivaldi
